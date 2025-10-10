@@ -4,7 +4,7 @@
 
 #### Overview
 
-The Five Whys is a simple yet powerful problem-solving technique used to identify the root cause of an issue by asking "Why?" five times in succession. Developed by Toyota as part of its Lean manufacturing processes, this method aims to move beyond surface-level symptoms to uncover deeper, underlying problems. Each answer forms the basis of the next "Why?" question, allowing teams to trace the issue step by step until the root cause is found. While it doesn't always require exactly five iterations, the focus is on continuing until a fundamental cause is revealed, leading to more effective and lasting solutions.
+The 5 Whys is a simple yet powerful problem-solving technique used to identify the root cause of an issue by asking "Why?" five times in succession. Developed by Toyota as part of its Lean manufacturing processes, this method aims to move beyond surface-level symptoms to uncover deeper, underlying problems. Each answer forms the basis of the next "Why?" question, allowing teams to trace the issue step by step until the root cause is found. While it doesn't always require exactly five iterations, the focus is on continuing until a fundamental cause is revealed, leading to more effective and lasting solutions.
 
 #### Examples of The Five Whys
 
@@ -66,3 +66,5 @@ _Example 3: Tech Company_
 {% embed url="https://www.lean.org/lexicon-terms/5-whys/" %}
 
 {% embed url="https://www.mindtools.com/a3mi00v/5-whys" %}
+
+{% embed url="https://medium.com/@anushreethatte/questions-for-problems-09516774da44" %}
