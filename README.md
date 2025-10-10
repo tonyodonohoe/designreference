@@ -20,6 +20,8 @@ layout:
 
 ## **Curated knowledge for designers and leaders**
 
+<figure><img src=".gitbook/assets/b-w-graphic-novel_design-manager-with-team2.png" alt=""><figcaption></figcaption></figure>
+
 Product design knowledge base covering [UX Methods](broken-reference), [Cognitive Tools](broken-reference), and [Leadership](broken-reference) that offers insights to equip both practitioners and managers with the tools to navigate challenges and achieve success.
 
 
