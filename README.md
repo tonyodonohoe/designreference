@@ -1,30 +1,27 @@
 ---
+description: Curated knowledge for designers and leaders
 icon: hand-wave
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
-    visible: false
+    visible: true
 ---
 
 # Welcome
 
-## **Curated knowledge for designers and leaders**
-
 <figure><img src=".gitbook/assets/b-w-graphic-novel_design-manager-with-team2.png" alt=""><figcaption></figcaption></figure>
 
 Product design knowledge base covering [UX Methods](broken-reference), [Cognitive Tools](broken-reference), and [Leadership](broken-reference) that offers insights to equip both practitioners and managers with the tools to navigate challenges and achieve success.
-
-
 
 #### **The Collection**
 
