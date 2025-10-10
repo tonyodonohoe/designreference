@@ -31,7 +31,9 @@ Product design knowledge base covering [UX Methods](broken-reference), [Cognitiv
 
 
 
-### Featured UX Methods
+### Featured Content
+
+#### UX Methods
 
 {% content-ref url="ux-methods/discovery/5-whys.md" %}
 [5-whys.md](ux-methods/discovery/5-whys.md)
@@ -47,7 +49,7 @@ Product design knowledge base covering [UX Methods](broken-reference), [Cognitiv
 
 
 
-### Featured Cognitive Tools
+#### Cognitive Tools
 
 {% content-ref url="cognitive-tools/universal/prioritisation/impact-effort-matrix.md" %}
 [impact-effort-matrix.md](cognitive-tools/universal/prioritisation/impact-effort-matrix.md)
@@ -55,7 +57,7 @@ Product design knowledge base covering [UX Methods](broken-reference), [Cognitiv
 
 
 
-### Featured Leadership&#x20;
+#### Featured Leadership&#x20;
 
 {% content-ref url="leadership/leadership-foundations/good-managers.md" %}
 [good-managers.md](leadership/leadership-foundations/good-managers.md)
