@@ -1,0 +1,3 @@
+# Screen Recording Analysis
+
+In user testing, screen recording refers to the practice of capturing the screen activities and interactions of participants during a usability test or user research session. By recording the user's actions, such as mouse movements, clicks, and navigation through the interface, screen recordings provide valuable insights into how users engage with a website, application, or prototype. Researchers can observe and analyse these recordings to understand user behaviour, identify usability issues, and gather feedback for iterative improvements. Screen recordings offer a visual record of the user testing session, enhancing the qualitative analysis and supporting evidence-based design decisions.

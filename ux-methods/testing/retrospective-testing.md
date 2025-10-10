@@ -1,0 +1,3 @@
+# Retrospective Testing
+
+Retrospective testing is a type of software testing that focuses on examining the quality and reliability of previously developed software features or modules. It involves retesting specific functionalities or components to ensure they still function correctly after modifications or additions have been made to the software. The purpose of retrospective testing is to identify and fix any defects or issues that may have been introduced during the development process. By retrospectively testing the system, developers can ensure that changes or updates have not caused unintended regressions or impacted the overall stability of the software.

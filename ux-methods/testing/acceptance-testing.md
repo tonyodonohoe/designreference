@@ -1,0 +1,3 @@
+# Acceptance Testing
+
+Acceptance testing, also known as user acceptance testing (UAT), is the final phase of testing before a product or system is released to users. It involves validating whether the system meets the requirements and expectations set by the end users or stakeholders. During acceptance testing, real users perform tests and provide feedback on the system's functionality, usability, performance, and overall suitability. The goal is to ensure that the system meets user needs, operates as intended, and is ready for deployment. Acceptance testing helps ensure user satisfaction and a successful launch of the product or system.

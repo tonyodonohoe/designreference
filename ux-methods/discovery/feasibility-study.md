@@ -1,0 +1,7 @@
+# Feasibility Study
+
+_AKA Feasability Analysis, Feasibility Report_
+
+A feasibility study, analysis or report is a process of assessing the practicality and viability of a proposed project, idea, or business venture. It involves evaluating various factors such as technical, economic, operational, legal, and scheduling aspects to determine if the project is achievable and worth pursuing. Feasibility analysis examines the potential risks, benefits, costs, and resources required for the project's success. By conducting a feasibility analysis, businesses can make informed decisions, identify potential obstacles or limitations, and evaluate the overall feasibility of the project before committing significant resources. This analysis helps stakeholders assess the viability of their ideas, mitigate risks, and increase the chances of successful project execution.
+
+{% embed url="https://www.simplilearn.com/feasibility-study-article" %}

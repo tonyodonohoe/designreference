@@ -1,0 +1,3 @@
+# Contextual User Interviews
+
+Contextual user interviews are a research method where a researcher engages directly with users in their natural environment or during specific tasks to gather insights about their experiences, needs, and behaviours. These interviews focus on understanding users' perspectives, motivations, and challenges within the context of their real-life situations. By observing users in their own environment and engaging in conversation, researchers gain valuable insights into how users interact with products, services, or processes. Contextual user interviews help uncover user pain points, preferences, and opportunities for improvement, enabling businesses to design and deliver more user-centric solutions.
