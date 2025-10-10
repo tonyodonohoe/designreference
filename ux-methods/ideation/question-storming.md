@@ -14,4 +14,6 @@ Question storming can be used at various stages of the design process, but it is
 
 While question storming is primarily used in the early stages of the design process, it can also be helpful during the testing phase to identify areas for improvement and gather feedback from users. By asking targeted questions, designers can gain insights into how users interact with their product and identify areas where the design may need to be refined.
 
+#### Further Reading
+
 {% embed url="https://www.printmag.com/strategy-process/business-design-school-question-storming/" %}

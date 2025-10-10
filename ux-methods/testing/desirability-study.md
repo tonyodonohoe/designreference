@@ -22,4 +22,6 @@ A common way to run a desirability study is by using a method often referred to 
 * **Informs Branding:** It's a key tool for ensuring a product's design aligns with the company's brand identity and emotional goals.
 * **Helps with Prioritisation:** By understanding what aspects of a design are most desirable, a team can better prioritize improvements and new features that will have the biggest emotional impact.
 
+#### Further Reading
+
 {% embed url="https://medium.com/@neocarl/using-desirability-studies-to-find-a-better-product-market-fit-e463473631c1" %}

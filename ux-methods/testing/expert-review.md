@@ -1,10 +1,12 @@
 # Expert Review
 
+{% hint style="info" %}
+AKA Heuristic Reviews, Heuristic Evaluation, Expert Reviews, Design Audits, UX Audit
+{% endhint %}
+
 Instead of testing with users, experts in usability or design evaluate your prototype against established usability principles and best practices. They provide feedback based on their expertise and experience.
 
 ### **Heuristic Evaluation**
-
-_AKA Heuristic Reviews, Heuristic Evaluation, Expert Reviews, Design Audits, UX Audit_
 
 Heuristic analysis, also known as a heuristic evaluation, is a method used to assess the usability and user experience of a digital product or interface. It involves a systematic review by experts who evaluate the design based on a set of predefined usability principles or heuristics. These heuristics are guidelines that help identify potential usability issues or areas for improvement. The evaluators examine the interface, interactions, and overall user flow to determine how well the design aligns with these principles. Heuristic analysis provides valuable feedback and recommendations for enhancing the user experience, improving usability, and identifying any potential obstacles or challenges that users may encounter while interacting with the product or interface.
 
