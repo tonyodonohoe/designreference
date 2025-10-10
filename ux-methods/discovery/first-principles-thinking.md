@@ -4,6 +4,8 @@ First principles thinking involves breaking down a complex problem into its most
 
 In UX design, first principles thinking is particularly valuable during the discovery phase. By applying this method, designers can challenge assumptions, gain deeper user insights, uncover true needs, and develop innovative solutions that go beyond surface-level requirements.
 
-Learn more about 'First Principles Thinking' on companion site 'Design Manager Hub'.
+Learn more about 'First Principles Thinking' below:
 
-{% embed url="https://designmanagerhub.gitbook.io/designmanagerhub/cognitive-toolkit/first-principles-thinking" %}
+{% content-ref url="../../cognitive-tools/universal/problem-solving/first-principles-thinking.md" %}
+[first-principles-thinking.md](../../cognitive-tools/universal/problem-solving/first-principles-thinking.md)
+{% endcontent-ref %}

@@ -45,6 +45,8 @@ Design Specification
 * **Technical document:** Serves as a blueprint for the design team.
 * **Rigid:** Provides a structured framework to ensure consistency and adherence to standards.
 
+#### Further Reading
+
 {% embed url="https://www.uxpin.com/studio/blog/design-specifications/" %}
 
 {% embed url="https://www.interaction-design.org/literature/topics/design-specifications" %}

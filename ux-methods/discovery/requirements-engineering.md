@@ -10,4 +10,6 @@ Requirements engineering is the framework for working through the whole requirem
 4. Validation: Ensuring the requirements are actually what users and stakeholders want/need, and accurately represent the solution you’re building.
 5. Management: Maintaining and controlling the requirements, especially any changes.
 
+#### Further Reading
+
 {% embed url="https://medium.com/design-bootcamp/a-guide-to-requirements-engineering-572193bd2739" %}

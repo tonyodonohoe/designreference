@@ -8,7 +8,11 @@ To create an empathy map, you typically divide it into four quadrants: "What the
 
 Empathy mapping is crucial because it bridges the gap between design and user needs. It enhances communication within design teams and ensures that the final product aligns with the user's perspective.
 
+#### Further Reading
+
 {% embed url="https://www.mindtools.com/abtn3bi/empathy-mapping" %}
+
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=Tz0dpeqcO60" %}
 

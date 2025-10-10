@@ -18,4 +18,6 @@ Common methods for concept testing include:
 
 By conducting concept testing, businesses can make informed decisions about whether to proceed with product development and identify any areas that need to be improved before launch.
 
+#### Further Reading
+
 {% embed url="https://uxdesign.cc/how-to-persuade-your-team-to-invest-in-user-research-through-loss-aversion-367b03a471d6" %}

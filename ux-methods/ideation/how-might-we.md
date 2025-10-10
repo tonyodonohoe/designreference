@@ -7,6 +7,8 @@
 3. Generate Ideas: Your team can start brainstorming and coming up with lots of ideas to answer the "How might we" question. These ideas can be wild, creative, or practical.
 4. Explore Solutions: You explore these ideas to see which ones have the most potential to solve the problem. Some may be combined or modified to create a final solution.
 
+#### Further Reading
+
 {% embed url="https://www.nngroup.com/articles/how-might-we-questions/" %}
 
 {% embed url="https://dscout.com/people-nerds/how-might-we-statements" %}

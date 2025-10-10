@@ -1,12 +1,12 @@
-# The 5 Whys
+# 5 Whys
 
 <figure><img src="../../.gitbook/assets/the-five-whys (1).png" alt=""><figcaption><p>Image by <a href="https://medium.com/illumination/10-powerful-leadership-tools-that-will-put-you-in-top-gear-a449181a9d47">Gaurav Jain</a></p></figcaption></figure>
 
-### Overview
+#### Overview
 
 The Five Whys is a simple yet powerful problem-solving technique used to identify the root cause of an issue by asking "Why?" five times in succession. Developed by Toyota as part of its Lean manufacturing processes, this method aims to move beyond surface-level symptoms to uncover deeper, underlying problems. Each answer forms the basis of the next "Why?" question, allowing teams to trace the issue step by step until the root cause is found. While it doesn't always require exactly five iterations, the focus is on continuing until a fundamental cause is revealed, leading to more effective and lasting solutions.
 
-### Examples of The Five Whys
+#### Examples of The Five Whys
 
 _Example 1: Toyota_
 
@@ -53,13 +53,13 @@ _Example 3: Tech Company_
   5. Why wasn't the developer trained on coding standards?
      * Because the company's training program was not effective.
 
-### Further Viewing
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=sRr9Zic3_T8" %}
 
 {% embed url="https://www.youtube.com/watch?v=0-tmA22qjCI" %}
 
-### Further Reading
+#### Further Reading
 
 {% embed url="https://tulip.co/glossary/five-whys/" %}
 

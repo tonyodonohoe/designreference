@@ -1,10 +1,10 @@
 # Design Sprint
 
+<figure><img src="../../.gitbook/assets/The-Design-Sprint-Process (1).png" alt=""><figcaption><p>Image from <a href="https://www.thesprintbook.com/the-design-sprint">The Sprint Book</a></p></figcaption></figure>
+
 ### Overview
 
 The main objective of a design sprint is to efficiently create and validate a prototype within a five-day timeframe. By assembling a small team and dedicating a week exclusively to the process, you can swiftly move from identifying the problem to testing a viable solution, following a well-established, systematic checklist. The design sprint methodology, made popular by Google Ventures, involves a series of structured activities that encourage cross-functional collaboration and rapid decision-making.
-
-<figure><img src="../../.gitbook/assets/The-Design-Sprint-Process (1).png" alt=""><figcaption><p>Image from <a href="https://www.thesprintbook.com/the-design-sprint">The Sprint Book</a></p></figcaption></figure>
 
 During a design sprint, the team typically goes through the following key phases across 5 days:
 
@@ -87,13 +87,13 @@ Allow at least 2-3 weeks for preparation before the sprint. This will give you e
 * **Time Management**: Stick closely to the schedule to keep energy levels high and ensure you reach the intended outcomes each day.
 * **Keep Energy High**: Design Sprints can be intensive, so take breaks, keep the atmosphere light, and encourage creativity and flexibility.
 
-### Further Viewing
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=K2vSQPh6MCE" %}
 
 {% embed url="https://www.youtube.com/watch?v=yZigSuvVr28" %}
 
-### Further Reading
+#### Further Reading
 
 {% embed url="http://www.gv.com/sprint/" %}
 

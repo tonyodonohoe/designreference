@@ -1,5 +1,11 @@
 # Prioritisation Matrix
 
-A prioritisation matrix, also called impact-effort or value-effort matrix, helps UX designers assess and prioritise ideas based on their impact and implementation effort. It involves plotting ideas on a matrix to compare and decide which ones to pursue, focusing on high-impact, low-effort options. This tool aids discussions, prioritises features, and maximises the final product's impact.
+{% hint style="info" %}
+AKA Prioritisation Matrix, Value vs Complexity Matrix, Value vs Effort Matrix, Impact vs Effort Matrix
+{% endhint %}
 
-{% embed url="https://www.nngroup.com/articles/prioritization-matrices/" %}
+A prioritisation matrix helps designers assess and prioritise ideas based on their impact and implementation effort. It involves plotting ideas on a matrix to compare and decide which ones to pursue, focusing on high-impact, low-effort options. This tool aids discussions, prioritises features, and maximises the final product's impact.
+
+{% content-ref url="../../cognitive-tools/universal/prioritisation/prioritisation-matrix.md" %}
+[prioritisation-matrix.md](../../cognitive-tools/universal/prioritisation/prioritisation-matrix.md)
+{% endcontent-ref %}
