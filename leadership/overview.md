@@ -30,7 +30,23 @@ At its core, design management and leadership is the practice of nurturing and g
 In short: Team Leadership, Strategic Alignment and Innovation, Process Optimisation and, Product Delivery and Impact.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/b-w-graphic-novel_design-manager-with-team2.png" alt=""><figcaption></figcaption></figure>
+{% columns %}
+{% column %}
+#### Team Leadership
+{% endcolumn %}
+
+{% column %}
+#### Strategic Alignment and Innovation
+{% endcolumn %}
+
+{% column %}
+#### Process Optimisation
+{% endcolumn %}
+
+{% column %}
+#### Product Delivery and Impact
+{% endcolumn %}
+{% endcolumns %}
 
 #### 1. Team
 
