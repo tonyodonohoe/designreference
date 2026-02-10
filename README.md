@@ -1,76 +1,25 @@
----
-description: Curated knowledge for product design practitioners and leaders
-icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
+# Design Reference
+
+**A comprehensive product design knowledge base for designers and managers.**
+
+🔗 **Live Site:** [https://ux.productdesignreference.com/](https://ux.productdesignreference.com/)
+
 ---
 
-# Welcome
+## About the Project
+Design Reference is a curated resource covering **UX Methods, Cognitive Tools, and Leadership**. It is designed to equip product teams with the insights needed to navigate complex challenges and achieve success through better design thinking and management.
 
-<figure><img src=".gitbook/assets/homepage-hero.png" alt=""><figcaption></figcaption></figure>
+This repository serves as the open-source backbone for the project. The content is managed via GitBook and synced here to allow for community transparency and contributions.
 
-Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) that offers insights to equip designers and managers alike with the tools needed to navigate challenges and achieve success.
+## Key Topics
+* **UX Methods:** Research, testing, and execution frameworks.
+* **Cognitive Tools:** Understanding mental models and decision-making.
+* **Leadership:** Managing design teams and scaling product culture.
 
+## How to Contribute
+We welcome community involvement! If you have suggestions, find a typo, or want to contribute a new tool:
+1. Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) guide.
+2. Open an issue or submit a pull request.
 
-
-### **The Collection**
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>UX Methods</h4></td><td>Find the right UX methods for any stage of the product design process. Methods and activities are grouped into three sections: Discovery, Ideation, and Testing, based on an eight-phase process.</td><td><a href="/broken/pages/SwpgiPQlXNHSvAmwxlbx">Broken link</a></td><td><a href=".gitbook/assets/boxtop-methods.png">boxtop-methods.png</a></td></tr><tr><td><h4>Cognitive Tools</h4></td><td>Great minds across all professions have dedicated time to formulating theories, laws, and frameworks to assist others. This area serves as an access point to that expertise relating to product design.</td><td><a href="/broken/pages/aUwXfsEY9cZzjkoff2LX">Broken link</a></td><td><a href=".gitbook/assets/boxtop-cognitive.png">boxtop-cognitive.png</a></td></tr><tr><td><h4>Leadership</h4></td><td>The Leadership section offers insights and materials tailored to equip both new and seasoned design managers and leaders with the tools needed to navigate the specific challenges of design leadership.</td><td><a href="leadership/overview.md">overview.md</a></td><td><a href=".gitbook/assets/boxtop-leadership (1).png">boxtop-leadership (1).png</a></td></tr></tbody></table>
-
-
-
-### Featured Content
-
-
-
-**UX Methods**
-
-{% content-ref url="ux-methods/discovery/5-whys.md" %}
-[5-whys.md](ux-methods/discovery/5-whys.md)
-{% endcontent-ref %}
-
-{% content-ref url="ux-methods/discovery/customer-journey-mapping.md" %}
-[customer-journey-mapping.md](ux-methods/discovery/customer-journey-mapping.md)
-{% endcontent-ref %}
-
-{% content-ref url="ux-methods/testing/usability-testing.md" %}
-[usability-testing.md](ux-methods/testing/usability-testing.md)
-{% endcontent-ref %}
-
-
-
-**Cognitive Tools**
-
-{% content-ref url="cognitive-tools/universal/prioritisation/impact-effort-matrix.md" %}
-[impact-effort-matrix.md](cognitive-tools/universal/prioritisation/impact-effort-matrix.md)
-{% endcontent-ref %}
-
-
-
-**Leadership**
-
-{% content-ref url="leadership/leadership-foundations/good-managers.md" %}
-[good-managers.md](leadership/leadership-foundations/good-managers.md)
-{% endcontent-ref %}
-
-{% content-ref url="leadership/managing-people/performance-management.md" %}
-[performance-management.md](leadership/managing-people/performance-management.md)
-{% endcontent-ref %}
-
-
-
-
-
-_<mark style="color:$info;">Design Reference by</mark>_ [_Tony O'Donohoe_](https://www.tonyodonohoe.com)
+## License
+This project is open-source and available under the [MIT License](./LICENSE).
