@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome](home.md)
 
 ## UX Methods
 
@@ -189,7 +189,7 @@
     * [Reach, Impact, Confidence, and Effort (RICE)](cognitive-tools/universal/prioritisation/reach-impact-confidence-and-effort-rice.md)
     * [ICE Scoring](cognitive-tools/universal/prioritisation/ice-scoring.md)
     * [Pendo Framework](cognitive-tools/universal/prioritisation/pendo-framework.md)
-    * [Prioritisation Matrix](cognitive-tools/universal/prioritisation/impact-effort-matrix.md)
+    * [Prioritisation Matrix](cognitive-tools/universal/prioritisation/prioritisation-matrix.md)
     * [The Kano Model](cognitive-tools/universal/prioritisation/the-kano-model.md)
     * [Decision Matrix](cognitive-tools/universal/prioritisation/decision-matrix.md)
     * [MoSCoW Method](cognitive-tools/universal/prioritisation/moscow.md)
