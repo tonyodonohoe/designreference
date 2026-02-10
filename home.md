@@ -21,7 +21,7 @@ layout:
 
 <figure><img src=".gitbook/assets/homepage-hero.png" alt=""><figcaption></figcaption></figure>
 
-Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) that offers insights to equip designers and managers alike with the tools needed to navigate challenges and achieve success.
+Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) offering insights to equip both designers and managers with the tools needed to navigate challenges and achieve success.
 
 
 
