@@ -1,6 +1,14 @@
 # Card Sorting
 
-Card sorting is a research technique used to understand how users organise and categorise information. It involves participants sorting a set of cards or items into groups based on their perceived similarities or relationships. Participants may also provide labels or names for the groups they create. Card sorting helps designers and researchers gain insights into users' mental models, information hierarchy, and navigation preferences. It aids in information architecture design, content organisation, and menu structure. By conducting card sorting sessions, organisations can uncover patterns in how users perceive and group information, informing the design of intuitive and user-friendly interfaces. Card sorting can be conducted through physical cards or online tools, and the results are analysed to inform the structure and layout of digital products, websites, or applications.
+Card sorting is a research technique used to understand how users organise and categorise information.&#x20;
+
+It involves participants sorting a set of cards or items into groups based on their perceived similarities or relationships. Participants may also provide labels or names for the groups they create.&#x20;
+
+Card sorting helps designers and researchers gain insights into user mental models, information hierarchy, and navigation preferences. It aids in information architecture design, content organisation, and menu structure.&#x20;
+
+By conducting card sorting sessions, organisations can uncover patterns in how users perceive and group information, informing the design of intuitive and user-friendly interfaces.&#x20;
+
+Card sorting can be conducted through physical cards or online tools, and the results are analysed to inform the structure and layout of digital products, websites, or applications.
 
 #### Further Reading
 

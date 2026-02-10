@@ -57,7 +57,11 @@ In the 'Analyse' phase, data and research findings should be scrutinised. Patter
 4. **Identify opportunities**: Highlight areas for innovation or improvement based on unmet user needs.
 5. **Prioritise insights**: Rank findings by impact on user experience and feasibility to guide the next stages.
 
+#### Further Viewing
+
 {% embed url="https://www.youtube.com/watch?v=5bzYyxVGgnM" %}
+
+#### Further Reading
 
 {% embed url="https://uxdesign.cc/how-to-help-your-team-navigate-product-discovery-and-work-with-executives-4823789977f1" %}
 
