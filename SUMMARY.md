@@ -344,5 +344,5 @@
 
 ## AI
 
-* [AI Pulse](ai/ai-pulse.md)
+* [AI](ai/ai-pulse.md)
 * [For Deletion](ai/for-deletion.md)
