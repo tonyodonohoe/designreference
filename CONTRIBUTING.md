@@ -1,5 +1,5 @@
 Contributing to Design Reference
-Thank you for your interest in improving Design Reference! We welcome contributions that help make this knowledge base more valuable for the product design community.
+Thank you for your interest in improving Design Reference! We welcome contributions that help make this knowledge base more valuable for the product design community .
 
 How to Contribute
 
