@@ -71,4 +71,6 @@ Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvA
 
 
 
-DesignReference.xyz by [Tony O'Donohoe](https://www.tonyodonohoe.com/)
+
+
+_DesignReference.xyz by_ [_Tony O'Donohoe_](https://www.tonyodonohoe.com/)
