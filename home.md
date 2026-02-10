@@ -69,8 +69,3 @@ Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvA
 [performance-management.md](leadership/managing-people/performance-management.md)
 {% endcontent-ref %}
 
-
-
-
-
-_<mark style="color:$info;">Design Reference by</mark>_ [_Tony O'Donohoe_](https://www.tonyodonohoe.com)
