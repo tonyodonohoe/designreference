@@ -27,26 +27,11 @@ The Leadership section offers insights and materials tailored to equip both new 
 At its core, design management and leadership is the practice of nurturing and guiding teams to thrive, driving innovation and aligning design efforts with strategic goals, streamlining processes for efficiency, and delivering impactful products while continuously measuring and refining their success.&#x20;
 
 {% hint style="info" %}
-In short: Team Leadership, Strategic Alignment and Innovation, Process Optimisation and, Product Delivery and Impact.
+* Team Leadership
+* Strategic Alignment and Innovation
+* Process Optimisation
+* Product Delivery and Impact
 {% endhint %}
-
-{% columns %}
-{% column %}
-#### Team Leadership
-{% endcolumn %}
-
-{% column %}
-#### Strategic Alignment and Innovation
-{% endcolumn %}
-
-{% column %}
-#### Process Optimisation
-{% endcolumn %}
-
-{% column %}
-#### Product Delivery and Impact
-{% endcolumn %}
-{% endcolumns %}
 
 #### 1. Team
 
