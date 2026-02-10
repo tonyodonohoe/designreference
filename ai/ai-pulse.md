@@ -2,6 +2,7 @@
 description: >-
   Watercooler style insights on the AI tools setting the industry standard and
   what they're being used for. Frequently updated.
+hidden: true
 icon: sparkles
 layout:
   width: default
