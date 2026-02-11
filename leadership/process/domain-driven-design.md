@@ -1,5 +1,7 @@
 # Domain Driven Design
 
+<figure><img src="../../.gitbook/assets/Domain-Driven-Design.png" alt=""><figcaption><p>Image by <a href="https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10">Anders Gill</a></p></figcaption></figure>
+
 Domain-Driven Design is not a specific technology or a library. It is a philosophy and a way of working that ensures your software reflects the real-world business problems it is trying to solve.
 
 In traditional software development, things often get "lost in translation" between business experts, designers, and developers. DDD provides a framework to bridge that gap, making sure everyone is building the same thing.
@@ -72,6 +74,12 @@ Once the strategy is set, developers use specific patterns to implement the mode
 
 {% embed url="https://martinfowler.com/tags/domain%20driven%20design.html" %}
 
+{% embed url="https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10" %}
+
 #### Further Viewing
 
+{% embed url="https://www.youtube.com/watch?v=o-ym035R1eY" %}
+
 {% embed url="https://www.youtube.com/watch?v=kIKwPNKXaLU" %}
+
+{% embed url="https://www.youtube.com/watch?v=pMuiVlnGqjk" %}
