@@ -20,4 +20,16 @@ By conducting concept testing, businesses can make informed decisions about whet
 
 #### Further Reading
 
+{% embed url="https://maze.co/guides/concept-testing/" %}
+
 {% embed url="https://uxdesign.cc/how-to-persuade-your-team-to-invest-in-user-research-through-loss-aversion-367b03a471d6" %}
+
+{% embed url="https://www.qualtrics.com/articles/strategy-research/how-concept-test/" %}
+
+{% embed url="https://www.surveymonkey.com/learn/market-research/concept-testing/" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=AljETmpvb3k" %}
+
+{% embed url="https://www.youtube.com/watch?v=NSYr9PI7VBQ" %}
