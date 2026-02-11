@@ -26,6 +26,7 @@
   * [Ethnographic Study](ux-methods/discovery/ethnographic-study.md)
   * [Expert Review](ux-methods/discovery/expert-review.md)
   * [Feasibility Study](ux-methods/discovery/feasibility-study.md)
+  * [Free-listing](ux-methods/discovery/free-listing.md)
   * [Field Studies](ux-methods/discovery/field-studies.md)
   * [First Principles Thinking](ux-methods/discovery/first-principles-thinking.md)
   * [Focus Groups](ux-methods/discovery/focus-groups.md)
