@@ -39,6 +39,10 @@ If you say you are doing a Contextual Interview, you might spend the whole time 
 
 Would you like me to put together a set of interview questions tailored for a specific environment you are planning to visit?
 
+#### Further Reading
+
+{% embed url="https://www.interaction-design.org/literature/topics/contextual-interviews?srsltid=AfmBOorIVPoAX6_rxL-o5dBzdBEghcQHEmb_JHO5GwBYWsew_8ywFGt3" %}
+
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=3Vt2eFCu6uU" %}
