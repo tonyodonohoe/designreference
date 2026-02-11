@@ -1,6 +1,12 @@
 # Personas
 
-User personas are fictional representations of target users or customer segments based on research and data. They are created to embody the characteristics, needs, goals, and behaviours of specific user groups. User personas are typically developed through qualitative and quantitative research, including interviews, surveys, and user data analysis. They provide a concise and relatable snapshot of the typical users, including demographic information, motivations, pain points, and preferences. User personas help designers and stakeholders gain a deeper understanding of their target audience, enabling them to make informed design decisions and create user-centred experiences. Personas serve as a reference tool throughout the design process, helping teams empathise with users, prioritise features, and evaluate design solutions from a user's perspective. By designing with user personas in mind, organisations can create products and services that resonate with their target users, leading to increased user satisfaction and engagement.
+User personas are fictional representations of target users or customer segments based on research and data.&#x20;
+
+They are created to embody the characteristics, needs, goals, and behaviours of specific user groups. User personas are typically developed through qualitative and quantitative research, including interviews, surveys, and user data analysis. They provide a concise and relatable snapshot of the typical users, including demographic information, motivations, pain points, and preferences.&#x20;
+
+User personas help designers and stakeholders gain a deeper understanding of their target audience, enabling them to make informed design decisions and create user-centred experiences. Personas serve as a reference tool throughout the design process, helping teams empathise with users, prioritise features, and evaluate design solutions from a user's perspective.&#x20;
+
+By designing with user personas in mind, organisations can create products and services that resonate with their target users, leading to increased user satisfaction and engagement.
 
 #### Further Reading
 

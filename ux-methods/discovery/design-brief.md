@@ -6,23 +6,21 @@ By creating a well-defined design brief, product design teams can ensure that th
 
 #### Key Components of a Design Brief
 
-
-
 1. **Project Overview**
    * **Project Name:** A clear and concise title.
    * **Project Goal:** The overall purpose or desired outcome of the product.
-   * **Target Audience:** The specific group of people the product is designed for.<br>
+   * **Target Audience:** The specific group of people the product is designed for.
 2. **Problem Statement**
    * **Pain Points:** The specific issues or challenges the product aims to address.
-   * **User Needs:** The unmet needs or desires of the target audience.<br>
+   * **User Needs:** The unmet needs or desires of the target audience.
 3. **Design Objectives**
    * **Functional Requirements:** The specific features or capabilities the product must have.
    * **Aesthetic Requirements:** The desired look and feel of the product, including visual style and branding.
-   * **Usability Requirements:** How easy and intuitive the product should be to use.<br>
+   * **Usability Requirements:** How easy and intuitive the product should be to use.
 4. **Constraints**
    * **Budget:** The financial limitations for the project.
    * **Timeline:** The deadline for completing the project.
-   * **Technical Constraints:** Any limitations imposed by technology or existing systems.<br>
+   * **Technical Constraints:** Any limitations imposed by technology or existing systems.
 5. **Success Metrics**
    * **Key Performance Indicators (KPIs):** The metrics that will be used to measure the success of the product.
    * **Goals:** The specific targets to be achieved for each KPI.
