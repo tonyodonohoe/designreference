@@ -16,7 +16,7 @@
   * [Competitor Analysis](ux-methods/discovery/competitor-analysis.md)
   * [Concept Testing](ux-methods/discovery/concept-testing.md)
   * [Content Inventory](ux-methods/discovery/content-inventory.md)
-  * [Context Mapping \*](ux-methods/discovery/context-mapping.md)
+  * [Context Mapping](ux-methods/discovery/context-mapping.md)
   * [Contextual Inquiry](ux-methods/discovery/contextual-inquiry.md)
   * [Contextual User Interviews](ux-methods/discovery/contextual-user-interviews.md)
   * [Customer Journey Mapping](ux-methods/discovery/customer-journey-mapping.md)
