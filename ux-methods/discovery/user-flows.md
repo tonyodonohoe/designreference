@@ -12,6 +12,10 @@ They help designers and stakeholders understand the logical progression of user 
 
 They assist in designing intuitive and seamless experiences, ensuring that users can accomplish their goals efficiently and effectively. User flows serve as a valuable communication and documentation tool, facilitating collaboration among designers, developers, and stakeholders throughout the design process.
 
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=dsviXwJwslI" %}
+
 #### Further Reading
 
 {% embed url="https://www.nngroup.com/articles/user-journeys-vs-user-flows/" %}

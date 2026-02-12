@@ -42,7 +42,6 @@
   * [Requirements Workshops](ux-methods/discovery/requirements-workshops.md)
   * [Stakeholder Interviews](ux-methods/discovery/stakeholder-interviews.md)
   * [Surveys](ux-methods/discovery/surveys.md)
-  * [User Experience Mapping](ux-methods/discovery/user-experience-mapping.md)
   * [User Flows](ux-methods/discovery/user-flows.md)
   * [User Interviews](ux-methods/discovery/user-interviews.md)
   * [User Mental Models](ux-methods/discovery/user-mental-models.md)
