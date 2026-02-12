@@ -10,6 +10,10 @@ AKA The Law of Conservation of Complexity
 
 Tesler's Law states that for any system there is a certain amount of complexity which cannot be reduced. Tesler's Law suggests that in software design, complexity is constant. This means that no matter what you do, you can't eliminate complexity entirely. Instead, you can choose where you want that complexity to be. If you simplify the user interface, the complexity may shift to the back-end, and vice versa. The key is to make sure that the complexity is managed and not unnecessarily burdensome for the user.
 
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=mOaAFBlfTdg" %}
+
 #### Further Reading
 
 {% embed url="https://lawsofux.com/teslers-law/" %}
