@@ -1,5 +1,11 @@
 # Stakeholder Meetings
 
+Read more about Stakeholder Interviews on our page here:
+
+{% content-ref url="../../ux-methods/discovery/stakeholder-interviews.md" %}
+[stakeholder-interviews.md](../../ux-methods/discovery/stakeholder-interviews.md)
+{% endcontent-ref %}
+
 Stakeholder review meetings are gatherings where individuals with a vested interest in a project or business activity come together to discuss its progress, challenges, and future direction. These individuals, known as stakeholders, can include employees, clients, investors, partners, or even community members.&#x20;
 
 By effectively conducting stakeholder review meetings, organisations can improve project outcomes, enhance collaboration, and build stronger relationships with their stakeholders.

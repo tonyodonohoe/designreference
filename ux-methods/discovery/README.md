@@ -47,6 +47,10 @@ In the 'Analyse' phase, data and research findings should be scrutinised. Patter
 
 {% embed url="https://www.youtube.com/watch?v=5bzYyxVGgnM" %}
 
+{% embed url="https://www.youtube.com/watch?v=dhN5kVelcso" %}
+
+
+
 #### Further Reading
 
 {% embed url="https://uxdesign.cc/how-to-help-your-team-navigate-product-discovery-and-work-with-executives-4823789977f1" %}

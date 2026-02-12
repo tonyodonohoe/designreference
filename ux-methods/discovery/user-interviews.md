@@ -12,4 +12,8 @@ User interviews help uncover valuable insights that inform the design process, i
 
 #### Further Viewing
 
+{% embed url="https://www.youtube.com/watch?v=yBYd5USasXg" %}
+
+{% embed url="https://www.youtube.com/watch?v=1bionYPAPhg" %}
+
 {% embed url="https://www.youtube.com/watch?v=vWlXNS-3Ct8" %}

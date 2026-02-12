@@ -348,6 +348,7 @@
 * [Design Roles](insights/design-roles.md)
 * [Insightful Articles](insights/insightful-articles.md)
 * [Research Foundations](insights/research-foundations.md)
+* [Vocabulary Inflation](insights/vocabulary-inflation.md)
 
 ## AI
 
