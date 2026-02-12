@@ -333,9 +333,9 @@
 
 ## Resources
 
-* [Articles](resources/articles.md)
-* [Books](resources/books.md)
 * [Education](resources/education.md)
+* [Articles](resources/articles.md)
+* [Leadership Books](resources/books.md)
 * [AI Pulse](resources/ai-pulse.md)
 * [Conferences](resources/conferences.md)
 * [Education](resources/education-1.md)
