@@ -1,6 +1,10 @@
 # Use Cases
 
-It is easy to confuse user stories with user scenarios or use cases but the three are different. See the article from Smart Gamma below to find out more about their differences. Use cases are descriptions that illustrate how a system, product, or service can be utilised to achieve specific goals or fulfil certain requirements. They outline the interactions between actors (users or systems) and the system itself, showcasing the intended functionality or behaviour. Use cases typically consist of a series of steps or actions, highlighting the sequence of events and the expected outcomes. They serve as a means to understand and communicate the intended usage of the system from the user's perspective. Use cases help identify system requirements, validate design decisions, and ensure that the system meets the needs and expectations of its users. They provide a clear and structured way to capture and document user interactions, guiding the development process and facilitating effective communication among stakeholders, designers, and developers.
+It is easy to confuse user stories with user scenarios or use cases but the three are different. See the article from Smart Gamma below to find out more about their differences. Use cases are descriptions that illustrate how a system, product, or service can be utilised to achieve specific goals or fulfil certain requirements.&#x20;
+
+They outline the interactions between actors (users or systems) and the system itself, showcasing the intended functionality or behaviour. Use cases typically consist of a series of steps or actions, highlighting the sequence of events and the expected outcomes. They serve as a means to understand and communicate the intended usage of the system from the user's perspective. Use cases help identify system requirements, validate design decisions, and ensure that the system meets the needs and expectations of its users.&#x20;
+
+They provide a clear and structured way to capture and document user interactions, guiding the development process and facilitating effective communication among stakeholders, designers, and developers.
 
 #### Further Reading
 
