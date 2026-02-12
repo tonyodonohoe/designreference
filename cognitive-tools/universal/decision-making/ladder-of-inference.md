@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Ladder of Inference
 
 <figure><img src="../../../.gitbook/assets/ladder_of_inference_data_analytics.png" alt=""><figcaption><p>Image by <a href="https://www.holistics.io/blog/ladder-of-inference-communicating-analytics/">Holistics</a></p></figcaption></figure>

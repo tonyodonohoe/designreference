@@ -4,23 +4,9 @@ description: >-
   what they're being used for. Frequently updated.
 hidden: true
 icon: sparkles
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
-# AI Pulse
+# AI
 
 **ChatGPT**
 

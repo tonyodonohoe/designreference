@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Iceberg Model
 
 The Iceberg Model represents a conceptual framework, often employed in systems thinking, communication theory, and organisational analysis, that illustrates how observable events constitute only a small fraction of a larger, interconnected reality. The metaphor is derived from a physical iceberg, where a substantial majority of its mass remains hidden below the waterline, much like the root causes of systemic issues.

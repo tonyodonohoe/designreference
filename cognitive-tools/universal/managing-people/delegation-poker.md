@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Delegation Poker
 
 <figure><img src="../../../.gitbook/assets/delegation-poker.png" alt=""><figcaption></figcaption></figure>

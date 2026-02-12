@@ -2,7 +2,7 @@
 
 A design specification is a detailed document outlining the precise requirements and constraints for a design project. It serves as a blueprint, providing a clear and structured framework for designers to follow.
 
-Key elements of a design specification typically include:
+#### Key Elements
 
 * **Purpose:** A clear statement of the design's intended function or goal.
 * **Scope:** The boundaries of the design, including what is and is not included.
@@ -14,7 +14,7 @@ Key elements of a design specification typically include:
 * **Timeline:** A schedule outlining key milestones and deadlines.
 * **Approval process:** The procedures for reviewing and approving design decisions.
 
-Design specifications are essential for:
+#### Why?
 
 * **Ensuring consistency:** They help maintain a unified vision throughout the design process.
 * **Managing expectations:** They clarify what can and cannot be achieved.
@@ -23,11 +23,13 @@ Design specifications are essential for:
 
 Design specifications are typically used during the ideation stage of a design project. Design specifications act as a bridge between the initial concept and the final product, ensuring that the design remains aligned with the project's objectives throughout the development process.
 
-Here's a breakdown of how they fit into the design process:
+#### When?
 
 * **Discovery:** This stage involves understanding the problem, gathering research, and defining the project goals. Design specifications are not yet finalized as they often depend on insights gained during discovery.
 * **Ideation:** Once the problem and goals are clear, design specifications start to take shape. They guide the creative process by outlining the specific requirements and constraints that the design must meet.
 * **Testing:** Design specifications are used as a reference point during testing to ensure that the final product meets the defined criteria. Any deviations from the specifications can be identified and addressed.
+
+#### Design Specification vs Design Brief
 
 A design specification is not the same as a design brief. A design brief is like a roadmap, while a design specification is like a set of blueprints. The brief provides the overall direction, while the specification details the exact steps to follow.
 

@@ -1,19 +1,5 @@
 ---
 icon: brain-circuit
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Overview

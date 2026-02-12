@@ -3,20 +3,6 @@ description: >-
   Watercooler style insights on the AI tools setting the industry standard and
   what they're being used for. Frequently updated.
 hidden: true
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # AI Pulse

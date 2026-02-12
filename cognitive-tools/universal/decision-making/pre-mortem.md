@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Pre-Mortem
 
 <figure><img src="../../../.gitbook/assets/pre-mortem.png" alt=""><figcaption><p>Image by <a href="https://www.antmurphy.me/newsletter/2023/4/13/pre-mortems">Ant Murphy</a></p></figcaption></figure>

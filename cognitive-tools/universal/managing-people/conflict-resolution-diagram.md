@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Conflict Resolution Diagram
 
 <figure><img src="../../../.gitbook/assets/Conflict-resolution-diagram-Employee-s-conflict.png" alt=""><figcaption><p>Image by <a href="https://www.researchgate.net/">ResearchGate</a></p></figcaption></figure>

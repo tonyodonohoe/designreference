@@ -3,20 +3,6 @@ description: >-
   "An idea can turn to dust or magic, depending on the talent that rubs against
   it." - Bill Bernbach
 icon: lightbulb
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
 ---
 
 # Ideation

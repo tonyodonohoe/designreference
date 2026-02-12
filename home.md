@@ -1,20 +1,6 @@
 ---
 description: Curated knowledge for product design practitioners and leaders
 icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Welcome
@@ -68,6 +54,8 @@ Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvA
 {% content-ref url="leadership/managing-people/performance-management.md" %}
 [performance-management.md](leadership/managing-people/performance-management.md)
 {% endcontent-ref %}
+
+
 
 
 

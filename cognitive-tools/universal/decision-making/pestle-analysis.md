@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # PESTLE Analysis
 
 <figure><img src="../../../.gitbook/assets/PESTEL-Analysis.png" alt=""><figcaption><p>Image by <a href="https://www.linkedin.com/pulse/pestle-analysis-saleh-zeer-k7mxf/">Saleh Zeer</a></p></figcaption></figure>

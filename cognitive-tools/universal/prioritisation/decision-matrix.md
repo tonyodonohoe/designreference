@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Decision Matrix
 
 <figure><img src="../../../.gitbook/assets/decision-matrix.jpg" alt=""><figcaption><p>Image by <a href="https://www.designorate.com/decision-matrix-decision-making/">Designorate</a></p></figcaption></figure>

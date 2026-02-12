@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Six Thinking Hats
 
 <figure><img src="../../../.gitbook/assets/six-thinking-hats.png" alt="" width="563"><figcaption><p>Image by <a href="https://mycoachingtoolkit.com/how-to-use-the-bono-six-thinking-hats-technique-in-your-coaching-practice/">My Coaching Toolkit</a></p></figcaption></figure>

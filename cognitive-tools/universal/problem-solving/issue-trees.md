@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Issue Trees
 
 <figure><img src="../../../.gitbook/assets/Issue-Trees.png" alt=""><figcaption><p>Image by <a href="https://www.myconsultingoffer.org/case-study-interview-prep/issue-tree/">My Consulting Offer</a></p></figcaption></figure>

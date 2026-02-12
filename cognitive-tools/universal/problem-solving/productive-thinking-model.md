@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Productive Thinking Model
 
 <figure><img src="../../../.gitbook/assets/productive-thinking-model-ptm-tim-hurson-toolshero.jpg" alt=""><figcaption><p>Image by <a href="https://www.toolshero.com/problem-solving/productive-thinking-model/">toolshero</a></p></figcaption></figure>

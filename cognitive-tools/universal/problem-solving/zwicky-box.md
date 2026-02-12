@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # Zwicky Box
 
 <figure><img src="../../../.gitbook/assets/ZwickyBox.png" alt=""><figcaption><p>Image by <a href="https://blog.mindantix.com/2015/11/thinking-outside-the-zwicky-box/">Mindantix</a></p></figcaption></figure>
