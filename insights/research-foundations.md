@@ -45,9 +45,9 @@ Product designers should consult the end user of the product as often as possibl
 
 {% embed url="https://makeiterate.com/design-cycle-an-iterative-design-thinking-model/" %}
 
-To find the right UX methods for discovery, ideation, and testing, alongside other useful product design resources check out the sister site to Design Manager Hub, [Product Design Reference](https://ux.productdesignreference.com/).
+To find the right UX methods for Discovery, Ideation, and Testing, check out the UX Methods section of this site.
 
-{% embed url="https://ux.productdesignreference.com/" %}
+{% embed url="https://www.designreference.xyz/" %}
 
 {% embed url="https://medium.com/@manjaridesigner/types-of-ux-research-methods-1306322bf2ff" %}
 
@@ -108,21 +108,25 @@ Summative research and testing are closely related but not exactly the same thin
 
 {% embed url="https://uxdesign.cc/user-research-and-ux-research-any-difference-1dd1bb2043" %}
 
-### Attitudinal vs. Behavioral
+#### Attitudinal vs. Behavioural
 
-Attitudinal research gathers self-reported data from participants by asking questions about their thoughts, feelings, and opinions about a product or service whereas behavioral research involves directly observing user interactions with a product, providing data on user behavior.
+Attitudinal research gathers self-reported data from participants by asking questions about their thoughts, feelings, and opinions about a product or service whereas behavioural research involves directly observing user interactions with a product, providing data on user behaviour.
 
 {% embed url="https://www.nngroup.com/articles/attitudinal-behavioral/" %}
 
+{% embed url="https://www.youtube.com/watch?v=IR9zDLxBWKE" %}
+
 ***
 
-### Quantitative vs. Qualitative
+#### Quantitative vs. Qualitative
 
 Quantitative research relies on numerical data and statistical analysis, while qualitative research focuses on non-numerical data such as interviews, observations, and open-ended responses.
 
 {% embed url="https://uxplanet.org/quantitative-vs-qualitative-ux-research-methods-strengths-and-weaknesses-4d4e524e985f" %}
 
-### Empirical Validation
+{% embed url="https://www.youtube.com/watch?v=o9Pycl9aodI" %}
+
+#### Empirical Validation
 
 "Empirical" and "Empirical Validation" are often terms used in research. "Empirical" basically means "based on real-world evidence." When we talk about "empirical validity," we're checking if something is true by looking at real-world data. This is different from "logical validity," which is about whether something makes sense in theory.
 
@@ -145,12 +149,18 @@ Key Difference
 
 So, while logical reasoning can help us think critically, empirical research gives us the concrete evidence we need to understand the world around us.
 
-### Considerations
+#### Considerations
 
-#### During user testing, good design often goes unacknowledged
+**During user testing, good design often goes unacknowledged**
 
 > "User test participants will be vocal when things are not as expected. However, good design often goes unacknowledged in testing. Consider a design that meets participants' needs and expresses their understanding of the brand. This design will feel right, and it will flow beautifully. Test participants will simply get on with using it, feeling no need to comment." – Smashing UX Design, Chapter 1, Page 14
 
-### Further Reading
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=0MLwuhpwRiE" %}
+
+{% embed url="https://www.youtube.com/watch?v=QmTUJekkSis" %}
+
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/ux-research-37618142" %}

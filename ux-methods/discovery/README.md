@@ -10,7 +10,7 @@ icon: magnifying-glass
 <figure><img src="../../.gitbook/assets/Discovery.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Use the expanded 'Discovery' menu to browse methods for the discovery phase
+Use the 'Discovery' menu to browse methods for the discovery phase
 {% endhint %}
 
 #### Define

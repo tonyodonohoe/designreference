@@ -9,3 +9,5 @@ Wireframing is a crucial step in UX design, where low-fidelity visual representa
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=miVcrftnhzM" %}
+
+{% embed url="https://www.youtube.com/watch?v=GaVGu_8CdHY" %}

@@ -11,7 +11,7 @@ icon: bullseye-arrow
 <figure><img src="../../.gitbook/assets/Testing.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Use the expanded 'Testing' menu to browse methods for the testing phase
+Use the 'Testing' menu to browse methods for the testing phase
 {% endhint %}
 
 ### Test

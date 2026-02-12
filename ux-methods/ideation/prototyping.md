@@ -9,3 +9,7 @@ Prototyping is a vital step in UX design, enabling the creation of interactive m
 {% embed url="https://www.youtube.com/watch?v=ouqNCmUlnWg" %}
 
 {% embed url="https://www.youtube.com/watch?v=miVcrftnhzM" %}
+
+{% embed url="https://www.youtube.com/watch?v=Sh_688UMYHE" %}
+
+{% embed url="https://www.youtube.com/watch?v=GaVGu_8CdHY" %}

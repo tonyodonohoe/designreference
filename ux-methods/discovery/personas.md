@@ -24,6 +24,8 @@ By designing with user personas in mind, organisations can create products and s
 
 #### Further Viewing
 
+{% embed url="https://www.youtube.com/watch?v=rv9yfrV-EAs" %}
+
 {% embed url="https://www.youtube.com/watch?v=khLWLtxmMGM" %}
 
 {% embed url="https://www.youtube.com/watch?v=xamf6hpD5nw" %}
@@ -39,3 +41,5 @@ By designing with user personas in mind, organisations can create products and s
 {% embed url="https://www.youtube.com/watch?v=fal4Wylyt3M" %}
 
 {% embed url="https://www.youtube.com/watch?v=rIwoweiC3n4" %}
+
+{% embed url="https://www.youtube.com/watch?v=eOFDzos5fqc" %}

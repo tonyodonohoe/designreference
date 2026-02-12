@@ -1,10 +1,16 @@
 # Problem Statements
 
 {% hint style="info" %}
-AKA User Need Statements, Needs Statements, Point-of-View Statements
+AKA User Need Statements, Needs Statements, Point-of-View Statements, PoV Statements, How Might We Statements
 {% endhint %}
 
-Problem statements are concise descriptions that highlight a specific issue, challenge, or opportunity that needs to be addressed.&#x20;
+There is also a separate page for How Might We Statements here:
+
+{% content-ref url="../ideation/how-might-we.md" %}
+[how-might-we.md](../ideation/how-might-we.md)
+{% endcontent-ref %}
+
+Problem statements are concise descriptions that highlight a specific issue, challenge, or opportunity that needs to be addressed.
 
 They provide a clear and focused articulation of the problem to be solved or the goal to be achieved. Problem statements typically define the gap between the current state and the desired state, emphasising the impact or significance of the problem. They help teams and stakeholders understand the problem's context, scope, and implications.&#x20;
 
@@ -27,3 +33,7 @@ By formulating problem statements, organisations can align efforts, prioritise i
 {% embed url="https://medium.com/nextuxdesign/how-to-define-users-needs-statement-ff5ee945fed9" %}
 
 {% embed url="https://www.uxpin.com/studio/blog/problem-statement/" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=kT0ZqwdPYRM" %}

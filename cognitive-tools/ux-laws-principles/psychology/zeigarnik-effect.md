@@ -4,7 +4,17 @@ description: People remember uncompleted or interrupted tasks better than comple
 
 # Zeigarnik Effect
 
-The Zeigarnik Effect basically says that we tend to remember uncompleted or interrupted tasks better than completed ones. It's like when you're watching a TV show, and they end it with a cliffhanger; you can't stop thinking about what happens next. This happens because our brains find it easier to remember things that are left unfinished, creating a kind of mental tension that encourages us to complete those tasks. It's a bit like having a mental to-do list that keeps nagging at you until you finish what you started.
+The Zeigarnik Effect basically says that we tend to remember uncompleted or interrupted tasks better than completed ones.&#x20;
+
+It's like when you're watching a TV show, and they end it with a cliffhanger; you can't stop thinking about what happens next. This happens because our brains find it easier to remember things that are left unfinished, creating a kind of mental tension that encourages us to complete those tasks.&#x20;
+
+It's a bit like having a mental to-do list that keeps nagging at you until you finish what you started.
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=c5MeMyjxxhA" %}
+
+#### Further Reading
 
 {% embed url="https://lawsofux.com/zeigarnik-effect/" %}
 

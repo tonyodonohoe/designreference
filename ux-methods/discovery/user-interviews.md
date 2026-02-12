@@ -9,3 +9,7 @@ User interviews help uncover valuable insights that inform the design process, i
 #### Further Reading
 
 {% embed url="https://www.nngroup.com/articles/user-interviews/" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=vWlXNS-3Ct8" %}

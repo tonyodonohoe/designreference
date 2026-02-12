@@ -73,3 +73,7 @@ When users are forced to expend too much mental energy on a digital product, the
 #### The Golden Rule
 
 Always strive to design systems that are invisible. The user should be focused on achieving their goal, not on figuring out your interface.
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=OgwlV-vQNYk" %}

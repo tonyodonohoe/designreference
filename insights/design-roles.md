@@ -75,6 +75,6 @@ The rise of remote work has given employees more flexibility, allowing teams to 
 
 Cross-functional teams bring together members from different departments - such as design, engineering, product, and marketing - to collaborate on projects. This approach fosters innovation, reduces silos, and ensures that different perspectives are considered throughout the product development process.
 
-{% content-ref url="../process/cross-functional-teams.md" %}
-[cross-functional-teams.md](../process/cross-functional-teams.md)
+{% content-ref url="../leadership/process/cross-functional-teams.md" %}
+[cross-functional-teams.md](../leadership/process/cross-functional-teams.md)
 {% endcontent-ref %}

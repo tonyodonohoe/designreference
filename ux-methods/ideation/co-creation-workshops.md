@@ -23,3 +23,7 @@ This approach ensures that the final product truly reflects the needs and behavi
 {% embed url="https://www.interaction-design.org/literature/topics/co-creation?srsltid=AfmBOooOxTxfjdyy8dKKDuCxxKCQi4AhNGst4xpmhssYGZKpQTzLcRXv" %}
 
 {% embed url="https://innerview.co/glossaries/user-research/co-creation-workshop" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=amE1nGiW-jU" %}

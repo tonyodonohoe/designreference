@@ -113,6 +113,8 @@ Choosing the right tool depends on the budget, scale, and specific goals of the 
 
 {% embed url="https://www.youtube.com/watch?v=bo1j0kDY-Yo" %}
 
+{% embed url="https://www.youtube.com/watch?v=DHHGhI2rTvQ" %}
+
 #### Further Reading
 
 {% embed url="https://uxplanet.org/usability-testing-the-complete-guide-e162898f68db" %}

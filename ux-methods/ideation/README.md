@@ -10,7 +10,7 @@ icon: lightbulb
 <figure><img src="../../.gitbook/assets/Ideation.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Use the expanded 'Ideation' menu to browse methods for the ideation phase
+Use the 'Ideation' menu to browse methods for the ideation phase
 {% endhint %}
 
 ### Ideate
@@ -24,6 +24,8 @@ The 'Ideate' phase encourages creativity and brainstorming. Generate a wide rang
 5. Narrow down concepts: Select the most promising ideas that align with user needs and project goals.
 
 {% embed url="https://medium.com/design-bootcamp/44-workshop-activities-to-ideate-with-your-product-team-7e03f68ceef0" %}
+
+{% embed url="https://www.youtube.com/watch?v=eqGTGFSDnRQ" %}
 
 ### Prototype
 

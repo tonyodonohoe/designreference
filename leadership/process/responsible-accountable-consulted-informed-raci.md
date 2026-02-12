@@ -39,6 +39,10 @@ _Planning and executing a company event scenario._
 * **Reduced Risk:** Minimises the risk of errors and omissions.
 * **Enhanced Teamwork:** Fosters collaboration and cooperation among team members.
 
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=Ha94lrFUIUU" %}
+
 #### Further Reading
 
 {% embed url="https://www.teamgantt.com/blog/raci-chart-definition-tips-and-example" %}

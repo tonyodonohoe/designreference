@@ -2,13 +2,13 @@
 
 <figure><img src="../../.gitbook/assets/design-thinking.png" alt=""><figcaption><p>Image by <a href="https://www.interaction-design.org/literature/topics/design-thinking">Interaction Design Foundation</a></p></figcaption></figure>
 
-Also widely known as Human-Centered Design, Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. It is most useful to tackle ill-defined or unknown problems and involves five phases: Empathise, Define, Ideate, Prototype and Test.
+Also widely known as Human-Cantered Design, Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions to prototype and test. It is most useful to tackle ill-defined or unknown problems and involves five phases: Empathise, Define, Ideate, Prototype and Test.
 
 Design thinking provides a holistic framework for addressing complex problems by putting the user at the center of the design process. It complements and enhances other design approaches by fostering innovation, empathy, and a focus on human needs.
 
-#### Design Thinking: A Human-Centered Approach
+#### Design Thinking: A Human-Cantered Approach
 
-Design thinking is a creative problem-solving methodology centered around understanding user needs and developing innovative solutions. It emphasizes empathy, experimentation, and iteration. The process is typically broken down into five phases:
+Design thinking is a creative problem-solving methodology cantered around understanding user needs and developing innovative solutions. It emphasizes empathy, experimentation, and iteration. The process is typically broken down into five phases:
 
 1. **Empathise**: Immerse yourself in the user's world to gain deep insights into their needs, motivations, and pain points.
 2. **Define**: Synthesise your research findings to identify the core problem you want to solve.
@@ -27,10 +27,10 @@ Design thinking differs from other approaches in a few key ways:
 
 #### Comparing Design Thinking to Lean UX and Agile Design/UX
 
-* Lean UX: Focuses on building minimum viable products (MVPs) to quickly test assumptions and gather user feedback. Design thinking can be integrated into Lean UX to enhance the user-centered aspect of the process.
-* Agile Design/UX: Emphasises iterative development and collaboration between designers and developers. Design thinking can be used to inform the user-centered design principles within Agile frameworks.
+* Lean UX: Focuses on building minimum viable products (MVPs) to quickly test assumptions and gather user feedback. Design thinking can be integrated into Lean UX to enhance the user-cantered aspect of the process.
+* Agile Design/UX: Emphasises iterative development and collaboration between designers and developers. Design thinking can be used to inform the user-cantered design principles within Agile frameworks.
 
-#### Notable Articles
+#### Further Reading
 
 {% embed url="https://www.mural.co/blog/design-thinking" %}
 
@@ -44,6 +44,32 @@ Design thinking differs from other approaches in a few key ways:
 
 {% embed url="https://uxdesign.cc/whats-the-point-of-ai-without-design-and-systems-thinking-7f9a2eb8a1c9" %}
 
-#### Further Reading
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=6lmvCqvmjfE" %}
+
+{% embed url="https://www.youtube.com/watch?v=LJBavFyEl1g" %}
+
+{% embed url="https://www.youtube.com/watch?v=n397Pv46Ouk" %}
+
+{% embed url="https://www.youtube.com/watch?v=X2rnND3iCRk" %}
+
+{% embed url="https://www.youtube.com/watch?v=bS9xhDrVBME" %}
+
+{% embed url="https://www.youtube.com/watch?v=ZNaQ04pj5PE" %}
+
+{% embed url="https://www.youtube.com/watch?v=crYhss_k8w4" %}
+
+{% embed url="https://www.youtube.com/watch?v=GFbx6-GaagM" %}
+
+{% embed url="https://www.youtube.com/watch?v=kT0ZqwdPYRM" %}
+
+{% embed url="https://www.youtube.com/watch?v=iNlwe6p8Obs" %}
+
+{% embed url="https://www.youtube.com/watch?v=dRZ7yPPeOvA" %}
+
+
+
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/design-thinking-dt-49357722" %}

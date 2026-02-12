@@ -289,7 +289,7 @@
     * [Funnel Analysis](leadership/strategy/customer-insights/funnel-analysis.md)
     * [Jobs-to-be-Done (JTBD)](leadership/strategy/customer-insights/jobs-to-be-done-jtbd.md)
     * [Net Promoter Score (NPS)](leadership/strategy/customer-insights/net-promoter-score-nps.md)
-    * [User Journey Mapping](leadership/strategy/customer-insights/user-journey-mapping.md)
+    * [Customer Journey Mapping](leadership/strategy/customer-insights/user-journey-mapping.md)
   * [Market Analysis](leadership/strategy/market-analysis/README.md)
     * [6 Forces](leadership/strategy/market-analysis/6-forces.md)
     * [Customer Acquisition Cost (CAC)](leadership/strategy/market-analysis/customer-acquisition-cost-cac.md)
@@ -298,6 +298,7 @@
     * [Product-Market Fit (PMF)](leadership/strategy/market-analysis/product-market-fit-pmf.md)
   * [Organisational Alignment](leadership/strategy/organisational-alignment/README.md)
     * [Balanced Scorecard](leadership/strategy/organisational-alignment/balanced-scorecard.md)
+    * [Design Ops](leadership/strategy/organisational-alignment/design-ops.md)
     * [McKinsey 7S](leadership/strategy/organisational-alignment/mckinsey-7s.md)
     * [Org Design](leadership/strategy/organisational-alignment/org-design.md)
     * [Weisbord's 6 Box Model](leadership/strategy/organisational-alignment/weisbords-6-box-model.md)
@@ -327,10 +328,6 @@
   * [Six Sigma](leadership/process/six-sigma.md)
   * [Waterfall](leadership/process/waterfall.md)
   * [Work Breakdown Structure (WBS)](leadership/process/work-breakdown-structure-wbs.md)
-* [Insights](leadership/insights/README.md)
-  * [Design Roles](leadership/insights/design-roles.md)
-  * [Insightful Articles](leadership/insights/insightful-articles.md)
-  * [Research Foundations](leadership/insights/research-foundations.md)
 
 ## Resources
 
@@ -345,6 +342,12 @@
 * [Software](resources/software.md)
 * [Templates](resources/templates.md)
 * [Video Hub](resources/video-hub.md)
+
+## Insights
+
+* [Design Roles](insights/design-roles.md)
+* [Insightful Articles](insights/insightful-articles.md)
+* [Research Foundations](insights/research-foundations.md)
 
 ## AI
 

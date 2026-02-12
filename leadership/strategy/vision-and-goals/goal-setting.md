@@ -288,6 +288,8 @@ Legendary venture capitalist John Doerr reveals how the goal-setting system of O
 
 {% embed url="https://www.youtube.com/watch?v=3j_2DvyBhNY" %}
 
+{% embed url="https://www.youtube.com/watch?v=e6C_N1uwa58" %}
+
 ### Further Reading
 
 #### General Goal Setting Articles
