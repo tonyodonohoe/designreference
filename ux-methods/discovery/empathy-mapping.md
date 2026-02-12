@@ -19,3 +19,5 @@ Empathy mapping is crucial because it bridges the gap between design and user ne
 {% embed url="https://www.youtube.com/watch?v=9HwpR3Njq00" %}
 
 {% embed url="https://www.youtube.com/watch?v=ZtFgXMBtNcY" %}
+
+{% embed url="https://www.youtube.com/watch?v=2YpC3R1zNdA" %}

@@ -317,7 +317,13 @@ Communication and Collaboration Tools:
 * Slack: A popular team communication platform that enables real-time messaging, file sharing, and integration with other tools.
 * Microsoft Teams: A versatile collaboration tool that offers features like chat, video conferencing, and file sharing.
 
-## Notable Articles
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=JpzGbPtQ_l4" %}
+
+{% embed url="https://www.youtube.com/watch?v=XLvx-hCmKPk" %}
+
+#### Further Reading
 
 {% embed url="https://scrumguides.org/scrum-guide.html" %}
 
@@ -333,6 +339,6 @@ Communication and Collaboration Tools:
 
 {% embed url="https://davidavpereira.medium.com/agile-is-dead-so-what-why-you-shouldnt-fall-prey-to-agile-dogma-1e7e9fbef5a3" %}
 
-## Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/agile-49332436" %}

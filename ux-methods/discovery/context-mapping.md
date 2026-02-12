@@ -9,3 +9,7 @@ For instance, if designing a mobile app for commuters, context mapping would inv
 {% embed url="https://www.interaction-design.org/literature/topics/context-mapping?srsltid=AfmBOooGH5daxlH8dEelJfrexv8BDb58j5bbPdYIhmsR9RZJDOiKazYO" %}
 
 {% embed url="https://koos.agency/blog/power-context-mapping/" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=2YpC3R1zNdA" %}

@@ -27,6 +27,8 @@ The 'Ideate' phase encourages creativity and brainstorming. Generate a wide rang
 
 {% embed url="https://www.youtube.com/watch?v=eqGTGFSDnRQ" %}
 
+{% embed url="https://www.youtube.com/watch?v=k3q0Zry7H2o" %}
+
 ### Prototype
 
 Once you have a set of promising ideas, it's time to create prototypes. Prototypes are preliminary versions of your design that allow you to test and validate concepts. These can range from low-fidelity sketches to high-fidelity interactive mock-ups. Prototyping helps you visualise your ideas and gather feedback before committing to a final design.

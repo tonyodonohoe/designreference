@@ -15,3 +15,7 @@ This UX Planet article by Denys Sergushkin highlights eight essential websites f
 #### [UX FAQs by Yichen He](https://www.notion.so/UX-FAQs-3cbed70a2ce244208394a852af79996f)
 
 This Notion document is an extensive FAQ guide created for aspiring and new UX designers. It provides structured answers to common industry questions, covering everything from foundational design principles and documentation strategies to career advice for breaking into the field. It serves as a comprehensive knowledge base for anyone seeking clarity on the practical and professional aspects of a career in user experience.
+
+#### [US Lessons I Wished I Learned Early](https://www.youtube.com/watch?v=WrW148tqKXw)
+
+In this video, the Nielsen Norman Group encourages new UX designers to prioritise incremental progress over the pursuit of perfection. Advice focuses on balancing user needs with practical business goals and highlights why being an effective, credible collaborator is often more impactful than simply having the right answer.

@@ -65,6 +65,8 @@ The resultant four quadrants provide clear guidance for prioritization. Initiati
 
 #### Further Viewing
 
+{% embed url="https://www.youtube.com/watch?v=ZneQHo9Xddk" %}
+
 {% embed url="https://www.youtube.com/watch?v=0ApOz3CRBwY" %}
 
 {% embed url="https://www.youtube.com/watch?v=wjQRFnT3Xdg" %}

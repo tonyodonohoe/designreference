@@ -14,6 +14,8 @@ The final map serves as a shared guide for everyone in an organisation, ensuring
 
 {% embed url="https://www.youtube.com/watch?v=f1geF7kdZNo" %}
 
+{% embed url="https://www.youtube.com/watch?v=2YpC3R1zNdA" %}
+
 #### Further Reading
 
 {% embed url="https://blog.uxtweak.com/experience-map/" %}

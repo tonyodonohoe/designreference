@@ -17,3 +17,11 @@ While question storming is primarily used in the early stages of the design proc
 #### Further Reading
 
 {% embed url="https://www.printmag.com/strategy-process/business-design-school-question-storming/" %}
+
+{% embed url="https://medium.com/@jasmea/the-power-of-question-storming-7f2f19c4fceb" %}
+
+{% embed url="https://samaquillano.kit.com/posts/business-design-school-006-question-storming" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=Vka6yo1WL8w" %}

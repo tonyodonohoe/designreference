@@ -48,6 +48,8 @@ Design thinking differs from other approaches in a few key ways:
 
 {% embed url="https://www.youtube.com/watch?v=6lmvCqvmjfE" %}
 
+{% embed url="https://www.youtube.com/watch?v=sN_g8FnziLw" %}
+
 {% embed url="https://www.youtube.com/watch?v=LJBavFyEl1g" %}
 
 {% embed url="https://www.youtube.com/watch?v=n397Pv46Ouk" %}

@@ -35,3 +35,5 @@ By creating journey maps, businesses gain valuable insights into the customer's 
 {% embed url="https://www.youtube.com/watch?v=dsviXwJwslI" %}
 
 {% embed url="https://www.youtube.com/watch?v=QH4xa4xNKNg" %}
+
+{% embed url="https://www.youtube.com/watch?v=2YpC3R1zNdA" %}

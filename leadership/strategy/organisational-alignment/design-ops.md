@@ -22,6 +22,8 @@ By implementing Design Ops, leadership can better measure the effectiveness of t
 
 #### Further Viewing
 
+{% embed url="https://www.youtube.com/watch?v=I-z1NCbQQ38" %}
+
 {% embed url="https://www.youtube.com/watch?v=eCpcUwPIUtM" %}
 
 {% embed url="https://www.youtube.com/watch?v=NgWb6Ej4mJQ" %}
@@ -31,3 +33,5 @@ By implementing Design Ops, leadership can better measure the effectiveness of t
 {% embed url="https://www.youtube.com/watch?v=WQSwo5T324c" %}
 
 {% embed url="https://www.youtube.com/watch?v=G0DA69pCRwI" %}
+
+{% embed url="https://www.youtube.com/watch?v=nMRuPG2egSE" %}
