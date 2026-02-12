@@ -1,12 +1,10 @@
 # Performance Reviews
 
-### Overview
-
 The Performance Review meeting is an essential tool for design managers to evaluate and discuss team members' achievements, challenges, development opportunities, and future goals. This meeting is not just a performance check-in; it's a structured opportunity for growth, recognition, and realignment.
 
 Performance Review meetings are invaluable touchpoints to build trust, align on expectations, and support each team member's career journey. A well-prepared and thoughtfully delivered performance review can inspire and motivate your team, fostering a strong culture of growth and achievement.
 
-### Objectives
+#### Objectives
 
 * Review and assess performance against previously set objectives (e.g., OKRs, SMART goals).
 * Provide constructive feedback and celebrate successes.
@@ -14,7 +12,7 @@ Performance Review meetings are invaluable touchpoints to build trust, align on 
 * Set or adjust goals to align with team and organisational priorities.
 * Strengthen the manager-team member relationship through open and honest dialogue.
 
-### Preparation
+#### Preparation
 
 _For Managers_
 
@@ -31,7 +29,7 @@ _For Team Members_
   * Skills they'd like to build next
   * Any feedback for you as a manager
 
-### Meeting Structure
+#### Meeting Structure
 
 A typical Performance Review meeting can be broken down into four stages:
 
@@ -44,20 +42,20 @@ A typical Performance Review meeting can be broken down into four stages:
 * **Goal Setting and Wrap-Up** (5–10 minutes)\
   Set or adjust performance goals, ensuring they are ambitious yet achievable. Summarise key points from the discussion and ensure both you and the team member are aligned on next steps.
 
-### Tips
+#### Tips
 
 * **Be Specific and Evidence-Based**: Use data, examples, and concrete outcomes to support your feedback.
 * **Encourage Self-Reflection**: Start by asking the team member to self-assess. This fosters a growth mindset and allows them to voice any concerns or goals first.
 * **Maintain a Growth Focus**: Frame the discussion around growth, not just evaluation. Even constructive feedback should feel like an opportunity for improvement rather than criticism.
 * **Follow-Up with a Summary**: Send a summary email or document highlighting key discussion points, goals, and any agreed-upon next steps. This reinforces accountability and provides a reference for future meetings.
 
-### Post-Meeting Action Items
+#### Post-Meeting Action Items
 
 * **Track Progress**: Regularly check in on the goals and development areas identified during the review. Use shorter, informal check-ins to ensure progress and address any challenges.
 * **Update Records**: Document the meeting outcomes, goals, and feedback in any performance tracking systems or files as required by the organisation.
 * **Encourage Ongoing Dialogue**: Let your team member know that feedback isn’t limited to reviews; they should feel comfortable discussing their development at any time.
 
-### Cadence
+#### Cadence
 
 Performance Review meetings typically occur at set intervals to ensure consistent feedback and alignment. In most organisations, these meetings happen either biannually or annually, though some design managers also hold quarterly check-ins as part of a more frequent performance management rhythm.
 

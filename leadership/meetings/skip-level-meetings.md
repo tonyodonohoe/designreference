@@ -1,8 +1,8 @@
 # Skip-level Meetings
 
-### Overview
+A skip-level meeting is a one-on-one meeting between an employee and their manager's manager, without the middle manager present. This type of meeting provides a unique opportunity for open communication and feedback between employees and senior leadership.&#x20;
 
-A skip-level meeting is a one-on-one meeting between an employee and their manager's manager, without the middle manager present. This type of meeting provides a unique opportunity for open communication and feedback between employees and senior leadership. Skip-level meetings can be a valuable tool for improving communication, fostering employee engagement, and driving organisational success.
+Skip-level meetings can be a valuable tool for improving communication, fostering employee engagement, and driving organisational success.
 
 They allow employees to:
 
@@ -16,7 +16,7 @@ For senior leaders, skip-level meetings offer several benefits, including:
 * **Identifying potential talent:** Skip-level meetings can help identify high-potential employees who may be ready for greater responsibility.
 * **Improving employee morale and engagement:** By taking the time to meet with employees, senior leaders can show that they value their input and are invested in their success.
 
-### Further Reading
+#### Further Reading
 
 {% embed url="https://reclaim.ai/blog/skip-level-meeting" %}
 

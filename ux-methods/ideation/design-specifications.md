@@ -52,3 +52,7 @@ Design Specification
 {% embed url="https://www.uxpin.com/studio/blog/design-specifications/" %}
 
 {% embed url="https://www.interaction-design.org/literature/topics/design-specifications" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=cNvo54t66l8" %}

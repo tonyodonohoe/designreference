@@ -1,6 +1,6 @@
 # One-on-Ones
 
-### What Is a One-on-One?
+#### What Is a One-on-One?
 
 * A regular, private meeting between two individuals, usually a manager and a direct report, with a flexible format that typically includes open dialogue between both parties.
 * One-on-one meetings can also take place between peers or people from different teams and companies but these would typically be less frequent than those between a manager and report.
@@ -13,7 +13,7 @@
 * Opportunity for managers to improve their leadership by providing a space to identify issues with their management style early, resolve problems and implement changes safely.
 * One-on-ones are probably one of the most important aspects of management to get right. Kevin Sheridan says in his article "[The Top 3 Reasons Employees Quit](https://www.linkedin.com/pulse/top-three-reasons-employees-quit-kevin-sheridan/)", that one of the top three reasons why employees quit is due to their "relationship with their supervisor" and in particular because their supervisor does "not regularly meet with their direct reports to discuss career development, learning, and promotion opportunities." In fact, 17% of those surveyed gave this reason for their resignation.
 
-### Agenda Items
+#### Agenda Items
 
 ***
 
@@ -98,7 +98,7 @@ A roundup of the meeting, recap on key points and creation (and agreement) on a 
 
 ***
 
-### Example Questions
+#### Example Questions
 
 <details>
 
@@ -255,7 +255,7 @@ A roundup of the meeting, recap on key points and creation (and agreement) on a 
 
 More [one-on-one questions from Hypercontext](https://hypercontext.com/blog/meetings/121-questions-for-one-on-one-meetings).
 
-### FAQs
+#### FAQs
 
 **Is it okay to discuss tasks, prioritisation and projects?**
 
@@ -275,11 +275,11 @@ However, the correct way to write both names is with hyphens: one-on-one or one-
 
 Many articles and books argue against giving feedback in one-on-one meetings, but the answer is more nuanced. A better response might be 'It depends.' The appropriateness of providing feedback in a one-on-one setting depends on the nature of the feedback, the relationship, and the context. While some feedback is best delivered in real-time or in a group setting, other types may be more effectively communicated in private during a one-on-one meeting. For example, feedback related to constructive criticism or performance issues, sensitive personal feedback, career development and progression, emotional or behavioural concerns, and positive but personalised feedback is often better handled privately.
 
-### Further Viewing
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=LWz57CpcSnE" %}
 
-### Notable Articles
+#### Further Reading
 
 {% embed url="https://blog.novatools.org/2-essential-frameworks-for-effective-one-on-one-meetings-c989fa8bf8fd" %}
 
@@ -287,6 +287,6 @@ Many articles and books argue against giving feedback in one-on-one meetings, bu
 
 {% embed url="https://maryamtaheri.medium.com/the-only-1-1-template-you-need-773b30e3307a" %}
 
-### Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/1-1-meetings-47121711" %}

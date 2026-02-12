@@ -22,54 +22,6 @@ Elizabeth's 2023 article "[Meetings \*are\* the work](https://medium.com/@ElizAy
 
 {% embed url="https://betterhumans.pub/the-10-most-common-types-of-work-meetings-and-how-to-run-them-well-709ca4f61ce8" %}
 
-{% content-ref url="one-on-ones.md" %}
-[one-on-ones.md](one-on-ones.md)
-{% endcontent-ref %}
-
-{% content-ref url="agile-meetings.md" %}
-[agile-meetings.md](agile-meetings.md)
-{% endcontent-ref %}
-
-{% content-ref url="design-critiques.md" %}
-[design-critiques.md](design-critiques.md)
-{% endcontent-ref %}
-
-{% content-ref url="stakeholder-meetings.md" %}
-[stakeholder-meetings.md](stakeholder-meetings.md)
-{% endcontent-ref %}
-
-{% content-ref url="retrospectives.md" %}
-[retrospectives.md](retrospectives.md)
-{% endcontent-ref %}
-
-{% content-ref url="workshops.md" %}
-[workshops.md](workshops.md)
-{% endcontent-ref %}
-
-{% content-ref url="performance-reviews.md" %}
-[performance-reviews.md](performance-reviews.md)
-{% endcontent-ref %}
-
-{% content-ref url="all-hands.md" %}
-[all-hands.md](all-hands.md)
-{% endcontent-ref %}
-
-{% content-ref url="skip-level-meetings.md" %}
-[skip-level-meetings.md](skip-level-meetings.md)
-{% endcontent-ref %}
-
-{% content-ref url="pip-meetings.md" %}
-[pip-meetings.md](pip-meetings.md)
-{% endcontent-ref %}
-
-{% content-ref url="exit-interviews.md" %}
-[exit-interviews.md](exit-interviews.md)
-{% endcontent-ref %}
-
-{% content-ref url="public-speaking.md" %}
-[public-speaking.md](public-speaking.md)
-{% endcontent-ref %}
-
 ### Further Reading
 
 {% embed url="https://raindrop.io/TonyODonohoe/meetings-47121760" %}
