@@ -1,13 +1,43 @@
 # Prototype Testing
 
-Prototype testing involves creating early, simplified versions of a product or interface to gather user feedback. These prototypes are not the final product but serve as a tangible representation for testing. It helps designers understand how users interact with the design and identify potential issues or improvements before investing in full development. During prototype testing, designers observe and gather user reactions, preferences, and pain points. Users can interact with the prototype, providing valuable insights on usability and functionality. This iterative process allows for quick adjustments and refinements based on user input. Prototype testing aids in refining the user experience, ensuring the final product aligns with user expectations and needs. It saves time and resources by identifying and addressing problems early in the design phase, ultimately resulting in a more user-friendly and effective end product.
+<figure><img src="../../.gitbook/assets/Prototype-Testing.png" alt=""><figcaption><p>Image by <a href="https://martha-eierdanz.com/">Martha Eierdanz</a></p></figcaption></figure>
+
+Prototype testing is the practice of sharing a preliminary version of a design with real people to see how they interact with it before the final product is built. By using a simplified model, such as a clickable series of screens or a paper mockup, you can observe where users get stuck or confused. This method allows you to identify flaws in the navigation or layout early on, which is much cheaper and faster than trying to fix those same issues once the software has been fully coded.
+
+During a testing session, you typically give a participant a specific task to complete while you watch and listen to their feedback. The focus is not on whether the user is "correct" but on whether the design is intuitive enough to guide them to their goal. These insights help the team understand if the current direction is working or if they need to rethink certain features. It is a vital step for refining the user experience because it replaces assumptions with actual evidence of human behaviour.
+
+Ultimately, prototype testing reduces the risk of launching a product that fails to meet user needs. It creates a feedback loop where you can quickly make changes, test them again, and ensure the final result is polished and effective. This process gives the entire team more confidence that the design will succeed in the real world because it has already been proven to work in a controlled setting.
 
 #### Further Reading
 
+{% embed url="https://www.interaction-design.org/literature/article/test-your-prototypes-how-to-gather-feedback-and-maximise-learning?srsltid=AfmBOoqHzmvlnM5Pc-rcObnlfiYgHed9Z8Mrm0U_5eyl2kDdXxiWgm7m" %}
+
+{% embed url="https://www.optimalworkshop.com/product/prototype-testing" %}
+
 {% embed url="https://www.uxpin.com/studio/blog/prototype-testing/" %}
+
+{% embed url="https://www.geeksforgeeks.org/software-testing/prototpye-testing-in-software-testing/" %}
+
+{% embed url="https://blog.uxtweak.com/prototype-testing/" %}
+
+{% embed url="https://help.usertesting.com/hc/en-us/articles/11880432111133-What-is-prototype-testing" %}
+
+{% embed url="https://trymata.com/blog/what-is-prototype-testing/" %}
+
+{% embed url="https://maze.co/guides/prototype-testing/" %}
+
+{% embed url="https://www.mockplus.com/learn/prototype/prototype-testing" %}
 
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=yh3GcHkbZcw" %}
 
 {% embed url="https://www.youtube.com/watch?v=ouqNCmUlnWg" %}
+
+{% embed url="https://www.youtube.com/watch?v=VeRCOCrntQU" %}
+
+{% embed url="https://www.youtube.com/watch?v=yafaGNFu8Eg" %}
+
+{% embed url="https://www.youtube.com/watch?v=1ZvPhQt9wKE" %}
+
+{% embed url="https://www.youtube.com/watch?v=0VRCtguXc2E" %}
