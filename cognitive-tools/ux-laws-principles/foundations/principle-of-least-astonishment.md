@@ -4,7 +4,11 @@ description: A system's behaviour should be consistent and predictable to the us
 
 # Principle of Least Astonishment
 
-The Principle of Least Astonishment (POLA) in UX design emphasises that the behaviour and appearance of a user interface should not surprise or confuse users. It means that when people interact with a system, they should find it intuitive and in line with their expectations. Avoiding unexpected or unconventional design choices helps users feel comfortable and confident when using a product, ultimately enhancing their overall experience.
+The Principle of Least Astonishment (POLA) in UX design emphasises that the behaviour and appearance of a user interface should not surprise or confuse users.&#x20;
+
+It means that when people interact with a system, they should find it intuitive and in line with their expectations.&#x20;
+
+Avoiding unexpected or unconventional design choices helps users feel comfortable and confident when using a product, ultimately enhancing their overall experience.
 
 #### Further Reading
 

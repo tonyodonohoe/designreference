@@ -14,7 +14,7 @@ Jakob Nielsen's [10 general principles for interaction design](https://www.nngro
 6. Recognition Rather than Recall
 7. Flexibility and Efficiency of Use
 8. Aesthetic and Minimalist Design
-9. Help Users Recognize, Diagnose, and Recover from Errors
+9. Help Users Recognise, Diagnose, and Recover from Errors
 10. Help and Documentation
 
 #### Further Reading

@@ -6,7 +6,11 @@ description: >-
 
 # Hick's Law
 
-Hick's Law is a psychological principle that states the more choices or options you have, the longer it takes to make a decision. It suggests that as the number of choices increases, the time it takes to decide also increases. So, if you're presented with many alternatives, it might take you longer to make a choice because your brain needs more time to process and evaluate each option. This concept is often used to emphasise the importance of simplicity and minimising choices in design and decision-making to improve efficiency.
+Hick's Law is a psychological principle that states the more choices or options you have, the longer it takes to make a decision.&#x20;
+
+It suggests that as the number of choices increases, the time it takes to decide also increases. So, if you're presented with many alternatives, it might take you longer to make a choice because your brain needs more time to process and evaluate each option.&#x20;
+
+This concept is often used to emphasise the importance of simplicity and minimising choices in design and decision-making to improve efficiency.
 
 #### Further Viewing
 

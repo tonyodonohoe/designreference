@@ -8,7 +8,11 @@ description: Every system has a degree of complexity that cannot be reduced, onl
 AKA The Law of Conservation of Complexity
 {% endhint %}
 
-Tesler's Law states that for any system there is a certain amount of complexity which cannot be reduced. Tesler's Law suggests that in software design, complexity is constant. This means that no matter what you do, you can't eliminate complexity entirely. Instead, you can choose where you want that complexity to be. If you simplify the user interface, the complexity may shift to the back-end, and vice versa. The key is to make sure that the complexity is managed and not unnecessarily burdensome for the user.
+Tesler's Law states that for any system there is a certain amount of complexity which cannot be reduced.&#x20;
+
+Tesler's Law suggests that in software design, complexity is constant. This means that no matter what you do, you can't eliminate complexity entirely. Instead, you can choose where you want that complexity to be. If you simplify the user interface, the complexity may shift to the back-end, and vice versa.&#x20;
+
+The key is to make sure that the complexity is managed and not unnecessarily burdensome for the user.
 
 #### Further Viewing
 

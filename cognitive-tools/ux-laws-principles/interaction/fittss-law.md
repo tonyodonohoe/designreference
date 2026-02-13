@@ -6,7 +6,11 @@ description: >-
 
 # Fitts's Law
 
-Fitts's Law, named after psychologist Paul Fitts, is a principle that describes the relationship between the time it takes to move to a target and the size of the target. It suggests that the time it takes to point or click on something depends on two main factors. The distance to the target: If a target is farther away, it will generally take more time to reach it. And, the size of the target: Larger targets are easier to click or point at and usually take less time. Fitts's Law helps designers understand how to create user interfaces that make it easier and faster for people to interact with digital devices by considering the size and placement of clickable elements.
+Fitts's Law, named after psychologist Paul Fitts, is a principle that describes the relationship between the time it takes to move to a target and the size of the target.&#x20;
+
+It suggests that the time it takes to point or click on something depends on two main factors. The distance to the target: If a target is farther away, it will generally take more time to reach it. And, the size of the target: Larger targets are easier to click or point at and usually take less time.&#x20;
+
+Fitts's Law helps designers understand how to create user interfaces that make it easier and faster for people to interact with digital devices by considering the size and placement of clickable elements.
 
 #### Further Viewing
 

@@ -6,11 +6,17 @@ description: >-
 
 # Miller's Law
 
-Miller's Law suggests that people can typically hold about seven (plus or minus two) pieces of information in their working memory at once. It means our minds can effectively process and remember around five to nine things at a time. This idea can be useful when designing things like phone numbers or lists to make them more manageable for people to remember and work with.
+Miller's Law suggests that people can typically hold about seven (plus or minus two) pieces of information in their working memory at once.&#x20;
+
+It means our minds can effectively process and remember around five to nine things at a time. This idea can be useful when designing things like phone numbers or lists to make them more manageable for people to remember and work with.
+
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=BNCAMHTmNuQ" %}
 
 {% embed url="https://www.youtube.com/watch?v=2uqr4FUchIk" %}
+
+#### Further Reading
 
 {% embed url="https://lawsofux.com/millers-law/" %}
 

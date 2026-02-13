@@ -37,6 +37,10 @@ Designers must accept the user's impatience and build a system that teaches whil
 * Goal: Make it safe and easy for users to experiment and recover from mistakes.
 * Application: Implement prominent and easy-to-use Undo/Redo functionality. Ensure error messages are clear, non-judgmental, and provide an explicit path to correction, reinforcing the idea that testing out features is harmless.
 
-The take-away: The best interface is one that requires no instruction. Design for the impatient, goal-driven user who is already halfway through the task.
+#### Takeaway
+
+The best interface is one that requires no instruction. Design for the impatient, goal-driven user who is already halfway through the task.
+
+#### Further Reading
 
 {% embed url="https://www.nngroup.com/articles/paradox-of-the-active-user/" %}
