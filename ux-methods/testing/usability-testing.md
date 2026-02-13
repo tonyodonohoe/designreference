@@ -1,12 +1,12 @@
 # Usability Testing
 
-### **1. Introduction**
+Usability Testing is a method of evaluating how easily users can interact with a product, such as a website, app, or software.&#x20;
 
-Usability testing is a method of evaluating how easily users can interact with a product, such as a website, app, or software. Through observing real users as they attempt to complete tasks, usability testing aims to identify areas where users encounter difficulties, enabling the team to refine the product and improve the overall user experience.
+Through observing real users as they attempt to complete tasks, usability testing aims to identify areas where users encounter difficulties, enabling the team to refine the product and improve the overall user experience.
 
 In the design and development process, usability testing helps ensure that products are not only functional but intuitive and enjoyable for the end-user.
 
-### **2. Why**
+#### **Why**
 
 Conducting usability testing has several important benefits:
 
@@ -16,7 +16,7 @@ Conducting usability testing has several important benefits:
 
 Usability testing differs from A/B testing, which compares two versions to see which performs better. It also differs from functional testing, which ensures that product features work as intended but does not evaluate user ease or satisfaction.
 
-### **3. Types of Usability Testing**
+#### **Types of Usability Testing**
 
 **Moderated vs. Unmoderated Testing**
 
@@ -44,7 +44,7 @@ Usability testing differs from A/B testing, which compares two versions to see w
 
 * Records and replays user interactions to identify patterns, usability issues, and pain points retrospectively.
 
-### **4. Usability Testing Process**
+#### **Usability Testing Process**
 
 **Planning**
 
@@ -75,7 +75,7 @@ Usability testing differs from A/B testing, which compares two versions to see w
 * Summarise findings with actionable recommendations for each issue, prioritising those that impact usability most.
 * Share insights with stakeholders, along with examples of user interactions to highlight key issues.
 
-### **5. Techniques & Tools**
+#### **Techniques & Tools**
 
 Many tools make usability testing easier to conduct and analyse:
 
@@ -86,14 +86,14 @@ Many tools make usability testing easier to conduct and analyse:
 
 Choosing the right tool depends on the budget, scale, and specific goals of the usability testing session.
 
-### **6. Best Practices**
+#### **Best Practices**
 
 * **Stay Neutral**: Avoid leading questions and allow users to express themselves without influence.
 * **Create Realistic, Actionable Tasks**: Design tasks that are representative of real-life product interactions.
 * **Focus on Reliability**: Use a structured testing plan to keep sessions consistent and avoid bias.
 * **Integrate with Agile or Lean**: For Agile teams, conduct lightweight, frequent usability tests, incorporating insights directly into sprints.
 
-### **7. Pitfalls & How to Avoid Them**
+#### **Pitfalls & How to Avoid Them**
 
 * **Bias in Testing**: Ensure questions and task prompts are neutral. Having multiple facilitators can help avoid a single-source bias.
 * **Recruitment Errors**: Recruit users who reflect the real user base and avoid too small or homogeneous a sample.

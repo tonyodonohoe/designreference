@@ -1,6 +1,12 @@
 # Usability Testing Platforms
 
-Usability testing platforms are tools or software applications that facilitate the evaluation and assessment of a product's usability by users. These platforms provide features for creating and conducting usability tests, recording user interactions, capturing feedback, and analysing test results. They help designers and researchers gather insights on how users interact with a product, identify usability issues, and make informed design decisions to improve the overall user experience.
+Usability testing platforms are tools or software applications that facilitate the evaluation and assessment of a product's usability by users.&#x20;
+
+These platforms provide features for creating and conducting usability tests, recording user interactions, capturing feedback, and analysing test results.&#x20;
+
+They help designers and researchers gather insights on how users interact with a product, identify usability issues, and make informed design decisions to improve the overall user experience.
+
+
 
 1. **UserTesting**\
    A versatile platform for moderated and unmoderated testing, offering video feedback from targeted participants, live interviews, and written responses.
