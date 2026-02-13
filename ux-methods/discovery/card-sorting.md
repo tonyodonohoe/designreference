@@ -23,3 +23,5 @@ Card sorting can be conducted through physical cards or online tools, and the re
 {% embed url="https://www.youtube.com/watch?v=0tNPT6X9Lhc" %}
 
 {% embed url="https://www.youtube.com/watch?v=d9SIbri2HlA" %}
+
+{% embed url="https://www.youtube.com/watch?v=25RqpGJ4tJ8" %}

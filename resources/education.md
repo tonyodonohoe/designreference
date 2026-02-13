@@ -4,6 +4,10 @@
 
 The Nielsen Norman Group YouTube channel is a reliable source for UX guidance. NNGroup brings over 25 years of research-based insights to design and research professionals. Their videos break down complex UX concepts into practical, actionable advice you can apply immediately.
 
+#### [PlaybookUX YouTube Channel](https://www.youtube.com/@PlaybookUX/videos)
+
+The PlaybookUX YouTube channel is an essential resource for all things user experience (UX), product and service design. PlaybookUX demystifies the complexities of design through videos that provide step-by-step guidance and clear, methodical insights.
+
 #### [UXTools.co UX Challenges](https://www.uxtools.co/challenges)
 
 UXTools.co is a comprehensive resource dedicated to tracking industry trends and comparing the various software and methodologies used in user experience design. Their "UX Challenges" section provides structured, real-world design prompts based on common business problems. Each exercise includes a project brief, specific constraints, and a list of tasks, making it a practical resource for anyone looking to practise their problem-solving skills or develop new case studies for a professional portfolio.

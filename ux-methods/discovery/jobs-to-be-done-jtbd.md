@@ -85,6 +85,8 @@ JTBD is particularly valuable for long-term strategy, as it keeps teams focused 
 
 {% embed url="https://www.youtube.com/watch?v=ekerxw2HksY" %}
 
+{% embed url="https://www.youtube.com/watch?v=dbVN6EYql6k" %}
+
 {% embed url="https://www.youtube.com/watch?v=IanZkc-i2J4" %}
 
 #### Further Reading

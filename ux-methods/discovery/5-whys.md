@@ -57,6 +57,8 @@ _Example 3: Tech Company_
 
 {% embed url="https://www.youtube.com/watch?v=sRr9Zic3_T8" %}
 
+{% embed url="https://www.youtube.com/watch?v=jrtYlqloJ7o" %}
+
 {% embed url="https://www.youtube.com/watch?v=0-tmA22qjCI" %}
 
 #### Further Reading

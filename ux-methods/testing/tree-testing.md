@@ -10,6 +10,8 @@ By conducting these tests early in the design process, teams can fix structural 
 
 {% embed url="https://youtu.be/P0WDO76300Q?si=N0DkbskpEil3RpcW" %}
 
+{% embed url="https://www.youtube.com/watch?v=IZAM1mRCNTA" %}
+
 #### Further Reading
 
 {% embed url="https://www.interaction-design.org/literature/article/tree-testing-ux" %}

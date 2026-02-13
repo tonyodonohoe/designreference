@@ -9,3 +9,7 @@ By conducting IA research, businesses can identify opportunities to improve the 
 #### Further Reading
 
 {% embed url="https://www.nngroup.com/articles/ia-study-guide/" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=XfxR5m8zUO8" %}

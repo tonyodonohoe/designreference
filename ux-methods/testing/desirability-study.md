@@ -1,10 +1,10 @@
 # Desirability Study
 
-A desirability study is a research method used to understand if users find a product, feature, or design aesthetically pleasing, emotionally engaging, and appealing.
+A Desirability Study is a research method used to understand if users find a product, feature, or design aesthetically pleasing, emotionally engaging, and appealing.
 
-Unlike usability testing, which focuses on "can the user accomplish a task?" (e.g., "Can you find the 'add to cart' button?"), a desirability study asks "how do users _feel_ about this design?" It digs into the emotional and psychological side of the user experience.
+Unlike Usability Testing, which focuses on "can the user accomplish a task?" (e.g., "Can you find the 'add to cart' button?"), a desirability study asks "how do users _feel_ about this design?" It digs into the emotional and psychological side of the user experience.
 
-The core idea is that a product's success isn't just about functionality; it's also about its emotional connection with the user. A perfectly functional product might fail if it doesn't evoke the right feelings, while a less functional but more desirable product might succeed.
+The core idea is that a product's success isn't just about functionality, it's also about its emotional connection with the user. A perfectly functional product might fail if it doesn't evoke the right feelings, while a less functional but more desirable product might succeed.
 
 #### How a Desirability Study is Conducted
 
@@ -25,3 +25,13 @@ A common way to run a desirability study is by using a method often referred to 
 #### Further Reading
 
 {% embed url="https://medium.com/@neocarl/using-desirability-studies-to-find-a-better-product-market-fit-e463473631c1" %}
+
+{% embed url="https://www.looppanel.com/blog/desirability-study" %}
+
+{% embed url="https://pdmethods.com/desirability-study/" %}
+
+{% embed url="https://flyingbisons.com/knowledge-base/desirability-studies" %}
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=BxTdpW35h3U" %}

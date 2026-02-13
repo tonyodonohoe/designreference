@@ -13,3 +13,5 @@ Researchers use diary studies to gain a deeper understanding of participants' pe
 {% embed url="https://www.youtube.com/watch?v=fCx87YVbpLs" %}
 
 {% embed url="https://www.youtube.com/watch?v=euc_KvEoV_k" %}
+
+{% embed url="https://www.youtube.com/watch?v=FEmn0Pe4cLw" %}

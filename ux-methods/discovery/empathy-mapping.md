@@ -1,5 +1,9 @@
 # Empathy Mapping
 
+{% hint style="info" %}
+AKA Empathy Map
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/empathy-map (1).png" alt=""><figcaption></figcaption></figure>
 
 Empathy mapping helps designers understand and connect with the end-users on a deeper level. It involves creating a visual representation of a user's thoughts, feelings, and needs.
@@ -13,6 +17,8 @@ Empathy mapping is crucial because it bridges the gap between design and user ne
 {% embed url="https://www.mindtools.com/abtn3bi/empathy-mapping" %}
 
 #### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=QwF9a56WFWA" %}
 
 {% embed url="https://www.youtube.com/watch?v=Tz0dpeqcO60" %}
 

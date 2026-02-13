@@ -1,7 +1,7 @@
 # Customer Journey Mapping
 
 {% hint style="info" %}
-AKA Experience Mapping, User Journey Mapping, Journey Mapping
+AKA Customer Journey Map, Experience Mapping, User Journey Map, User Journey Mapping, Journey Mapping, Journey Map
 {% endhint %}
 
 Customer Journey Mapping is a process of visually illustrating the step-by-step experience that a customer or user goes through while interacting with a product, service, or brand.&#x20;
@@ -37,3 +37,5 @@ By creating journey maps, businesses gain valuable insights into the customer's 
 {% embed url="https://www.youtube.com/watch?v=QH4xa4xNKNg" %}
 
 {% embed url="https://www.youtube.com/watch?v=2YpC3R1zNdA" %}
+
+{% embed url="https://www.youtube.com/watch?v=X7iXcP-wIkk" %}
