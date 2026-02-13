@@ -8,7 +8,9 @@ description: >-
 
 Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know. Design for patterns for which users are accustomed.
 
-Jakob's law suggests people are more comfortable and familiar with things they've encountered before. It means that when you're designing something, like a website or an app, it's a good idea to stick to familiar and common design patterns. People tend to prefer things that work in ways they're used to, so following established design conventions can make your product easier to use because it feels familiar to users. It's like following the road everyone else takes instead of creating a new, confusing path.
+Jakob's law suggests people are more comfortable and familiar with things they've encountered before. It means that when you're designing something, like a website or an app, it's a good idea to stick to familiar and common design patterns.&#x20;
+
+People tend to prefer things that work in ways they're used to, so following established design conventions can make your product easier to use because it feels familiar to users. It's like following the road everyone else takes instead of creating a new, confusing path.
 
 #### Further Viewing
 
