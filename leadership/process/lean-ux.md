@@ -74,7 +74,7 @@ While Lean UX and Agile UX share a focus on iterative development and user-cente
 * **Collaboration with Development Teams**\
   Works closely with development teams to ensure alignment on design and implementation.
 
-**In essence**
+#### In essence
 
 * Lean UX designers are more focused on learning and experimentation, often working in a more fluid and less structured environment.
 * Agile UX designers are more focused on delivering value within specific timeframes, often working within a more structured framework with defined deliverables.
