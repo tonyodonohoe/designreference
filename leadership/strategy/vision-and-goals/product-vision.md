@@ -2,7 +2,9 @@
 
 A product vision serves as a guiding force for product development, encapsulating the purpose, direction, and unique value of a product in a concise and inspiring way. For a design manager, this vision is essential for aligning design work with the product's overarching goals. The product vision provides a "north star" for the team, helping guide design decisions and ensuring the end product meets both user needs and strategic objectives.
 
-A well-crafted product vision acts as a decision-making tool, ensuring that the design remains focused on customer needs while contributing to the company's competitive edge. By consistently revisiting the product vision, product leaders can ensure that the product’s development stays aligned with its long-term strategy. Tools like the Product Vision Board help structure this vision by identifying the target group, customer needs, product features, business goals, and competitors. This ensures that the product vision is built on a thorough understanding of the market and the product's unique value proposition.
+A well-crafted product vision acts as a decision-making tool, ensuring that the design remains focused on customer needs while contributing to the company's competitive edge. By consistently revisiting the product vision, product leaders can ensure that the product’s development stays aligned with its long-term strategy.&#x20;
+
+Tools like the Product Vision Board help structure this vision by identifying the target group, customer needs, product features, business goals, and competitors. This ensures that the product vision is built on a thorough understanding of the market and the product's unique value proposition.
 
 A Product Vision and Product Vision Board are typically used by product managers, as these tools help define the overarching goals and direction of a product. The product manager is responsible for ensuring that the product aligns with business objectives, meets customer needs, and guides the development team throughout the product life cycle.
 

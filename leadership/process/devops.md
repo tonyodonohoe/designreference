@@ -6,9 +6,12 @@ DevOps is a set of practices that combine software development (Dev) and IT oper
 
 Here's how DevOps compares to Agile, Lean Software Development, and others:
 
-* Agile: Agile is a software development methodology that emphasises iterative development, teamwork, customer collaboration, and continuous improvement. DevOps builds on Agile principles by extending collaboration to include IT operations teams and focusing on automation to streamline the entire software delivery pipeline.
-* Lean Software Development: Lean is a methodology that focuses on eliminating waste and maximising value. DevOps aligns with Lean principles by automating repetitive tasks, reducing manual intervention, and optimizing the flow of work through the delivery pipeline.
-* Continuous Integration/Continuous Delivery (CI/CD): CI/CD is a set of practices that automate the building, testing, and deployment of software. DevOps incorporates CI/CD as a core practice to enable frequent and reliable software releases.
+* **Agile**\
+  Agile is a software development methodology that emphasises iterative development, teamwork, customer collaboration, and continuous improvement. DevOps builds on Agile principles by extending collaboration to include IT operations teams and focusing on automation to streamline the entire software delivery pipeline.
+* **Lean Software Development**\
+  Lean is a methodology that focuses on eliminating waste and maximising value. DevOps aligns with Lean principles by automating repetitive tasks, reducing manual intervention, and optimizing the flow of work through the delivery pipeline.
+* **Continuous Integration/Continuous Delivery (CI/CD)**\
+  CI/CD is a set of practices that automate the building, testing, and deployment of software. DevOps incorporates CI/CD as a core practice to enable frequent and reliable software releases.
 
 DevOps is not a standalone methodology but rather a cultural shift and a set of practices that can be combined with other methodologies like Agile and Lean to achieve faster, more reliable, and higher-quality software delivery.
 

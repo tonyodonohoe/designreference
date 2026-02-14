@@ -10,11 +10,16 @@ Design thinking provides a holistic framework for addressing complex problems by
 
 Design thinking is a creative problem-solving methodology cantered around understanding user needs and developing innovative solutions. It emphasizes empathy, experimentation, and iteration. The process is typically broken down into five phases:
 
-1. **Empathise**: Immerse yourself in the user's world to gain deep insights into their needs, motivations, and pain points.
-2. **Define**: Synthesise your research findings to identify the core problem you want to solve.
-3. **Ideate**: Generate a wide range of creative solutions to the problem, encouraging out-of-the-box thinking.
-4. **Prototype**: Create tangible representations of your ideas, whether it's sketches, wireframes, or physical prototypes.
-5. **Test**: Gather feedback on your prototypes from users to refine and improve your solutions.
+1. **Empathise**\
+   Immerse yourself in the user's world to gain deep insights into their needs, motivations, and pain points.
+2. **Define**\
+   Synthesise your research findings to identify the core problem you want to solve.
+3. **Ideate**\
+   Generate a wide range of creative solutions to the problem, encouraging out-of-the-box thinking.
+4. **Prototype**\
+   Create tangible representations of your ideas, whether it's sketches, wireframes, or physical prototypes.
+5. **Test**\
+   Gather feedback on your prototypes from users to refine and improve your solutions.
 
 #### Design Thinking vs. Other Design Approaches
 

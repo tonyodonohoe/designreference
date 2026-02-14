@@ -16,10 +16,14 @@ Performance Review meetings are invaluable touchpoints to build trust, align on 
 
 _For Managers_
 
-* **Review Performance Data**: Gather relevant performance data, including metrics, project feedback, OKRs, and any previous meeting notes. Ensure you have a balanced view of strengths and improvement areas.
-* **Gather Feedback**: Collect multisource feedback (e.g., peer reviews, project stakeholder input) to provide a well-rounded assessment.
-* **Set Key Topics**: Identify key points to cover, focusing on both achievements and areas where support is needed.
-* **Prepare Documentation**: Ensure any official performance documents are ready to be shared or signed off during the meeting.
+* **Review Performance Data**\
+  Gather relevant performance data, including metrics, project feedback, OKRs, and any previous meeting notes. Ensure you have a balanced view of strengths and improvement areas.
+* **Gather Feedback**\
+  Collect multisource feedback (e.g., peer reviews, project stakeholder input) to provide a well-rounded assessment.
+* **Set Key Topics**\
+  Identify key points to cover, focusing on both achievements and areas where support is needed.
+* **Prepare Documentation**\
+  Ensure any official performance documents are ready to be shared or signed off during the meeting.
 
 _For Team Members_
 
@@ -44,16 +48,23 @@ A typical Performance Review meeting can be broken down into four stages:
 
 #### Tips
 
-* **Be Specific and Evidence-Based**: Use data, examples, and concrete outcomes to support your feedback.
-* **Encourage Self-Reflection**: Start by asking the team member to self-assess. This fosters a growth mindset and allows them to voice any concerns or goals first.
-* **Maintain a Growth Focus**: Frame the discussion around growth, not just evaluation. Even constructive feedback should feel like an opportunity for improvement rather than criticism.
-* **Follow-Up with a Summary**: Send a summary email or document highlighting key discussion points, goals, and any agreed-upon next steps. This reinforces accountability and provides a reference for future meetings.
+* **Be Specific and Evidence-Based**\
+  Use data, examples, and concrete outcomes to support your feedback.
+* **Encourage Self-Reflection**\
+  Start by asking the team member to self-assess. This fosters a growth mindset and allows them to voice any concerns or goals first.
+* **Maintain a Growth Focus**\
+  Frame the discussion around growth, not just evaluation. Even constructive feedback should feel like an opportunity for improvement rather than criticism.
+* **Follow-Up with a Summary**\
+  Send a summary email or document highlighting key discussion points, goals, and any agreed-upon next steps. This reinforces accountability and provides a reference for future meetings.
 
 #### Post-Meeting Action Items
 
-* **Track Progress**: Regularly check in on the goals and development areas identified during the review. Use shorter, informal check-ins to ensure progress and address any challenges.
-* **Update Records**: Document the meeting outcomes, goals, and feedback in any performance tracking systems or files as required by the organisation.
-* **Encourage Ongoing Dialogue**: Let your team member know that feedback isn’t limited to reviews; they should feel comfortable discussing their development at any time.
+* **Track Progress**\
+  Regularly check in on the goals and development areas identified during the review. Use shorter, informal check-ins to ensure progress and address any challenges.
+* **Update Records**\
+  Document the meeting outcomes, goals, and feedback in any performance tracking systems or files as required by the organisation.
+* **Encourage Ongoing Dialogue**\
+  Let your team member know that feedback isn’t limited to reviews; they should feel comfortable discussing their development at any time.
 
 #### Cadence
 

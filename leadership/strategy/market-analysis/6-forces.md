@@ -1,6 +1,10 @@
 # 6 Forces
 
-The Six Forces Model is a strategic framework used to analyse the competitive landscape of an industry. By analysing these factors, businesses can gain a better understanding of their competitive environment and develop strategies to improve their competitive position. It was developed by Michael Porter and considers the following factors:
+The Six Forces Model is a strategic framework used to analyse the competitive landscape of an industry.&#x20;
+
+By analysing these factors, businesses can gain a better understanding of their competitive environment and develop strategies to improve their competitive position.&#x20;
+
+It was developed by Michael Porter and considers the following factors:
 
 1. **Rivalry among existing competitors**\
    This refers to the intensity of competition between existing players in the industry.

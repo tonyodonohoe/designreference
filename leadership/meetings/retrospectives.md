@@ -38,6 +38,6 @@ This retrospective focuses on the product itself. The team discusses the product
 
 This retrospective focuses on the technical aspects of a project or product. The team discusses the code quality, architecture, testing practices, and other technical concerns. The goal is to identify areas for improvement in the team's technical practices.
 
-#### Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/retros-49289069" %}

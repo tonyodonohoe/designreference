@@ -1,7 +1,5 @@
 # Design Critiques
 
-#### What Are Design Critiques?
-
 Design Crits AKA Design Review Meetings are focused on reviewing and critiquing design work, such as user interfaces (UI), user experiences (UX), and architecture, to ensure alignment with project goals and company standards.&#x20;
 
 Designers present their work in structured sessions and the group - often including fellow designers, product managers, developers, and stakeholders - offers constructive feedback.&#x20;

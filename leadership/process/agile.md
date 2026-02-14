@@ -1,6 +1,6 @@
 # Agile
 
-## What is Agile?
+### What is Agile?
 
 Agile is an iterative approach to project management and software development that prioritises customer feedback, collaboration, and adaptability. Rather than following a rigid, long-term plan, Agile breaks work into smaller, manageable chunks known as iterations or sprints, which are completed one at a time.
 
@@ -18,13 +18,13 @@ At its core, Agile values flexibility. Plans are not set in stone and can evolve
 
 {% embed url="https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/" %}
 
-### User Stories
+#### User Stories
 
 User stories are a simple way to describe a feature or function from the perspective of the user. They help teams shift their focus from writing about requirements to having conversations about them. Each story is a short, written description that sparks discussions about what the user needs and how the product should be built to meet those needs. They are written using the following template:
 
 As a (type of user), I want (some goal) so that (some reason).
 
-#### Examples
+**Examples**
 
 1. As a customer, I want to be able to search for products by category so that I can easily find what I'm looking for.
 2. As a user, I want to be able to log in with my social media account so that I can quickly create an account.
@@ -32,7 +32,11 @@ As a (type of user), I want (some goal) so that (some reason).
 4. As a student, I want to be able to submit assignments online so that I can complete my coursework on time.
 5. As a teacher, I want to be able to grade assignments online so that I can provide timely feedback to students.
 
-User stories are crucial in Agile environments, serving as the foundation of the development process. They center the development process around the user, ensuring the team builds what the user needs. By facilitating clear communication and collaboration between technical and non-technical team members, user stories foster a shared understanding of the product vision. This shared understanding helps teams prioritise features based on their value to the user, leading to a more efficient and effective development process. User stories are also flexible and adaptable, allowing for changes in requirements as the project progresses. User stories encourage collaboration between the development team, product owner, and stakeholders, leading to better decision-making and problem-solving. While user stories are not the only tool in the Agile toolkit, they are undoubtedly one of the most important, helping to ensure that the final product delivers value to the user.
+User stories are crucial in Agile environments, serving as the foundation of the development process. They center the development process around the user, ensuring the team builds what the user needs.&#x20;
+
+By facilitating clear communication and collaboration between technical and non-technical team members, user stories foster a shared understanding of the product vision. This shared understanding helps teams prioritise features based on their value to the user, leading to a more efficient and effective development process.&#x20;
+
+User stories are also flexible and adaptable, allowing for changes in requirements as the project progresses. User stories encourage collaboration between the development team, product owner, and stakeholders, leading to better decision-making and problem-solving. While user stories are not the only tool in the Agile toolkit, they are undoubtedly one of the most important, helping to ensure that the final product delivers value to the user.
 
 {% embed url="https://www.productplan.com/learn/break-product-features-into-user-stories/" %}
 
@@ -44,7 +48,7 @@ User stories are crucial in Agile environments, serving as the foundation of the
 
 {% embed url="https://www.wrike.com/agile-guide/user-stories-guide/" %}
 
-### Epics
+#### Epics
 
 Epics are a collection of user stories, tasks, or bugs that span across multiple sprints — with a common objective. They are a large body of work that is too big to be completed in a single sprint. It's a high-level user story that needs to be broken down into smaller, more manageable user stories to be delivered over multiple sprints. Think of an epic as a large project that encompasses multiple features or functionalities. By breaking down epics into smaller user stories, Agile teams can prioritize work, manage complexity, and deliver value incrementally.
 
@@ -54,7 +58,7 @@ Epics are a collection of user stories, tasks, or bugs that span across multiple
 
 {% embed url="https://clickup.com/blog/epics-vs-features/" %}
 
-### Initiatives
+#### Initiatives
 
 Initiatives are collections of epics that drive toward a common goal.
 
@@ -64,17 +68,17 @@ Initiatives are collections of epics that drive toward a common goal.
 
 {% embed url="https://www.cplace.com/en/glossary/initiative/" %}
 
-### Sprint Planning
+#### Sprint Planning
 
 Sprint planning is a crucial Agile ceremony where the development team and product owner collaborate to plan the work for the upcoming sprint. During this meeting, the team selects user stories from the product backlog that can be completed within the sprint timeframe. The team then breaks down these user stories into smaller, more manageable tasks. The goal of sprint planning is to create a shared understanding of the work to be done, estimate the effort required, and create a plan for completing the work within the sprint.
 
 {% embed url="https://www.atlassian.com/agile/scrum/sprint-planning" %}
 
-### Stakeholders
+#### Stakeholders
 
 Agile and scrum teams have two key groups of stakeholders: organisational leaders and customers or end-users. The success of the project relies on understanding and addressing the goals of both groups. The Product Owner plays a crucial role in balancing and prioritising the needs of all stakeholders.
 
-## Frameworks & Methodologies
+### Frameworks & Methodologies
 
 A framework provides a general structure or guideline that can be adapted and customised to fit specific needs while a methodology explicitly prescribes how to do something, it provides a specific process or set of rules to follow.
 
@@ -100,9 +104,9 @@ A framework provides a general structure while a methodology gives you a specifi
 4. Continuous Integration/Continuous Delivery (CI/CD)
 5. Lean Software Development
 
-## Frameworks
+### Frameworks
 
-### **1. Scrum**
+#### **1. Scrum**
 
 This is one of the most widely used Agile frameworks. It emphasises iterative development, teamwork, accountability, and continuous improvement. Scrum uses time-boxed iterations called sprints to deliver working software.
 
@@ -126,7 +130,7 @@ Scrum emphasises frequent communication, transparency, and adaptability, with re
 
 {% embed url="https://matthijsz.medium.com/alternatives-to-endless-scrum-6d2310a86bde" %}
 
-### Bonus: Scrum Crash Course
+#### Bonus: Scrum Crash Course
 
 Getting started with agile and Scrum can be daunting and, at times, overwhelming with what can seem like endless new terms and concepts. [Everyday Design](https://www.everyday.design/) has put together a great series of explainers for those getting started with Scrum that is well worth a read.
 
@@ -146,7 +150,7 @@ Getting started with agile and Scrum can be daunting and, at times, overwhelming
 
 {% embed url="https://www.everyday.design/guides/scrum-glossary-what-do-all-these-scrum-terms-mean" %}
 
-### 2. Kanban
+#### 2. Kanban
 
 Kanban is a visual method for managing work. It focuses on visualising the workflow, limiting work in progress, and continuously improving the flow of work. Kanban is often used for continuous delivery and DevOps.
 
@@ -194,13 +198,13 @@ In conclusion, while Scrum and Kanban can be used independently, they can also b
 
 {% embed url="https://www.siliconrepublic.com/advice/kanban-workflow-model-company-employer-employee-advice" %}
 
-### 3. Crystal
+#### 3. Crystal
 
 Crystal is a family of Agile methodologies that emphasises people and their interactions over processes and tools. It is a lightweight methodology that adapts to the specific needs of the team and project.
 
 {% embed url="https://fourweekmba.com/crystal-agile-framework/" %}
 
-### 4. Feature-Driven Development (FDD)
+#### 4. Feature-Driven Development (FDD)
 
 Feature-Driven Development (FDD) is a model-driven, short-iteration development process. It focuses on delivering features to customers in short iterations. FDD emphasises customer involvement, domain expertise, and teamwork.
 
@@ -212,23 +216,23 @@ Feature-Driven Development (FDD) is a model-driven, short-iteration development 
 
 {% embed url="https://www.wrike.com/agile-guide/faq/what-is-fdd-in-agile/" %}
 
-### 5. SAFe (Scaled Agile Framework)
+#### 5. SAFe (Scaled Agile Framework)
 
 A comprehensive framework for scaling Agile practices across large organisations, providing a structured approach to align teams, programs, and portfolios.
 
-### 6. LeSS (Large-Scale Scrum)
+#### 6. LeSS (Large-Scale Scrum)
 
 A lightweight framework for scaling Scrum to multiple teams, emphasising simplicity and self-organisation.
 
 {% embed url="https://www.atlassian.com/agile/agile-at-scale/less" %}
 
-### 7. DAD (Disciplined Agile Delivery)
+#### 7. DAD (Disciplined Agile Delivery)
 
 A hybrid framework that combines elements of various Agile methods, providing flexibility and adaptability to different organisational contexts.
 
-## Methodologies
+### Methodologies
 
-### 1. Extreme Programming (XP)
+#### 1. Extreme Programming (XP)
 
 Extreme Programming XP is a disciplined approach to software development that emphasises simplicity, communication, feedback, and courage. It uses practices like pair programming, test-driven development, and continuous integration.
 
@@ -238,19 +242,19 @@ Extreme Programming XP is a disciplined approach to software development that em
 
 {% embed url="https://asana.com/resources/extreme-programming-xp" %}
 
-### 2. Test-Driven Development (TDD)
+#### 2. Test-Driven Development (TDD)
 
 A methodology where tests are written before the actual code, driving development and ensuring code quality.
 
-### 3. Behavior-Driven Development (BDD)
+#### 3. Behavior-Driven Development (BDD)
 
 A collaborative approach that focuses on defining software behavior through shared understanding between developers, testers, and business stakeholders.
 
-### 4. Continuous Integration/Continuous Delivery (CI/CD)
+#### 4. Continuous Integration/Continuous Delivery (CI/CD)
 
 A set of practices that automate the building, testing, and deployment of software, enabling frequent and reliable releases.
 
-### 5. Lean Software Development
+#### 5. Lean Software Development
 
 Lean is a methodology that focuses on eliminating waste and maximising value delivery. It borrows principles from Lean manufacturing and applies them to software development. Lean emphasises continuous improvement, customer focus, and rapid delivery.
 
@@ -274,7 +278,7 @@ _"Often misunderstood as a subset of Agile, Lean is a distinct methodology with 
 
 {% embed url="https://www.atlassian.com/agile/project-management/lean-vs-agile" %}
 
-### Scrum Artifacts
+#### Scrum Artifacts
 
 * **Backlog**: Scrum includes two key backlogs – the product backlog and the sprint backlog. Together, they hold the complete list of tasks to be undertaken, with priorities set and maintained by the product owner.
 * **Product Backlog**: The product backlog is a prioritised collection of features, bug fixes, technical tasks, and other items relevant to the product, all to be addressed by the development team. This backlog provides the selection pool for each new sprint.
@@ -290,9 +294,9 @@ _"Often misunderstood as a subset of Agile, Lean is a distinct methodology with 
 * **Iteration**: This is the time allocated for the Scrum team to produce working software, typically lasting between one and three weeks.
 * **Sprint Goal**: The sprint goal is a concise statement capturing the product owner’s vision for the sprint, guiding the development team and providing a cohesive theme for the sprint’s efforts.
 
-## Tools & Software
+### Tools & Software
 
-#### Project Management and Collaboration Tools:
+#### Project Management and Collaboration Tools
 
 * Jira: A comprehensive agile project management and issue tracking tool that supports any agile methodology, be it scrum, kanban, or your own unique flavor.
 * Trello: A visual Kanban board tool that helps teams organise and prioritise tasks.
@@ -300,7 +304,7 @@ _"Often misunderstood as a subset of Agile, Lean is a distinct methodology with 
 * ClickUp: An all-in-one project management tool that offers a wide range of features, including task management, time tracking, and document collaboration.
 * Monday.com: A highly customisable work management platform that allows teams to tailor their workflows to their specific needs.
 
-#### Version Control Systems:
+#### Version Control Systems
 
 * Git: The most widely used version control system, enabling teams to track changes to their codebase and collaborate effectively.
 * GitHub: A popular web-based hosting service for Git repositories, providing features like code review, issue tracking, and project management.

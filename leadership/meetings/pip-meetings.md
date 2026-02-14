@@ -10,31 +10,47 @@ The PIP meeting should be scheduled after a pattern of performance issues has be
 
 #### Preparation
 
-1. **Gather Evidence:** Collect specific examples of the performance issues, including missed targets, behavioural concerns, or any repeated patterns.
-2. **Define Expectations:** Be ready to clarify what success looks like. Frame specific, measurable goals that the employee must meet to successfully complete the PIP.
-3. **Establish Support Resources:** Think about resources, training, or additional support that can aid in their development, such as mentorship, additional feedback sessions, or workshops.
-4. **Create a Timeline:** Prepare a timeline for the PIP, including checkpoints for reviewing progress. Generally, these plans range from 30 to 90 days, depending on the level of support required.
+1. **Gather Evidence**\
+   Collect specific examples of the performance issues, including missed targets, behavioural concerns, or any repeated patterns.
+2. **Define Expectations**\
+   Be ready to clarify what success looks like. Frame specific, measurable goals that the employee must meet to successfully complete the PIP.
+3. **Establish Support Resources**\
+   Think about resources, training, or additional support that can aid in their development, such as mentorship, additional feedback sessions, or workshops.
+4. **Create a Timeline**\
+   Prepare a timeline for the PIP, including checkpoints for reviewing progress. Generally, these plans range from 30 to 90 days, depending on the level of support required.
 
 #### During
 
-1. **Set the Tone:** Start with a constructive tone, emphasising the intent to support improvement rather than impose penalties.
-2. **Present the Plan:** Outline the areas of concern, referencing specific examples. Clarify the performance expectations and the measurable objectives they'll need to meet.
-3. **Agree on Action Steps:** Collaboratively establish steps to achieve the goals. This might include new work habits, skill-building activities, or changes in workflow.
-4. **Provide Support:** Identify resources that are available to help, like training materials or regular check-ins.
-5. **Confirm Understanding:** Ask the team member to summarise their understanding of the PIP objectives and the support structure. Clarify any remaining questions or concerns they may have.
-6. **Document the Conversation:** Make sure to document the meeting outcomes and next steps for both parties to reference.
+1. **Set the Tone**\
+   Start with a constructive tone, emphasising the intent to support improvement rather than impose penalties.
+2. **Present the Plan**\
+   Outline the areas of concern, referencing specific examples. Clarify the performance expectations and the measurable objectives they'll need to meet.
+3. **Agree on Action Steps**\
+   Collaboratively establish steps to achieve the goals. This might include new work habits, skill-building activities, or changes in workflow.
+4. **Provide Support**\
+   Identify resources that are available to help, like training materials or regular check-ins.
+5. **Confirm Understanding**\
+   Ask the team member to summarise their understanding of the PIP objectives and the support structure. Clarify any remaining questions or concerns they may have.
+6. **Document the Conversation**\
+   Make sure to document the meeting outcomes and next steps for both parties to reference.
 
 #### After
 
-1. **Scheduled Check-Ins:** Regularly scheduled follow-up meetings are essential to review progress, address obstacles, and adjust the plan if needed. This keeps the employee accountable and ensures they’re supported at each stage.
-2. **Feedback and Adjustments:** Be open to making reasonable adjustments based on feedback and any new developments, while keeping the original goals in sight.
-3. **Final Review:** At the end of the PIP period, meet to review progress against the objectives set out. Decide whether the team member has met expectations or if further action is required.
+1. **Scheduled Check-Ins**\
+   Regularly scheduled follow-up meetings are essential to review progress, address obstacles, and adjust the plan if needed. This keeps the employee accountable and ensures they’re supported at each stage.
+2. **Feedback and Adjustments**\
+   Be open to making reasonable adjustments based on feedback and any new developments, while keeping the original goals in sight.
+3. **Final Review**\
+   At the end of the PIP period, meet to review progress against the objectives set out. Decide whether the team member has met expectations or if further action is required.
 
 #### Tips
 
-* **Focus on Growth:** Emphasise development and improvement rather than consequences. Reframe the PIP as a growth opportunity.
-* **Set Achievable Goals:** Define realistic objectives that the employee can reasonably meet with the support provided.
-* **Stay Consistent:** Ensure that the PIP is implemented fairly and consistently across the team to build trust and transparency.
+* **Focus on Growth**\
+  Emphasise development and improvement rather than consequences. Reframe the PIP as a growth opportunity.
+* **Set Achievable Goals**\
+  Define realistic objectives that the employee can reasonably meet with the support provided.
+* **Stay Consistent**\
+  Ensure that the PIP is implemented fairly and consistently across the team to build trust and transparency.
 
 #### Further Reading
 

@@ -6,8 +6,6 @@
 Effective goal setting is an essential component of Performance Management. Learn more about [Performance Management](../../managing-people/performance-management.md) in the Managing People section.
 {% endhint %}
 
-### Introduction
-
 In modern organisations, effective goal-setting frameworks are essential for maintaining alignment, focus, and measurable progress across teams and individuals, while also driving impactful contributions to the overall business objectives by aligning individual and team goals with broader business goals and strategies.
 
 Objectives and Key Results (OKRs) and SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals are two of the most widely used frameworks. Although each can be applied independently, organisations frequently use them together to achieve both high-level strategic clarity and detailed accountability.
@@ -66,16 +64,18 @@ A stretch goal is an ambitious target set to push individuals or teams beyond th
 
 OKRs consist of two main parts:
 
-* Objectives – These are qualitative and inspirational goals that describe what you want to achieve.
-* Key Results – These are quantitative and measurable outcomes that define how you know when you've reached your objective.
+* **Objectives**\
+  These are qualitative and inspirational goals that describe what you want to achieve.
+* **Key Results**\
+  These are quantitative and measurable outcomes that define how you know when you've reached your objective.
 
 Example:
 
 * Objective: Improve customer satisfaction in our support department.
 * Key Results:
-  1. Achieve a 90% positive feedback rating by the end of Q1.
-  2. Reduce average response time to customer queries to under 24 hours.
-  3. Train all support staff on conflict resolution skills by mid-Q1.
+  1. Achieve a 90% positive feedback rating by the end of Q1
+  2. Reduce average response time to customer queries to under 24 hours
+  3. Train all support staff on conflict resolution skills by mid-Q1
 
 OKRs aim to stretch teams, challenging them to reach beyond what they're already achieving.
 
@@ -99,7 +99,7 @@ Managers should use OKRs for a team's high-level goals and SMART goals for indiv
 
 #### Step-by-Step Process
 
-#### Step 1:
+#### Step 1
 
 Define High-Level OKRs (Quarterly or Annual)
 
@@ -122,7 +122,7 @@ Bad OKR:
 
 Why it's bad: It's too vague and lacks measurable outcomes, making it hard to know if you've achieved the objective.
 
-#### **Step 2:**
+#### Step 2
 
 Translate OKRs into Team and Individual SMART Goals (Weekly or Monthly)
 
@@ -134,13 +134,13 @@ Example:
 * SMART Goal (for a Customer Support Rep based on OKR above): "Resolve 80% of customer tickets within 12 hours over the next month by prioritising high-severity cases."
 * SMART Goal (for a Manager): "Conduct weekly one-on-one sessions with each team member to address challenges in response time by the end of the month."
 
-#### **Step 3:**
+#### Step 3
 
 Set Up Checkpoints for Tracking Progress
 
 Establish regular check-ins (weekly or bi-weekly) to assess progress on SMART goals and OKRs. These check-ins are essential for tracking, realigning efforts if needed, and recognising any quick wins.
 
-### Tips
+#### Tips
 
 1. **Make Goals Visible**\
    Create a dashboard or shared document to track OKRs and SMART goals. This visibility keeps goals top of mind and encourages accountability within the team.
@@ -162,7 +162,7 @@ Establish regular check-ins (weekly or bi-weekly) to assess progress on SMART go
 8. **Don't forget the purpose of goals**\
    Goals should inspire improvement and progress, not act as rigid tasks to tick off.
 
-### Book Recommendations
+#### Book Recommendations
 
 <div align="left"><figure><img src="../../../.gitbook/assets/measure-what-matters.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
@@ -173,7 +173,7 @@ by John Doerr (2017)
 
 Legendary venture capitalist John Doerr reveals how the goal-setting system of Objectives and Key Results (OKRs) has helped tech giants from Intel to Google achieve explosive growth and how it can help any organisation thrive.
 
-### Example OKRs
+#### Example OKRs
 
 **Good OKRs**
 
@@ -226,7 +226,7 @@ Legendary venture capitalist John Doerr reveals how the goal-setting system of O
      * “Handle all complaints” (no indication of how to measure reduction).
      * “Reduce complaints” (vague without quantitative goals).
 
-### Example SMART Goals
+#### Example SMART Goals
 
 **Good SMART Goals**
 
@@ -284,21 +284,21 @@ Legendary venture capitalist John Doerr reveals how the goal-setting system of O
    * **Relevant**: Not directed toward specific design improvements.
    * **Time-bound**: No deadline for action.
 
-### Further Viewing
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=3j_2DvyBhNY" %}
 
 {% embed url="https://www.youtube.com/watch?v=e6C_N1uwa58" %}
 
-### Further Reading
+#### Further Reading
 
-#### General Goal Setting Articles
+**General Goal Setting Articles**
 
 {% embed url="https://betterhumans.pub/the-eight-most-common-goal-setting-blunders-in-the-workplace-721888d11a8c" %}
 
 {% embed url="https://blog.novatools.org/defining-clear-objectives-and-obligations-for-employees-a-guide-ed9f9e3f04f1" %}
 
-#### OKR Articles
+**OKR Articles**
 
 {% embed url="https://medium.com/the-good-boss/okrs-how-to-turn-big-ideas-into-real-outcomes-6582a112b3d2" %}
 
@@ -324,6 +324,6 @@ Legendary venture capitalist John Doerr reveals how the goal-setting system of O
 
 {% embed url="https://medium.com/illumination/10-powerful-leadership-tools-that-will-put-you-in-top-gear-a449181a9d47" %}
 
-#### General Performance Management & Goal Setting Articles
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/performance-management-47717628" %}

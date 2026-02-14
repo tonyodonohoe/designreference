@@ -4,27 +4,42 @@ Public speaking is the act of communicating information or ideas to an audience 
 
 #### Key Components
 
-* **Preparation:** Researching your topic, organising your thoughts, and crafting a clear and engaging speech.
-* **Delivery:** How you present your speech, including your voice, tone, body language, and use of visual aids.
-* **Audience:** Understanding your audience's needs, interests, and knowledge level.
-* **Content:** The information or ideas you're conveying, ensuring it's relevant, informative, and persuasive.
+* **Preparation**\
+  Researching your topic, organising your thoughts, and crafting a clear and engaging speech.
+* **Delivery**\
+  How you present your speech, including your voice, tone, body language, and use of visual aids.
+* **Audience**\
+  Understanding your audience's needs, interests, and knowledge level.
+* **Content**\
+  The information or ideas you're conveying, ensuring it's relevant, informative, and persuasive.
 
 #### Benefits
 
-* **Improved Communication:** Enhanced ability to express ideas clearly and confidently.
-* **Increased Confidence:** Overcoming fear of public speaking and building self-esteem.
-* **Leadership Development:** Demonstrating the ability to influence and persuade others.
-* **Professional Advancement:** Enhancing career prospects and leadership opportunities.
+* **Improved Communication**\
+  Enhanced ability to express ideas clearly and confidently.
+* **Increased Confidence**\
+  Overcoming fear of public speaking and building self-esteem.
+* **Leadership Development**\
+  Demonstrating the ability to influence and persuade others.
+* **Professional Advancement**\
+  Enhancing career prospects and leadership opportunities.
 
 #### Tips
 
-* **Practice Regularly:** The more you practice, the more comfortable you'll become.
-* **Know Your Audience:** Tailor your speech to their interests and understanding.
-* **Use Visual Aids:** Enhance your presentation with slides, props, or demonstrations.
-* **Practice Good Posture and Body Language:** Maintain eye contact, use gestures, and stand confidently.
-* **Speak Clearly and Loudly:** Ensure your audience can hear and understand you.
-* **Pause for Effect:** Allow for natural pauses to emphasize key points.
-* **Handle Nerves Gracefully:** Remember that everyone feels nervous at times. Focus on your message and the audience.
+* **Practice Regularly**\
+  The more you practice, the more comfortable you'll become.
+* **Know Your Audience**\
+  Tailor your speech to their interests and understanding.
+* **Use Visual Aids**\
+  Enhance your presentation with slides, props, or demonstrations.
+* **Practice Good Posture and Body Language**\
+  Maintain eye contact, use gestures, and stand confidently.
+* **Speak Clearly and Loudly**\
+  Ensure your audience can hear and understand you.
+* **Pause for Effect**\
+  Allow for natural pauses to emphasize key points.
+* **Handle Nerves Gracefully**\
+  Remember that everyone feels nervous at times. Focus on your message and the audience.
 
 #### Recommended Books
 

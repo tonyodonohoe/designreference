@@ -1,6 +1,10 @@
 # Balanced Scorecard
 
-The Balanced Scorecard is a strategic management tool that helps organisations track and measure their performance across various dimensions, not just financial ones. By combining four perspectives, the Balanced Scorecard provides a comprehensive view of an organisation's performance and helps to align strategic goals with operational activities. It also helps to ensure that organisations are not solely focused on short-term financial performance, but are also investing in long-term growth and sustainability. It aims to provide a balanced view of an organisation's overall health by considering four key perspectives:
+The Balanced Scorecard is a strategic management tool that helps organisations track and measure their performance across various dimensions, not just financial ones. By combining four perspectives, the Balanced Scorecard provides a comprehensive view of an organisation's performance and helps to align strategic goals with operational activities.&#x20;
+
+It also helps to ensure that organisations are not solely focused on short-term financial performance, but are also investing in long-term growth and sustainability.&#x20;
+
+It aims to provide a balanced view of an organisation's overall health by considering four key perspectives:
 
 1. **Financial Perspective**\
    This perspective focuses on the traditional financial measures of an organization's performance, such as profitability, revenue growth, and return on investment. It answers the question, "How do we look to shareholders?"

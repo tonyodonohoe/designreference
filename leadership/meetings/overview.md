@@ -18,10 +18,10 @@ Elizabeth's 2023 article "[Meetings \*are\* the work](https://medium.com/@ElizAy
 
 {% embed url="https://www.goodreads.com/book/show/45689200-make-meetings-matter" %}
 
-### Meeting Types
+#### Meeting Types
 
 {% embed url="https://betterhumans.pub/the-10-most-common-types-of-work-meetings-and-how-to-run-them-well-709ca4f61ce8" %}
 
-### Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/meetings-47121760" %}
