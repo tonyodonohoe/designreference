@@ -3,7 +3,7 @@
 View curated lists of articles relating to [Product Design on Raindrop](https://raindrop.io/TonyODonohoe)
 
 {% hint style="success" %}
-Below are lists of curated management and leadership articles:
+Below are lists of curated management and leadership articles
 {% endhint %}
 
 #### Leadership
