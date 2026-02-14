@@ -40,4 +40,6 @@ The matrix consists of four quadrants:
 
 The Skill-Will Matrix helps leaders adopt a more flexible leadership style, ensuring that their approach aligns with the team member’s current ability and motivation levels. It also encourages leaders to continuously assess and develop both skill and will to drive performance and engagement.
 
+#### Further Reading
+
 {% embed url="https://betterhumans.pub/how-to-use-the-skill-will-matrix-to-better-manage-people-and-performance-278f9ff47283" %}

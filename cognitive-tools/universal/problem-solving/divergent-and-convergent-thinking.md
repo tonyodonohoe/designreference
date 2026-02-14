@@ -9,6 +9,8 @@ Divergent thinking allows the exploration of a wide range of possibilities, brai
 
 Once the initial brainstorming phase is complete, convergent thinking refines thoughts. Generated ideas are carefully evaluated, considering factors such as feasibility, cost-effectiveness, and alignment with goals. Through further analysis and prioritisation, options can be narrowed down and the most promising selected to move forward.
 
+#### Further Viewing
+
 {% embed url="https://www.youtube.com/watch?v=kh4c3R9mSkg" %}
 
 {% embed url="https://www.youtube.com/watch?v=cmBf1fBRXms" %}

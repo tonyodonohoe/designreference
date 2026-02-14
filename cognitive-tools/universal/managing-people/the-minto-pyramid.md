@@ -6,7 +6,9 @@ AKA The Pyramid Principle
 
 <figure><img src="../../../.gitbook/assets/pyramid-principle.png" alt=""><figcaption><p>Image by <a href="https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/">My Consulting Offer</a></p></figcaption></figure>
 
-The Minto Pyramid is a communication framework that emphasises clarity and structure. It suggests organising ideas in a hierarchical structure, with the most important idea at the top and supporting details branching out below. This pyramidal structure mirrors how our minds naturally process information, making it easier to understand and remember. By starting with the main point and then gradually revealing supporting details, you ensure that your message is clear and focused. This approach is particularly useful for complex topics or when you need to persuade an audience. The Minto Principle encourages you to think critically about your ideas, identify their core message, and present it in a logical and compelling way.
+The Minto Pyramid is a communication framework that emphasises clarity and structure. It suggests organising ideas in a hierarchical structure, with the most important idea at the top and supporting details branching out below. This pyramidal structure mirrors how our minds naturally process information, making it easier to understand and remember.&#x20;
+
+By starting with the main point and then gradually revealing supporting details, you ensure that your message is clear and focused. This approach is particularly useful for complex topics or when you need to persuade an audience. The Minto Principle encourages you to think critically about your ideas, identify their core message, and present it in a logical and compelling way.
 
 <figure><img src="../../../.gitbook/assets/pyramid-principle-2.png" alt=""><figcaption><p>Image by <a href="https://sketchplanations.com/the-pyramid-principle">Sketchplanations</a></p></figcaption></figure>
 

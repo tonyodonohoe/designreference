@@ -14,6 +14,8 @@ In simpler terms, it means that when faced with a situation where someone's acti
 
 This principle encourages us to consider the possibility of human error or misunderstanding before jumping to conclusions about malicious intent.
 
+#### Further Reading
+
 {% embed url="https://fs.blog/mental-model-hanlons-razor/" %}
 
 {% embed url="https://journeynudge.com/Hanlons-razor/" %}

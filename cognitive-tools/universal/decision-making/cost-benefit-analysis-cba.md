@@ -4,38 +4,38 @@ Cost-Benefit Analysis (CBA) is a systematic approach to evaluating the strengths
 
 #### Key Components of CBA
 
-* **Costs**:\
+* **Costs**\
   These are the resources that are used up or sacrificed as a result of the decision. Costs can be tangible (like money spent on materials or labour) or intangible (like time or opportunity costs).
-* **Benefits**:\
+* **Benefits**\
   These are the positive outcomes or advantages that are gained from the decision. Benefits can also be tangible (like increased revenue or reduced expenses) or intangible (like improved employee morale or enhanced reputation).
 
 #### How CBA Works
 
-1. **Identify Costs and Benefits**:\
+1. **Identify Costs and Benefits**\
    The first step is to carefully identify all the relevant costs and benefits associated with the decision. This involves considering both short-term and long-term impacts.
-2. **Quantify Costs and Benefits**:\
+2. **Quantify Costs and Benefits**\
    Once you've identified the costs and benefits, you need to quantify them in monetary terms, whenever possible. This allows for a more accurate comparison.
-3. **Calculate Net Present Value (NPV)**:\
+3. **Calculate Net Present Value (NPV)**\
    NPV is a financial metric that helps you compare the present value of expected future cash flows. It accounts for the time value of money, meaning that money today is worth more than the same amount of money in the future.
-4. **Analyse Results**:\
+4. **Analyse Results**\
    By comparing the NPV of different options, you can determine which one offers the best return on investment. A positive NPV indicates that the benefits outweigh the costs, while a negative NPV suggests the opposite.
 
 #### Advantages of CBA
 
-* **Data-Driven Decision Making**:\
+* **Data-Driven Decision Making**\
   CBA relies on data and analysis, reducing reliance on subjective judgments.
-* **Uncovers Hidden Costs and Benefits**:\
+* **Uncovers Hidden Costs and Benefits**\
   The process forces you to consider all aspects of a decision, revealing potential costs or benefits that might otherwise be overlooked.
-* **Improves Decision Transparency**:\
+* **Improves Decision Transparency**\
   CBA provides a clear and transparent framework for decision-making, making it easier to justify choices to stakeholders.
 
 #### Limitations of CBA
 
-* **Difficulty in Quantifying Intangible Factors**:\
+* **Difficulty in Quantifying Intangible Factors**\
   It can be challenging to assign monetary values to intangible benefits or costs, such as improved employee morale or brand reputation.
-* **Uncertainty and Risk**:\
+* **Uncertainty and Risk**\
   Future events are inherently uncertain, making it difficult to accurately predict costs and benefits.
-* **Time and Resource Intensive**:\
+* **Time and Resource Intensive**\
   Conducting a thorough CBA can be time-consuming and resource-intensive, especially for complex decisions.
 
 #### In Short

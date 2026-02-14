@@ -1,6 +1,10 @@
 # Iceberg Model
 
-The Iceberg Model represents a conceptual framework, often employed in systems thinking, communication theory, and organisational analysis, that illustrates how observable events constitute only a small fraction of a larger, interconnected reality. The metaphor is derived from a physical iceberg, where a substantial majority of its mass remains hidden below the waterline, much like the root causes of systemic issues.
+<figure><img src="../../../.gitbook/assets/Iceberg-Model.png" alt=""><figcaption><p>Image by <a href="https://about.ecochallenge.org/iceberg-model/">ecochallenge</a></p></figcaption></figure>
+
+The Iceberg Model represents a conceptual framework, often employed in systems thinking, communication theory, and organisational analysis, that illustrates how observable events constitute only a small fraction of a larger, interconnected reality.&#x20;
+
+The metaphor is derived from a physical iceberg, where a substantial majority of its mass remains hidden below the waterline, much like the root causes of systemic issues.
 
 The model functions by encouraging analysis beyond surface-level symptoms, diving into deeper, more abstract layers to uncover the drivers of a problem.
 
@@ -14,11 +18,11 @@ The deepest, and largest, submerged layer consists of Mental Models. These are t
 
 This structured decomposition provides a means to transcend reactive firefighting, allowing for the identification of high-leverage intervention points that lead to sustainable, long-term improvement.
 
-
-
-<figure><img src="../../../.gitbook/assets/Iceberg-Model.png" alt=""><figcaption><p>Image by <a href="https://about.ecochallenge.org/iceberg-model/">ecochallenge</a></p></figcaption></figure>
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=y6h2_EcOOcM" %}
+
+#### Further Reading
 
 {% embed url="https://untools.co/iceberg-model/" %}
 

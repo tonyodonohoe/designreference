@@ -4,19 +4,19 @@
 
 The OODA Loop, a decision-making framework, is a cycle of four stages: observe, orient, decide, and act. It's a way to navigate complex and rapidly changing situations effectively.
 
-#### 1. Observe
+#### Observe
 
 You start by observing your surroundings, gathering information, and paying attention to what's happening.
 
-#### 2. Orient
+#### Orient
 
 Then, you orient yourself, making sense of the information you've gathered, understanding the context, and identifying potential opportunities or threats.
 
-#### 3. Decide
+#### Decide
 
 Next, you decide on a course of action based on your understanding of the situation.
 
-#### 4. Act
+#### Act
 
 Finally, you act on your decision, implementing your plan and taking the necessary steps. The key to the OODA Loop is its cyclical nature.
 

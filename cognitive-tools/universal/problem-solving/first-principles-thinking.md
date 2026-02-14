@@ -14,13 +14,13 @@ In essence, first principles thinking is about starting from scratch and reasoni
 
 This method of reasoning starts by breaking down a complex problem into its most fundamental elements. It's like dismantling a machine to understand how each part works, and then reassembling it with a new understanding. First principles thinking is about starting from scratch, free from preconceived notions, to discover new and better ways of doing things. It's a powerful tool for problem-solving, innovation, and critical thinking.
 
-Key characteristics of first principles thinking:
+#### Key Characteristics
 
 * Reduction: Breaking down a complex problem into its simplest components.
 * Questioning: Challenging assumptions and conventional wisdom.
 * Rebuilding: Reconstructing the problem or solution from the ground up.
 
-Example:
+#### Example
 
 Imagine you're trying to design a more efficient car. Instead of looking at existing car designs for inspiration, you might start by asking:
 
@@ -30,19 +30,25 @@ Imagine you're trying to design a more efficient car. Instead of looking at exis
 
 By starting with the most basic elements of the problem, you can explore innovative solutions that might not have been considered otherwise.
 
-Benefits of first principles thinking:
+#### Benefits
 
-* Innovation: It can lead to groundbreaking solutions by challenging conventional wisdom.
+* Innovation: It can lead to ground-breaking solutions by challenging conventional wisdom.
 * Clarity: It can help you understand complex problems more deeply.
 * Decision-making: It can provide a solid foundation for making informed choices.
 
 #### The Smartest Person I Ever Worked With Taught Me One Thing
 
-The article from simplest "[The Smartest Person I Ever Worked With Taught Me One Thing](https://medium.com/read-or-die/the-smartest-person-i-ever-worked-with-taught-me-one-thing-ccf99c808985)" reflects on the author's experience working with a highly intelligent and effective manager named Adam at a startup. Adam was an exceptional manager and programmer who stood out due to his unique problem-solving skills. He approached challenges by breaking down large problems into manageable parts and focusing on identifying and addressing the root causes of issues, rather than just dealing with surface-level symptoms. The author emphasises how this approach had a profound impact on his own thinking and problem-solving abilities. By learning from Adam, the author realised the importance of adopting a strategic mindset that involves simplifying complex problems and preventing future issues by addressing their underlying causes. This experience taught the author that intelligence is not just about innate ability but also about perspective and approach to learning and problem-solving.
+The article from simplest "[The Smartest Person I Ever Worked With Taught Me One Thing](https://medium.com/read-or-die/the-smartest-person-i-ever-worked-with-taught-me-one-thing-ccf99c808985)" reflects on the author's experience working with a highly intelligent and effective manager named Adam at a startup.&#x20;
+
+Adam was an exceptional manager and programmer who stood out due to his unique problem-solving skills. He approached challenges by breaking down large problems into manageable parts and focusing on identifying and addressing the root causes of issues, rather than just dealing with surface-level symptoms.&#x20;
+
+The author emphasises how this approach had a profound impact on his own thinking and problem-solving abilities. By learning from Adam, he realised the importance of adopting a strategic mindset that involves simplifying complex problems and preventing future issues by addressing their underlying causes.&#x20;
+
+This experience taught him that intelligence is not just about innate ability but also about perspective and approach to learning and problem solving.
 
 {% embed url="https://medium.com/read-or-die/the-smartest-person-i-ever-worked-with-taught-me-one-thing-ccf99c808985" %}
 
-### Videos
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=NV3sBlRgzTI" %}
 
@@ -57,7 +63,5 @@ The article from simplest "[The Smartest Person I Ever Worked With Taught Me One
 {% embed url="https://medium.com/the-entrepreneurship-streak/first-principles-thinking-the-secret-sauce-to-success-2d22f3f61df4" %}
 
 {% embed url="https://jamesclear.com/first-principles" %}
-
-{% embed url="https://makeiterate.com/how-to-use-first-principles-thinking-for-ux-designers/" %}
 
 {% embed url="https://www.readynorth.com/blog/what-is-first-principles-thinking" %}

@@ -8,7 +8,9 @@ description: The simplest explanation or solution is often the correct one
 AKA Law of Parsimony, Principle of Parsimony
 {% endhint %}
 
-Occam's Razor is a problem-solving principle that suggests we should always choose the simplest explanation among competing hypotheses, as long as they equally explain the phenomenon in question. In other words, it advocates for parsimony, favouring explanations that require the fewest assumptions. This principle is often paraphrased as "the simplest explanation is usually the best one." The principle is often expressed as "Entities must not be multiplied beyond necessity".
+Occam's Razor is a problem-solving principle that suggests we should always choose the simplest explanation among competing hypotheses, as long as they equally explain the phenomenon in question.&#x20;
+
+In other words, it advocates for parsimony, favouring explanations that require the fewest assumptions. This principle is often paraphrased as "the simplest explanation is usually the best one." The principle is often expressed as "Entities must not be multiplied beyond necessity".
 
 It is a principle in philosophy and science that suggests when faced with multiple possible explanations or hypotheses, the simplest one is often the best. In other words, it encourages us to choose the explanation that requires the fewest assumptions or entities.
 
