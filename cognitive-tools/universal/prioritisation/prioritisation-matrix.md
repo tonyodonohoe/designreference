@@ -4,32 +4,60 @@ description: Weighs potential value against implementation difficulty
 
 # Prioritisation Matrix
 
-<figure><img src="../../../.gitbook/assets/Prioritisation-Matrix.png" alt="" width="375"><figcaption><p>Prioritisation Matrix image by <a href="https://www.nngroup.com/articles/prioritization-matrices/">Nielsen Norman Group</a></p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/Impact-Effort-Matrix.jpg" alt="" width="375"><figcaption><p>Image by <a href="https://www.flickr.com/photos/davegray/5172059225/">Dave Grey</a></p></figcaption></figure>
 
 {% hint style="info" %}
 AKA Prioritisation Matrix, Value vs Complexity Matrix, Value vs Effort Matrix, Impact vs Effort Matrix
 {% endhint %}
 
-Prioritise tasks with the Impact-Effort Matrix. The Impact-Effort Matrix is a powerful tool for prioritising tasks or projects. By visually mapping tasks based on their impact and effort, you can quickly identify the highest-value, lowest-effort opportunities.
+A prioritisation matrix is a strategic framework used to rank tasks, features, or projects by plotting them against two competing variables. It transforms subjective team debates into a structured, visual, and objective decision-making process.&#x20;
 
-#### How it Works
+By mapping items on a two-by-two grid, organisations can move away from "gut feel" and instead allocate their limited resources, such as time, budget, and personnel, toward the activities that yield the highest return.
 
-1. **Identify Impact:** Determine the potential value or benefit of each task. High-impact tasks significantly contribute to your goals.
-2. **Assess Effort:** Estimate the time, resources, and complexity required to complete each task. Low-effort tasks are relatively straightforward.
-3. **Plot on the Matrix:** Position each task on a grid with impact on one axis and effort on the other.
+While many teams use specific versions like "Impact versus Effort" or "Value versus Complexity," the underlying principle remains the same: comparing the benefits of an action against the costs or risks required to achieve it.
 
-<figure><img src="../../../.gitbook/assets/Impact-Effort-Matrix.jpg" alt="" width="563"><figcaption><p>Image <a href="https://www.flickr.com/photos/davegray/5172059225/">Source</a></p></figcaption></figure>
+#### How the Framework Works
 
-#### Prioritisation Strategy
+The power of a prioritisation matrix lies in its flexibility. Depending on your goals, you can choose different criteria for your horizontal (X) and vertical (Y) axes.
 
-* **High-Impact, Low-Effort:** Focus on these tasks first. They offer significant returns with minimal investment.
-* **High-Impact, High-Effort:** Consider these carefully, as they may require strategic planning and resource allocation.
-* **Low-Impact, Low-Effort:** These tasks can often be delegated or deferred.
-* **Low-Impact, High-Effort:** Re-evaluate these tasks to determine if they truly align with your priorities.
+* Select Your Variables: Choose two criteria that are most relevant to your current challenge. Common pairings include Value vs Risk, Urgency vs Importance, or Impact vs Feasibility.
+* Define and Score: For every item in your backlog, assign a score for both variables. For instance, if you are measuring "Value," consider potential revenue or customer satisfaction. If measuring "Complexity," consider technical difficulty and man-hours.
+* Plot on the Grid: Position each item on the matrix based on its scores. This visual layout immediately reveals which items are high-leverage and which are distractions.
 
-By strategically prioritising tasks, you can maximise productivity and achieve goals efficiently.
+<figure><img src="../../../.gitbook/assets/Prioritisation-Matrix.png" alt="" width="375"><figcaption><p>Prioritisation Matrix image by <a href="https://www.nngroup.com/articles/prioritization-matrices/">Nielsen Norman Group</a></p></figcaption></figure>
+
+#### Navigating the Four Quadrants
+
+Regardless of the specific labels you use for your axes, the resulting four quadrants generally offer the same strategic guidance:
+
+* High Benefit / Low Cost (Quick Wins): These are your top priorities. They offer significant rewards for a relatively small investment. Aim to complete these first to build momentum.
+* High Benefit / High Cost (Strategic Initiatives): Often called "Big Bets," these projects offer long-term value but require substantial resources. These demand careful planning and are often broken down into smaller, more manageable phases.
+* Low Benefit / Low Cost (Fill-ins): These tasks are minor improvements that don't move the needle significantly. They should be tackled only when time allows or during "lull" periods between larger projects.
+* Low Benefit / High Cost (Money Pits): These items consume excessive resources for a poor return. In most cases, these should be deprioritised, delegated, or removed from the roadmap entirely.
+
+<figure><img src="../../../.gitbook/assets/value-v-complexity-1.png" alt=""><figcaption><p>Image by <a href="https://productfolio.com/value-vs-complexity/">Productfolio</a></p></figcaption></figure>
+
+#### Choosing the Right Matrix for Your Needs
+
+Because "Prioritisation Matrix" is a broad category, you should select the specific type that matches your current bottleneck:
+
+#### Common Types of Prioritisation Matrices
+
+* **Value vs Complexity Matrix**: This is the standard product management tool where "Value" represents the benefit to the user or business, and "Complexity" represents the technical difficulty or effort required. Good for Product Roadmapping.
+* **Impact vs Effort Matrix**: Often used interchangeably with Value vs Complexity, this matrix focuses on the "Impact" a task will have versus the "Effort" (usually time or resources) needed to complete it. Good for Product Roadmapping.
+* **Eisenhower Matrix (Urgency vs Importance)**: Primarily used for time management and task triaging, this matrix categorises tasks into four quadrants: Do First, Schedule, Delegate, and Eliminate. Good for Daily Task Management.
+* **Value vs Risk Matrix**: This version is used when uncertainty is a major factor. It plots the potential "Value" against the "Risk" involved in implementation, helping teams decide if a high-value feature is worth the gamble. Good for Research and Development.
+* [**MoSCoW Method Matrix**](moscow.md): While often a list, it can be visualised as a matrix to categorise items into Must have, Should have, Could have, and Won't have for this cycle.
+* **Kano Model**: This is a more complex matrix that plots "Customer Satisfaction" against "Functionality" or investment. It helps distinguish between basic expectations, performance features, and "delighters" that provide an emotional boost.
+* **Impact vs Feasibility**: Good for General Strategy.
+
+#### Further Viewing
+
+{% embed url="https://www.youtube.com/watch?v=ZneQHo9Xddk" %}
+
+{% embed url="https://www.youtube.com/watch?v=0ApOz3CRBwY" %}
+
+{% embed url="https://www.youtube.com/watch?v=wjQRFnT3Xdg" %}
 
 #### Further Reading
 
@@ -53,30 +81,6 @@ By strategically prioritising tasks, you can maximise productivity and achieve g
 
 {% embed url="https://medium.com/the-good-boss/stop-wasting-time-the-simple-matrix-that-can-change-your-teams-productivity-7ac93e563482" %}
 
-## Value vs Complexity Matrix
-
-<figure><img src="../../../.gitbook/assets/value-v-complexity-1.png" alt=""><figcaption><p>Image by <a href="https://productfolio.com/value-vs-complexity/">Productfolio</a></p></figcaption></figure>
-
-The Value versus Complexity Matrix is a vital prioritisation tool, often employed in product management and strategic planning, that provides a visual method for determining which initiatives, features, or projects should be tackled first. The framework operates on the fundamental principle that resources should be allocated to maximize return, directing effort toward activities that yield the most benefit for the least investment.
-
-The matrix takes the form of a two-by-two grid, or quadrant, where the vertical axis represents Value and the horizontal axis represents Complexity (sometimes referred to as Effort). Value is assessed based on the anticipated benefit an initiative will deliver, incorporating factors such as potential revenue generation, competitive advantage, or the positive impact on the customer experience. Complexity, conversely, is a measure of the resources, time, technical risk, and development effort required for successful implementation. By defining these two critical dimensions and assigning scores to each potential item, a logical plot point is generated for every initiative.
-
-The resultant four quadrants provide clear guidance for prioritization. Initiatives falling into the High Value, Low Complexity section are considered "Quick Wins" and represent the highest priority, offering the greatest reward for minimal effort. The High Value, High Complexity quadrant contains "Big Bets" or strategic initiatives, projects that offer significant long-term benefit but require substantial resources, demanding careful planning and potential breakdown into smaller, manageable phases. Conversely, Low Value, Low Complexity items are typically relegated to "Fill-ins" or deferred, undertaken only when time allows. Finally, initiatives in the Low Value, High Complexity quadrant are regarded as "Time Sinks" or "Money Pits" and should generally be avoided or deprioritised, as they consume excessive resources for a poor return. The utility of the matrix lies in its ability to transform subjective debates into a structured, objective, and transparent decision-making process.
-
-#### Further Viewing
-
-{% embed url="https://www.youtube.com/watch?v=ZneQHo9Xddk" %}
-
-{% embed url="https://www.youtube.com/watch?v=0ApOz3CRBwY" %}
-
-{% embed url="https://www.youtube.com/watch?v=wjQRFnT3Xdg" %}
-
-#### Further Reading
-
 {% embed url="https://www.productplan.com/glossary/value-vs-complexity/" %}
-
-{% embed url="https://productfolio.com/value-vs-complexity/" %}
-
-{% embed url="https://hellopm.co/what-is-value-vs-complexity/" %}
 
 {% embed url="https://productfolio.com/value-vs-complexity/" %}

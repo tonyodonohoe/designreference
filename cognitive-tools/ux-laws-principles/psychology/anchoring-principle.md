@@ -16,7 +16,7 @@ You will frequently see this method applied in pricing tables where a premium op
 
 Beyond just numbers, anchoring can influence how users perceive the quality or speed of a service. For example, if a loading screen provides a high initial estimate for a download time, the user feels a sense of relief and satisfaction when the actual progress bar moves faster than that first expectation. It is a powerful tool for managing expectations, but it must be used ethically. If the anchor is too far removed from reality, it can lead to frustration or a total loss of trust in the interface.
 
-<figure><img src="../../../../.gitbook/assets/Anchoring-effect.png" alt=""><figcaption><p>Image by <a href="https://thedecisionlab.com/biases/anchoring-bias">The Decision Lab</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Anchoring-effect.png" alt=""><figcaption><p>Image by <a href="https://thedecisionlab.com/biases/anchoring-bias">The Decision Lab</a></p></figcaption></figure>
 
 **Example 1**
 

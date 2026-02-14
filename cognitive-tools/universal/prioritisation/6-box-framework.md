@@ -28,6 +28,6 @@ The [6 Box Framework for Managers](https://medium.com/illumination/mind-boxing-h
 * Strengthen relationships with team members.
 * Drive better results for the organisation.
 
-#### The Framework
+#### Further Reading
 
 {% embed url="https://medium.com/illumination/mind-boxing-how-leaders-should-spend-their-time-the-6-box-framework-e6434efe06a3" %}
