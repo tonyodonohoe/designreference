@@ -1,19 +1,23 @@
 # Managing Up
 
-### **Overview**
+Managing up is the skill of effectively working with and influencing those above you in the organisational hierarchy. It involves building strong, productive relationships with your managers to help both of you succeed in your roles.&#x20;
 
-Managing up is the skill of effectively working with and influencing those above you in the organisational hierarchy. It involves building strong, productive relationships with your managers to help both of you succeed in your roles. Rather than just completing tasks assigned to you, managing up is about proactively engaging with your manager, anticipating their needs, and aligning your work with their goals and the wider business objectives.
+Rather than just completing tasks assigned to you, managing up is about proactively engaging with your manager, anticipating their needs, and aligning your work with their goals and the wider business objectives.
 
 By effectively managing up, you can create a more productive, aligned, and successful working relationship with your manager, leading to better results for you, your team, and the organisation as a whole.
 
-### **Why is Managing Up Important?**
+#### **Why is Managing Up Important?**
 
-* **Improves communication**: By managing up, you help establish clear communication channels with your manager, ensuring that expectations are understood and met.
-* **Boosts productivity**: When both you and your manager are aligned, it reduces misunderstandings and increases efficiency.
-* **Career growth**: Managing up can enhance your visibility and reputation within the company, showcasing your leadership potential.
-* **Contributes to team success**: By understanding the priorities and pressures your manager faces, you can contribute more meaningfully to team and organisational goals.
+* **Improves communication**\
+  By managing up, you help establish clear communication channels with your manager, ensuring that expectations are understood and met.
+* **Boosts productivity**\
+  When both you and your manager are aligned, it reduces misunderstandings and increases efficiency.
+* **Career growth**\
+  Managing up can enhance your visibility and reputation within the company, showcasing your leadership potential.
+* **Contributes to team success**\
+  By understanding the priorities and pressures your manager faces, you can contribute more meaningfully to team and organisational goals.
 
-### How to Manage Up
+#### How to Manage Up
 
 **1. Understand Your Manager's Goals**
 
@@ -65,7 +69,7 @@ _Tips:_
 * Clarify how success will be measured for each task.
 * Don’t hesitate to ask for clarification if you’re unsure about expectations.
 
-### Best Practices
+#### Best Practices
 
 1. **Be Solution-Oriented**\
    Instead of simply presenting problems, bring solutions. This helps your manager focus on decision-making rather than problem-solving.
@@ -80,13 +84,13 @@ _Tips:_
 6. **Be Resilient and Adaptable**\
    Organisational priorities shift frequently, and managers may change direction. Be adaptable to new expectations and resilient in the face of challenges.
 
-### Pitfalls
+#### Pitfalls
 
 * **Micromanaging your manager**: While it's important to offer updates, don't overdo it. Trust that your manager doesn’t need to know every minor detail.
 * **Overpromising and underdelivering**: Be realistic about what you can achieve. It's better to set accurate expectations than to overpromise and fail to meet them.
 * **Ignoring feedback**: If your manager offers constructive criticism, use it as an opportunity to improve, not a reason to become defensive.
 
-### Further Viewing
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=rTpLuwhUOYk" %}
 
@@ -94,6 +98,6 @@ _Tips:_
 
 {% embed url="https://www.youtube.com/watch?v=HBKkQzFAVtE" %}
 
-### Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/managing-up-47766836" %}

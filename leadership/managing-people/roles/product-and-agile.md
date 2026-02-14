@@ -1,10 +1,10 @@
 # Product & Agile
 
-### Scrum Master
+#### Scrum Master
 
 Facilitates Agile teams by ensuring that Scrum processes are followed and removing any obstacles that may block the team's progress. The Scrum Master is responsible for facilitating the Scrum process and empowering the team. Their role focuses on helping the development team perform at their best by removing any barriers they face and ensuring Scrum principles are understood and applied across the organisation.
 
-### Product Owner
+#### Product Owner
 
 Focuses on managing the product backlog, working closely with the development team to ensure that the highest-priority features are delivered. The Product Owner's main objective is to maximise the value the product delivers. They act as the bridge between the development team and stakeholders, ensuring the team works on the right priorities and aligning the product vision with stakeholder expectations.
 
@@ -14,7 +14,7 @@ Focuses on managing the product backlog, working closely with the development te
 
 {% embed url="https://levelup.gitconnected.com/5-habits-of-highly-ineffective-product-owners-f3f288029be8" %}
 
-### Agile Coach
+#### Agile Coach
 
 Helps teams adopt and improve their use of Agile practices, ensuring that they deliver value efficiently.
 
@@ -24,7 +24,7 @@ Helps teams adopt and improve their use of Agile practices, ensuring that they d
 
 {% embed url="https://medium.com/@WJAgeling/agile-coaches-should-eat-their-own-dog-food-bf891502cf50" %}
 
-### Product Manager
+#### Product Manager
 
 Defines the vision, strategy, and roadmap for products. They prioritise features, coordinate cross-functional teams, and ensure that the product meets both business and customer needs.
 
@@ -46,26 +46,26 @@ Defines the vision, strategy, and roadmap for products. They prioritise features
 
 {% embed url="https://medium.com/design-bootcamp/should-ux-designers-become-pms-1ca289a6c233" %}
 
-### Product Analyst
+#### Product Analyst
 
 Gathers and analyses data on product performance, market trends, and user feedback, offering insights that inform product decisions.
 
-### Business Analyst
+#### Business Analyst
 
 Identifies business needs and proposes solutions, often serving as the link between business stakeholders and development teams.
 
-### Project Manager
+#### Project Manager
 
 Plans, executes, and closes projects. They manage timelines, budgets, and resources, ensuring that projects are delivered on time.
 
-### Technical Writer
+#### Technical Writer
 
 Develops and maintains documentation that helps users understand complex technical systems or products.
 
-### Marketing Analyst
+#### Marketing Analyst
 
 Analyses market trends, customer behaviour, and campaign performance to guide marketing strategies and product positioning.
 
-### Data Analyst
+#### Data Analyst
 
 Collects and interprets data to provide actionable insights that help guide business decisions.
