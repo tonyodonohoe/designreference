@@ -250,6 +250,7 @@
   * [Performance Management](leadership/managing-people/performance-management.md)
   * [Retention](leadership/managing-people/retention.md)
   * [Roles](leadership/managing-people/roles/README.md)
+    * [Overview](leadership/managing-people/roles/design-roles.md)
     * [Design/UX](leadership/managing-people/roles/design-ux.md)
     * [Engineering](leadership/managing-people/roles/engineering.md)
     * [Levels](leadership/managing-people/roles/levels.md)
@@ -326,26 +327,12 @@
 
 ## Resources
 
-* [Education](resources/education.md)
-* [Articles](resources/articles.md)
-* [Leadership Books](resources/books.md)
 * [AI Pulse](resources/ai-pulse.md)
-* [Conferences](resources/conferences.md)
-* [Education](resources/education-1.md)
+* [Articles](resources/articles.md)
+* [Books](resources/books.md)
+* [Education](resources/education.md)
 * [Experts](resources/experts.md)
+* [Research](resources/research-foundations.md)
 * [Quotes](resources/quotes.md)
 * [Software](resources/software.md)
-* [Templates](resources/templates.md)
-* [Video Hub](resources/video-hub.md)
-
-## Insights
-
-* [Design Roles](insights/design-roles.md)
-* [Insightful Articles](insights/insightful-articles.md)
-* [Research Foundations](insights/research-foundations.md)
-* [Vocabulary Inflation](insights/vocabulary-inflation.md)
-
-## AI
-
-* [AI](ai/ai-pulse.md)
-* [For Deletion](ai/for-deletion.md)
+* [Video Hub](https://raindrop.io/TonyODonohoe/video-hub-38019834)

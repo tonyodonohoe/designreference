@@ -1,12 +1,14 @@
-# Research Foundations
+# Research
 
-### Introduction
+It is impossible to describe what you do as UX and product design if you do not include users in your workflow. Users are included through research. Research is the backbone of great product design, providing the insights that inform every decision, from initial concept to final launch.&#x20;
 
-It is impossible to describe what you do as UX and product design if you do not include users in your workflow. Users are included through research. Research is the backbone of great product design, providing the insights that inform every decision, from initial concept to final launch. It's about understanding user needs, behaviours, and pain points to create products that truly resonate. By diving deep into user research, you can uncover hidden opportunities, validate assumptions, and make data-driven decisions that lead to exceptional user experiences.
+It's about understanding user needs, behaviours, and pain points to create products that truly resonate. By diving deep into user research, you can uncover hidden opportunities, validate assumptions, and make data-driven decisions that lead to exceptional user experiences.
 
-The UX planning phase is all about understanding what you have been asked to do and working out the best combination of activities that will give you the outcome you need, within the time, budgetary, and resource constraints of the project. It is your job as a UX professional to deliver the best user experience within the time and budget available. The key principle for all UX projects is that you must ensure that you involve users in the design process in some way.
+The UX planning phase is all about understanding what you have been asked to do and working out the best combination of activities that will give you the outcome you need, within the time, budgetary, and resource constraints of the project.&#x20;
 
-You need to include activities which answer the following questions:
+It is your job as a UX professional to deliver the best user experience within the time and budget available. The key principle for all UX projects is that you must ensure that you involve users in the design process in some way.
+
+**You need to include activities which answer the following questions:**
 
 1. What are the business requirements?
 2. Why is the project going ahead?

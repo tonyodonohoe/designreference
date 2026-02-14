@@ -1,10 +1,8 @@
----
-hidden: true
----
-
 # Experts
 
-## Peter Merholz
+### Leadership Experts
+
+#### Peter Merholz
 
 Peter Merholz has worked at the intersection of design, technology, and humans for over 25 years. Currently, he’s an independent consultant focused on improving the effectiveness of design organizations. His clients include JP Morgan Chase, Ceridian, The New York Times, Roblox, and Starbucks.
 
@@ -16,7 +14,7 @@ Oh, and, yeah, he coined the word “blog.”
 
 [https://www.petermerholz.com/](https://www.petermerholz.com/)
 
-## Tobias Charles
+#### Tobias Charles
 
 I write about leadership, learning, and personal growth. I love helping others get the best out of themselves, and I love finding out what I didn’t know! British blogger based in Taiwan - Wandering in wonderment; combining self-improvement with self-discovery.
 
@@ -24,7 +22,7 @@ I write about leadership, learning, and personal growth. I love helping others g
 
 [X](https://x.com/TheRealTobyShaw)
 
-## John Maeda
+#### John Maeda
 
 Technologist and product experience leader that bridges business, engineering, design via working inclusively. VP Design and AI at Microsoft.
 
@@ -32,13 +30,13 @@ Technologist and product experience leader that bridges business, engineering, d
 
 [X](https://x.com/johnmaeda)
 
-## The Center for Creative Leadership
+#### The Center for Creative Leadership
 
-The Center for Creative Leadership is recognized as a top-ranked, global, nonprofit provider of leadership development and a pioneer in the field of global leadership research.
+The Center for Creative Leadership is recognized as a top-ranked, global, non-profit provider of leadership development and a pioneer in the field of global leadership research.
 
 {% embed url="https://www.ccl.org/" %}
 
-## Julie Zhuo
+#### Julie Zhuo
 
 Julie Zhuo secured an intern role at Facebook in 2006, eventually ascending to the position of design manager before assuming the role of Vice President of Product and Design.
 
@@ -48,28 +46,32 @@ Julie Zhuo secured an intern role at Facebook in 2006, eventually ascending to t
 
 {% embed url="https://medium.com/the-year-of-the-looking-glass" %}
 
-## Your CEO Mentor
+#### Your CEO Mentor
 
 Your CEO Mentor offers practical, proven strategies to help build high-performing teams and achieve exceptional results. The program is based on the insights of Martin G. Moore, a seasoned CEO with decades of experience leading successful companies. Discover the techniques that Marty used to drive growth, foster innovation, and inspire his teams.
 
 {% embed url="https://yourceomentor.com/" %}
 
-## Melody Wilding
+#### Melody Wilding
 
 Melody Wilding helps sensitive strivers break free from imposter syndrome and overthinking so they can find the confidence to lead effectively.
 
 {% embed url="https://melodywilding.com/" %}
 
-## Expert Program Management
+#### Expert Program Management
 
 Leadership, Management, and Personal Development training.
 
 {% embed url="https://www.youtube.com/@epm8805/videos" %}
 
-## The Decision Lab
+#### The Decision Lab
 
-The Decision Lab is an applied research and innovation firm. We use behavioral science & design to help ambitious organizations create a better future. We do this by providing consulting services to some of the largest organizations in the world, carrying out research in priority areas, and running one of the largest publications in applied behavioral science. In the past, we have helped organizations such as the Gates Foundation, Capital One, the World Bank and numerous Fortune 500s solve some of their thorniest problems using scientific thinking.
+The Decision Lab is an applied research and innovation firm that utilises behavioural science and design to assist ambitious organisations in creating a better future. This is achieved through the provision of consulting services to some of the largest organisations in the world, the execution of research in priority areas, and the management of one of the largest publications in applied behavioural science.
 
-We make 35,000 decisions a day with a brain adapted to a very different world from the one we live in today. Unsurprisingly, many of our decisions lead to outcomes we don’t want. This can limit us as individuals, organizations and societies. At The Decision Lab, our goal is to understand how decisions can be aligned with what we individually and collectively want to achieve. We use insights from a variety of fields – from well established ones such as psychology and behavioral economics, to cutting edge ones such as social physics and artificial intelligence – to understand and improve decisions. Our goal is to use science to empower the world.
+Past collaborations include work with organisations such as the Gates Foundation, Capital One, the World Bank, and numerous Fortune 500s to solve complex problems through scientific thinking.
+
+Humans make approximately 35,000 decisions a day with a brain adapted to a significantly different environment than the modern world. Frequently, these decisions lead to unintended outcomes, creating limitations for individuals, organisations, and societies.
+
+The Decision Lab aims to understand how decisions can be aligned with individual and collective goals. By leveraging insights from established fields like psychology and behavioural economics, as well as cutting-edge disciplines such as social physics and artificial intelligence, the firm works to understand and improve decision-making processes. The ultimate objective is the application of science to empower the global community.
 
 {% embed url="https://thedecisionlab.com/about-the-decision-lab" %}

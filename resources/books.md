@@ -1,8 +1,14 @@
 # Books
 
-### Leadership Books
+View a curated list of books relating to [Product Design](https://raindrop.io/TonyODonohoe/books-37602031)
 
-<div align="left"><figure><img src="../../.gitbook/assets/the-making-of-a-manager.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+View a curated list of books relating to [Leadership & Management](https://raindrop.io/TonyODonohoe/books-37602031/search/sort=-created\&perpage=30\&page=0\&search=%22%23Books+\(Leadership\)%22)
+
+{% hint style="success" %}
+Below are top picks for leadership books
+{% endhint %}
+
+<div align="left"><figure><img src="../.gitbook/assets/the-making-of-a-manager.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The Making of a Manager](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager)
 
@@ -11,7 +17,7 @@ by Julie Zhuo (2019)
 
 "The Making of a Manager" by Julie Zhuo is a practical guide for aspiring and new managers. It offers insights into the challenges and rewards of leadership, covering topics such as building effective teams, giving feedback, and making tough decisions. Zhuo shares personal anecdotes and actionable advice to help readers develop their management skills and become more confident leaders.
 
-<div align="left"><figure><img src="../../.gitbook/assets/liftoff.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/liftoff.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Liftoff!](https://www.goodreads.com/book/show/54426021-liftoff)
 
@@ -20,7 +26,7 @@ by Chris Avore, and Russ Unger (2020)
 
 "Liftoff!" is a comprehensive guide for design leaders, offering practical advice on building and managing successful design teams. Authors Chris Avore and Russ Unger delve into various aspects of design leadership, from hiring and onboarding new talent to fostering team culture and scaling design efforts. The book covers essential topics like creating effective team charters, conducting meaningful one-on-one meetings, and providing constructive feedback through design critiques. It also explores strategies for presenting work effectively, saying no strategically, and growing individual designers within the team. Additionally, the book addresses broader organizational challenges, such as influencing stakeholders, escaping the trap of velocity, and advocating for the value of design. By sharing their insights and experiences, the authors provide a valuable resource for design leaders at all levels, empowering them to elevate their teams and organisations.
 
-<div align="left"><figure><img src="../../.gitbook/assets/the-managers-path.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/the-managers-path.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 
@@ -29,7 +35,7 @@ by Camille Fournier (2017)
 
 "The Manager's Path" by Camille Fournier is a comprehensive guide for tech leaders navigating the complexities of management. It covers the various managerial roles, from mentoring and leading teams to managing managers and shaping organisational culture. Fournier offers practical advice on handling challenges like performance reviews, difficult conversations, and fostering a positive work environment. This book empowers aspiring and seasoned managers to excel in their roles and drive their teams toward success.
 
-<div align="left"><figure><img src="../../.gitbook/assets/the-leaders-playbook.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/the-leaders-playbook.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The Leader's Playbook](https://www.goodreads.com/book/show/217219532-the-leader-s-playbook)
 
@@ -38,7 +44,7 @@ by Gaurav Jain (2024)
 
 "The Leader's Playbook" by Gaurav Jain is a comprehensive guide for aspiring and experienced leaders. It presents a collection of 75 powerful leadership frameworks across 23 essential categories, offering a step-by-step blueprint to tackle various leadership challenges. From building high-performing teams and making informed decisions to navigating complex business landscapes and leading through change, this book provides actionable insights and real-world examples to help you become a more effective and confident leader.
 
-<div align="left"><figure><img src="../../.gitbook/assets/org-design-for-design-orgs.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/org-design-for-design-orgs.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Org Design for Design Orgs](https://www.goodreads.com/book/show/27968897-org-design-for-design-orgs)
 
@@ -47,7 +53,7 @@ by Peter Merholz and Kristin Skinner (2016)
 
 "Org Design for Design Orgs" by Peter Merholz and Kristin Skinner is a practical guide for building and managing in-house design teams. It explores the evolution of design's role in organisations and provides insights into structuring design teams, recruiting and hiring designers, and managing and promoting professional growth. The book covers topics like design team roles, the centralised partnership model, and infusing design into product and service experiences. It offers actionable advice for design leaders to create effective and impactful design organisations.
 
-<div align="left"><figure><img src="../../.gitbook/assets/measure-what-matters.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/measure-what-matters.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Measure What Matters](https://www.goodreads.com/book/show/39286958-measure-what-matters)
 
@@ -56,7 +62,7 @@ by John Doerr (2017)
 
 "Measure What Matters" by John Doerr is a guide to achieving ambitious goals through OKRs (Objectives and Key Results). This framework, popularised by companies like Intel and Google, helps organisations align their teams, track progress, and set ambitious targets. Doerr shares real-world examples and insights into how OKRs can drive innovation, focus effort, and accelerate growth. The book provides practical advice for implementing OKRs and measuring what truly matters to achieve success.
 
-<div align="left"><figure><img src="../../.gitbook/assets/dare-to-lead.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/dare-to-lead.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)
 
@@ -64,7 +70,7 @@ by Brené Brown (2018)
 
 "Dare to Lead" by Brené Brown is a practical guide to courageous leadership. Brown draws on her research and personal experiences to explore the importance of vulnerability, courage, and empathy in leadership. She provides a framework for building brave cultures, having difficult conversations, and leading with authenticity. This book offers actionable insights and tools to help leaders develop their leadership skills and create more meaningful and impactful organisations.
 
-<div align="left"><figure><img src="../../.gitbook/assets/the-mind-of-the-leader.png" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/the-mind-of-the-leader.png" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The Mind of the Leader](https://www.goodreads.com/book/show/36598419-the-mind-of-the-leader)
 
@@ -73,7 +79,7 @@ by Jacqueline Carter, Rasmus Hougaard (2018)
 
 "The Mind of the Leader" by Jacqueline Carter and Rasmus Hougaard covers the inner workings of effective leadership. It explores the importance of emotional intelligence, mindfulness, and self-awareness in achieving extraordinary results. The book provides practical tools and techniques to help leaders develop their emotional intelligence, cultivate positive mindsets, and build strong, resilient teams. By focusing on the inner game of leadership, this book empowers leaders to unlock their full potential and drive positive change.
 
-<div align="left"><figure><img src="../../.gitbook/assets/trillion-dollar-coach.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/trillion-dollar-coach.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Trillion Dollar Coach](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
 
@@ -81,7 +87,7 @@ by Eric Schmidt, Johnathan Rosenberg, Alan Eagle (2019)
 
 "Trillion Dollar Coach" offers insights into the coaching philosophy of Bill Campbell, a legendary Silicon Valley executive coach. The book highlights key principles and practices that Campbell used to mentor and guide some of the most successful tech leaders, including Steve Jobs, Eric Schmidt, and Sheryl Sandberg. Through real-world examples and anecdotes, the authors explore the power of effective coaching, the importance of asking the right questions, and the value of building strong relationships. This book provides valuable lessons for leaders at all levels, inspiring them to become better coaches and mentors.
 
-<div align="left"><figure><img src="../../.gitbook/assets/5-dysfunctions-of-a-teamjpg.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/5-dysfunctions-of-a-teamjpg.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
 
@@ -90,7 +96,7 @@ by Patrick Lencioni (2002)
 
 "The Five Dysfunctions of a Team" by Patrick Lencioni is a classic leadership book that identifies five common dysfunctions that hinder team performance: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. Lencioni provides a framework for diagnosing and addressing these dysfunctions, enabling teams to improve their effectiveness and achieve their goals. By focusing on building trust, engaging in constructive conflict, committing to decisions, holding each other accountable, and focusing on collective results, teams can overcome these dysfunctions and become high-performing units.
 
-<div align="left"><figure><img src="../../.gitbook/assets/start-with-why.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/start-with-why.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Start with Why](https://www.goodreads.com/book/show/7108725-start-with-why)
 
@@ -99,7 +105,7 @@ by Simon Sinek (2009)
 
 "Start With Why" by Simon Sinek explores the power of inspiring leadership. Sinek argues that great leaders inspire action by starting with a clear sense of purpose and communicating it effectively. By understanding and articulating their "why," leaders can motivate and engage their teams, customers, and stakeholders. The book provides a framework for identifying and communicating one's purpose, and offers practical advice for inspiring others to follow.
 
-<div align="left"><figure><img src="../../.gitbook/assets/first-time-manager.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/first-time-manager.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [The First-Time Manager](https://www.goodreads.com/book/show/12037994-the-first-time-manager)
 
@@ -107,7 +113,7 @@ by Loren B. Belker, Jim McCormick, Gary S. Topchik (1978)
 
 "The First-Time Manager" is a classic guide for those newly stepping into leadership roles. It provides practical advice on a wide range of managerial topics, from setting goals and delegating tasks to motivating teams and resolving conflicts. The book emphasises the importance of effective communication, building strong relationships, and developing leadership skills. While some of the specific examples may be outdated, the core principles and advice remain relevant for first-time managers today.
 
-<div align="left"><figure><img src="../../.gitbook/assets/leaders-eat-last.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/leaders-eat-last.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Leaders Eat Last](https://www.goodreads.com/book/show/16144853-leaders-eat-last)
 
@@ -116,7 +122,7 @@ by Simon Sinek (2014)
 
 "Leaders Eat Last" by Simon Sinek covers the importance of trust and safety in building high-performing teams. Sinek argues that leaders who prioritise the well-being of their teams create a culture of trust and loyalty. By putting the needs of their team members first, leaders inspire dedication, innovation, and extraordinary results. The book explores the concept of the "Circle of Safety" and provides practical advice for building trust, fostering collaboration, and creating a positive work environment.
 
-<div align="left"><figure><img src="../../.gitbook/assets/multipliers.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/multipliers.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Multipliers](https://www.goodreads.com/book/show/8310410-multipliers)
 
@@ -125,7 +131,7 @@ by Liz Wiseman (2010)
 
 "Multipliers" by Liz Wiseman explores the concept of leadership as a multiplier, where leaders empower and amplify the intelligence of their teams. Wiseman identifies two types of leaders: Diminishers, who drain energy and stifle creativity, and Multipliers, who inspire and multiply the talent of their teams. The book provides a framework for becoming a Multiplier, focusing on five key behaviors: questioning, listening, challenging, teaching, and expecting more. By adopting these practices, leaders can create high-performing teams and achieve extraordinary results.
 
-<div align="left"><figure><img src="../../.gitbook/assets/leader-shift.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/leader-shift.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Leadershift](https://www.goodreads.com/book/show/40590293-leadershift)
 
@@ -134,7 +140,7 @@ by John C. Maxwell (2019)
 
 "Leadershift" by John C. Maxwell outlines the 11 key shifts that leaders must embrace to achieve lasting success. These shifts cover various aspects of leadership, including personal growth, team building, and organisational development. Maxwell provides practical advice and inspiring stories to help leaders develop the necessary skills and mindset to lead effectively. By focusing on these essential changes, leaders can transform themselves and their organisations.
 
-<div align="left"><figure><img src="../../.gitbook/assets/extreme-ownership.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/extreme-ownership.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Extreme Ownership](https://www.goodreads.com/book/show/23848190-extreme-ownership)
 
@@ -143,7 +149,7 @@ by Jocko Willink and Leif Babin (2015)
 
 "Extreme Ownership" by Jocko Willink and Leif Babin is a leadership guide based on the principles and practices of the U.S. Navy SEALs. It emphasises the importance of taking ownership of one's actions, decisions, and mistakes. The book encourages leaders to embrace challenges, adapt to changing circumstances, and hold themselves and their teams accountable. By adopting a mindset of extreme ownership, leaders can build high-performing teams, overcome obstacles, and achieve extraordinary results.
 
-<div align="left"><figure><img src="../../.gitbook/assets/do-lead.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/do-lead.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Do Lead](https://www.goodreads.com/book/show/18722365-do-lead)
 
@@ -152,7 +158,7 @@ by Les McKeown (2014)
 
 "Do Lead" by Les McKeown offers a practical approach to leadership, debunking common myths and providing actionable insights. It emphasises that effective leadership is about achieving goals and empowering others, rather than focusing solely on personal charisma. The book provides tools and techniques to help leaders identify their natural leadership style, build strong teams, and inspire their organisations to achieve great things.
 
-<div align="left"><figure><img src="../../.gitbook/assets/team-of-teams.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/team-of-teams.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
 
 #### [Team of Teams](https://www.goodreads.com/book/show/22529127-team-of-teams)
 
@@ -329,14 +335,6 @@ In "Free Will," Sam Harris argues that the concept of free will is an illusion. 
 Foundations for Designing Online User Experiences\
 by Jesmond Allen, James Chudley (2012)
 
-<div align="left"><figure><img src="../../.gitbook/assets/smashing-ux-design-2012-book-cover.jpg" alt="" width="161"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/smashing-ux-design-2012-book-cover.jpg" alt="" width="161"><figcaption></figcaption></figure></div>
 
 A special thanks to [Jesmond Allen](https://x.com/jesmond) and [James Chudley](https://x.com/chudders) for making 'Smashing UX Design' freely available to the public [via PDF download](https://jameschudley.co.uk/2023/11/21/free-download-of-smashing-ux-design/). Initially published in 2012, this book quickly became a cornerstone resource for countless UX designers, myself included. After selling over 10,000 copies, it went out of print, causing second-hand copies to skyrocket to eye-watering prices, such was its demand. Despite being over a decade old, 'Smashing UX Design' is still well worth a read today, offering practical insights into UX design principles and practices. It covers a wide range of topics, such as user research, information architecture, interaction design, and usability testing.
-
-### Curated Leadership Booklist
-
-{% embed url="https://raindrop.io/TonyODonohoe/books-37602031/search/sort=-created&perpage=30&page=0&search=%22%23Books+(Leadership)%22" %}
-
-### Curated Booklist
-
-{% embed url="https://raindrop.io/TonyODonohoe/books-37602031" %}
