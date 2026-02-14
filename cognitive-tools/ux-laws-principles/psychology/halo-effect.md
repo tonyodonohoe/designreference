@@ -18,4 +18,6 @@ The Halo Effect plays a significant role in product design, as it can influence 
 4. **User Satisfaction:** When users have a positive impression of a design, they are more likely to overlook minor flaws or usability issues and report higher satisfaction. This can lead to increased user loyalty and word-of-mouth recommendations.
 5. **Aesthetic Appeal:** Aesthetically pleasing design can create a positive emotional response, which, in turn, can influence how users perceive the functionality and utility of a product or website.
 
+#### Further Viewing
+
 {% embed url="https://www.youtube.com/watch?v=kaCnQw_bYtw" %}

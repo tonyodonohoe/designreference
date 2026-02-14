@@ -4,10 +4,10 @@ description: >-
   sources.
 ---
 
-# Authority Principle
+# Authority Bias
 
 {% hint style="info" %}
-AKA Authority Bias
+AKA Authority Principle
 {% endhint %}
 
 The Authority Principle refers to a person's tendency to comply with people in positions of authority, such as government leaders, law-enforcement representatives, doctors, lawyers, professors, and other perceived experts in different fields.&#x20;

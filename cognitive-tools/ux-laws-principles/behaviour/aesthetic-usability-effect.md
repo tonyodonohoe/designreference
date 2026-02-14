@@ -4,7 +4,9 @@ description: Users perceive aesthetically pleasing designs as more usable and cr
 
 # Aesthetic-Usability Effect
 
-The Aesthetic-Usability Effect is a concept that says people tend to find things more user-friendly and easy to use if they also look good or are aesthetically pleasing. If something looks nice, people are more likely to think it works well, even if it's not necessarily more functional. So, good design and a pleasing appearance can make things seem easier to use, even if they're not actually any more practical.
+The Aesthetic-Usability Effect is a concept that says people tend to find things more user-friendly and easy to use if they also look good or are aesthetically pleasing.&#x20;
+
+If something looks nice, people are more likely to think it works well, even if it's not necessarily more functional. So, good design and a pleasing appearance can make things seem easier to use, even if they're not actually any more practical.
 
 #### Further Viewing
 

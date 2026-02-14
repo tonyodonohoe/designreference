@@ -6,7 +6,9 @@ description: >-
 
 # Choice Overload
 
-Choice Overload is the cognitive phenomenon where an individual has difficulty making a decision when presented with too many options. This paradox suggests that while we inherently desire freedom and options, an excessive quantity of choices leads to confusion, anxiety, decision paralysis, and lower overall satisfaction with the final selection.
+Choice Overload is the cognitive phenomenon where an individual has difficulty making a decision when presented with too many options.&#x20;
+
+This paradox suggests that while we inherently desire freedom and options, an excessive quantity of choices leads to confusion, anxiety, decision paralysis, and lower overall satisfaction with the final selection.
 
 In User Experience (UX) design, choice overload increases Cognitive Load and is a primary cause of task abandonment. The effective designer doesn't just offer options, they curate them.
 

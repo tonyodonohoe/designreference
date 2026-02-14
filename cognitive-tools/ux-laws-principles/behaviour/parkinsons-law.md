@@ -4,7 +4,9 @@ description: Any task or project will expand to fill the time available for its 
 
 # Parkinson's Law
 
-Parkinson's Law is a principle that suggests work expands to fill the time available for its completion. If you have a task or project and you give yourself a certain amount of time to finish it, you'll probably end up taking that entire time, even if the task could have been completed more quickly.&#x20;
+Parkinson's Law is a principle that suggests work expands to fill the time available for its completion.&#x20;
+
+If you have a task or project and you give yourself a certain amount of time to finish it, you'll probably end up taking that entire time, even if the task could have been completed more quickly.&#x20;
 
 This law highlights how time management and deadlines can impact productivity and efficiency. So, if you want to be more efficient, consider setting shorter, realistic deadlines to avoid unnecessary delays.
 

@@ -12,6 +12,10 @@ Symmetry promotes consistency in design, leading to a more user-friendly experie
 
 However, it's important to consider cultural differences, as notions of symmetry can vary across cultures. Designers should be mindful of the cultural context of their target audience when applying this principle.
 
+#### Further Reading
+
 {% embed url="https://medium.com/kubo/the-law-of-symmetry-designing-for-balance-9e4367490b29" %}
+
+#### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=RtzeOzZxUmk" %}

@@ -4,7 +4,9 @@ description: A systematic pattern of deviation from norm or rationality in judgm
 
 # Cognitive Bias
 
-Cognitive Biases are systematic patterns of deviation from norm or rationality in judgment. They are mental shortcuts that the brain uses to process information quickly and efficiently. While these shortcuts are useful for fast decision-making, they can lead to errors and distorted perceptions of reality.
+Cognitive Biases are systematic patterns of deviation from norm or rationality in judgment.&#x20;
+
+They are mental shortcuts that the brain uses to process information quickly and efficiently. While these shortcuts are useful for fast decision-making, they can lead to errors and distorted perceptions of reality.
 
 In User Experience (UX) design, understanding cognitive biases is crucial because they profoundly influence how users perceive, interact with, and make decisions about digital products. A good UX designer anticipates and accounts for these biases to create interfaces that are clear, persuasive, and user-friendly.
 
@@ -37,12 +39,6 @@ The psychological tendency for losses to have twice the impact on people as equi
 
 _Example: Framing features as things a user will lose if they cancel a service ("Don't lose access to...") rather than things they will gain if they sign up._
 
-{% embed url="https://lawsofux.com/cognitive-bias/" %}
-
-{% embed url="https://www.interaction-design.org/literature/topics/cognitive-biases" %}
-
-{% embed url="https://www.nngroup.com/articles/decision-framing-cognitive-bias-ux-pros/" %}
-
 There are dozens of cognitive biases that shape how we think and make decisions, often without us realising. Here are some of the most influential ones, especially in business, strategy, and everyday judgment.
 
 #### &#x20;Common Cognitive Biases in Decision-Making
@@ -63,23 +59,32 @@ These biases can creep into everything from product development to hiring decisi
 
 #### Business Examples & Strategic Implications
 
-| Bias                                              | Description                                                                  | Business Scenario                                                           | Impact                           |
-| ------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------- |
-| [**Sunk Cost Fallacy**](the-sunk-cost-fallacy.md) | Continuing a project due to past investment, even if future returns are poor | Persisting with a failing product because of prior R\&D spend               | Wasted resources, delayed pivot  |
-| **Confirmation Bias**                             | Seeking info that supports existing beliefs                                  | Ignoring negative user feedback because it contradicts internal assumptions | Poor product-market fit          |
-| **Anchoring Bias**                                | Overreliance on initial data or numbers                                      | First price quoted in negotiations sets the tone                            | Skewed pricing decisions         |
-| **Availability Heuristic**                        | Judging based on easily recalled examples                                    | Overestimating risk due to recent news (e.g., cyberattack)                  | Misallocation of security budget |
-| **Loss Aversion**                                 | Fear of losses outweighs desire for gains                                    | Avoiding innovation due to fear of cannibalizing existing products          | Missed growth opportunities      |
-| **Overconfidence Bias**                           | Overestimating one’s knowledge or control                                    | Launching without proper market testing                                     | Failed product rollout           |
-| **Status Quo Bias**                               | Preference for current state                                                 | Not adopting new tools or workflows                                         | Stagnation, inefficiency         |
-| **Framing Effect**                                | Decisions influenced by how info is presented                                | “95% success rate” vs “5% failure rate” in marketing                        | Misleading perception            |
-| **Endowment Effect**                              | Overvaluing owned assets                                                     | Overpricing a legacy product                                                | Reduced competitiveness          |
-| **Bandwagon Effect**                              | Following the crowd                                                          | Copying competitors’ features without validation                            | Diluted brand identity           |
-| **Hindsight Bias**                                | Believing outcomes were predictable                                          | “We knew that campaign would fail” after poor results                       | Blame culture, poor learning     |
-| **Dunning-Kruger Effect**                         | Low-skilled individuals overestimate ability                                 | Junior team member dismisses expert advice                                  | Risky decisions, team friction   |
+| Bias                                              | Description                                                                  | Business Scenario                                                                                                     | Impact                                                                                            |
+| ------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [**Sunk Cost Fallacy**](the-sunk-cost-fallacy.md) | Continuing a project due to past investment, even if future returns are poor | Persisting with a failing product because of prior R\&D spend                                                         | Wasted resources, delayed pivot                                                                   |
+| **Confirmation Bias**                             | Seeking info that supports existing beliefs                                  | Ignoring negative user feedback because it contradicts internal assumptions                                           | Poor product-market fit                                                                           |
+| [**Anchoring Bias**](anchoring-principle.md)      | Overreliance on initial data or numbers                                      | First price quoted in negotiations sets the tone                                                                      | Skewed pricing decisions                                                                          |
+| [**Authority Bias**](authority-principle.md)      | A person's tendency to comply with people in positions of authority          | Following a flawed strategy because it was proposed by a senior executive or "HiPPO" (Highest Paid Person's Opinion). | Reduced innovation and critical thinking; teams may ignore data in favour of pleasing leadership. |
+| **Availability Heuristic**                        | Judging based on easily recalled examples                                    | Overestimating risk due to recent news (e.g., cyberattack)                                                            | Misallocation of security budget                                                                  |
+| **Loss Aversion**                                 | Fear of losses outweighs desire for gains                                    | Avoiding innovation due to fear of cannibalizing existing products                                                    | Missed growth opportunities                                                                       |
+| **Overconfidence Bias**                           | Overestimating one’s knowledge or control                                    | Launching without proper market testing                                                                               | Failed product rollout                                                                            |
+| **Status Quo Bias**                               | Preference for current state                                                 | Not adopting new tools or workflows                                                                                   | Stagnation, inefficiency                                                                          |
+| **Framing Effect**                                | Decisions influenced by how info is presented                                | “95% success rate” vs “5% failure rate” in marketing                                                                  | Misleading perception                                                                             |
+| **Endowment Effect**                              | Overvaluing owned assets                                                     | Overpricing a legacy product                                                                                          | Reduced competitiveness                                                                           |
+| **Bandwagon Effect**                              | Following the crowd                                                          | Copying competitors’ features without validation                                                                      | Diluted brand identity                                                                            |
+| **Hindsight Bias**                                | Believing outcomes were predictable                                          | “We knew that campaign would fail” after poor results                                                                 | Blame culture, poor learning                                                                      |
+| **Dunning-Kruger Effect**                         | Low-skilled individuals overestimate ability                                 | Junior team member dismisses expert advice                                                                            | Risky decisions, team friction                                                                    |
 
 #### How to Use This in Practice
 
 * **Team Workshops**: Run a "Bias Spotting" session where teams reflect on past decisions and identify which biases may have influenced them.
 * **Strategy Reviews**: Use this table as a checklist when evaluating new initiatives. Ask "Are we falling into any of these traps?"
 * **Leadership Coaching**: Help managers recognise bias in hiring, performance reviews, and resource allocation.
+
+#### Further Reading
+
+{% embed url="https://lawsofux.com/cognitive-bias/" %}
+
+{% embed url="https://www.interaction-design.org/literature/topics/cognitive-biases" %}
+
+{% embed url="https://www.nngroup.com/articles/decision-framing-cognitive-bias-ux-pros/" %}

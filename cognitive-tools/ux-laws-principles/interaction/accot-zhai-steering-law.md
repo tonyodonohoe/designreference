@@ -6,7 +6,9 @@ description: >-
 
 # Accot-Zhai Steering Law
 
-The Accot-Zhai Steering Law is a concept in human-computer interaction that explains why complex menus with narrow tunnels, like cascading menus, can be frustrating for users. In simple terms, it's based on the idea that when users need to move a pointer, such as a mouse, through a narrow pathway or tunnel on a screen, it takes them more time and can be less accurate. This is because our natural movements tend to follow curved paths rather than perfectly straight lines.
+The Accot-Zhai Steering Law is a concept in human-computer interaction that explains why complex menus with narrow tunnels, like cascading menus, can be frustrating for users.&#x20;
+
+In simple terms, it's based on the idea that when users need to move a pointer, such as a mouse, through a narrow pathway or tunnel on a screen, it takes them more time and can be less accurate. This is because our natural movements tend to follow curved paths rather than perfectly straight lines.
 
 To make this practical in interface design, it suggests that designers should add space around items in a menu, avoiding tiny items that force users to navigate through narrow tunnels. Additionally, when designing menus with multiple categories that open on hover, introducing a small delay before opening a category can help ensure that the user's action was deliberate, reducing frustration.
 
