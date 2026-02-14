@@ -1,7 +1,5 @@
 # Change Management
 
-### Overview
-
 #### Design Leadership is Change Management
 
 Not only did Peter Merholz [coin the word "blog"](https://en.wikipedia.org/wiki/Blog#History) but he also co-wrote, [Org Design for Design Orgs](https://www.petermerholz.com/book/), still the leading book on building inhouse design teams today. In [an article from 2022,](https://www.petermerholz.com/blog/design-leadership-is-change-management/) he argues that design leadership is inherently about managing change. The article outlines five key practices for successful design leaders:
@@ -16,7 +14,7 @@ Peter emphasises the importance of focusing on outcomes, building strong relatio
 
 {% embed url="https://www.petermerholz.com/blog/design-leadership-is-change-management/" %}
 
-### What is Change Management?
+#### What is Change Management?
 
 Change management, for the uninitiated, is the process of guiding individuals and organisations through changes to achieve desired outcomes. Change management is a systematic approach to transitioning individuals, teams, and organisations from a current state to a desired future state. It involves planning, implementing, and evaluating the process of adopting new strategies, processes, technologies, or organisational structures.
 
@@ -38,7 +36,7 @@ Common challenges in change management include
 * **Insufficient resources**: Insufficient funding, time, or personnel can hinder the successful implementation of change.
 * **Poor planning**: A poorly planned change initiative can increase the likelihood of failure.
 
-### Further Reading
+#### Further Reading
 
 {% embed url="https://changemanagementinsight.com/short-term-wins-in-change-management/" %}
 

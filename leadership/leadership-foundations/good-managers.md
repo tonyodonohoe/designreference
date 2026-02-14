@@ -1,7 +1,5 @@
 # Good Managers
 
-### Overview
-
 When Andrea Stella was questioned about his leadership of the McLaren Formula 1 team following their resurgence after he assumed the Team Principal role in 2022, he said:
 
 > "It is to enable, genuinely, not as a slogan, teamwork. Where teamwork has a clear direction where the team is going and everyone feels they want to contribute because they feel they have a role here. I want that to the point that I don’t even want to appear because that's about the team. I am an enabler."
@@ -14,7 +12,7 @@ Brené Brown, a research professor at the University of Houston, defines leaders
 
 There can be little doubt that management and leadership revolve around people and teams, with a manager's primary role being to act as an enabler and a force multiplier.
 
-### Habits of Good Managers
+#### Habits of Good Managers
 
 Good managers tend to do these things:
 
@@ -46,9 +44,9 @@ Good managers tend to do these things:
 * Manage resources wisely, ensuring teams have the tools and support they need.
 * Consistency in decision-making, applying rules and policies fairly and transparently.
 
-### The Consensus on Effective Management
+#### The Consensus on Effective Management
 
-#### Tobias Charles
+**Tobias Charles**
 
 If you want to be a better leader, you need to make peace with these things writes Tobias Charles in his 2023 article:\
 [5 Hard to Swallow Leadership Pills That Will Make You a Better Boss](https://medium.com/@TobiasCharles/5-hard-to-swallow-leadership-pills-that-will-make-you-a-better-boss-8615f0bba1db)"
@@ -61,7 +59,7 @@ If you want to be a better leader, you need to make peace with these things writ
 
 {% embed url="https://medium.com/@TobiasCharles/5-hard-to-swallow-leadership-pills-that-will-make-you-a-better-boss-8615f0bba1db" %}
 
-#### Kip Knight
+**Kip Knight**
 
 Kip Knight shares some time-tested leadership principles in his 2024 article\
 "[Mastering Modern Leadership: Top Principles for Effective Team Leaders](https://blog.thomvest.com/mastering-modern-leadership-top-principles-for-effective-team-leaders-4b7b50c785b3)"
@@ -79,7 +77,7 @@ Kip Knight shares some time-tested leadership principles in his 2024 article\
 
 {% embed url="https://blog.thomvest.com/mastering-modern-leadership-top-principles-for-effective-team-leaders-4b7b50c785b3" %}
 
-#### Tobias Charles
+**Tobias Charles**
 
 Tobias Charles writes in his 2024 article "[Subtle Ways to Be a Brilliant Boss](https://medium.com/psychology-of-workplaces/subtle-ways-to-be-a-brilliant-boss-0ce99ca34e1c)"
 
@@ -91,7 +89,7 @@ Tobias Charles writes in his 2024 article "[Subtle Ways to Be a Brilliant Boss](
 
 {% embed url="https://medium.com/psychology-of-workplaces/subtle-ways-to-be-a-brilliant-boss-0ce99ca34e1c" %}
 
-#### Dan Cooper
+**Dan Cooper**
 
 Dan Cooper mentions 5 points in his 2024 article "[Management vs. Leadership](https://medium.com/@dcdiscovers/management-vs-leadership-9c92105ab034)"
 
@@ -103,7 +101,7 @@ Dan Cooper mentions 5 points in his 2024 article "[Management vs. Leadership](ht
 
 {% embed url="https://medium.com/@dcdiscovers/management-vs-leadership-9c92105ab034" %}
 
-#### Tobias Charles
+**Tobias Charles**
 
 Tobias Charles speaks about 4 traits of high performing leaders in his 2024 article "[Reliable Traits of Genuinely High Performing Leaders](https://medium.com/management-matters/5-reliable-traits-of-genuinely-high-performing-leaders-7b00a87b833d)"
 
@@ -114,7 +112,7 @@ Tobias Charles speaks about 4 traits of high performing leaders in his 2024 arti
 
 {% embed url="https://medium.com/management-matters/5-reliable-traits-of-genuinely-high-performing-leaders-7b00a87b833d" %}
 
-#### UX Survival Guide
+**UX Survival Guide**
 
 In the article "[What you need to know if you’re a designer thinking of getting into management](https://medium.com/@uxsurvivalguide/what-you-need-to-know-if-youre-a-designer-thinking-of-getting-into-management-479c044f9172)" from UX Survival Guide, the primary responsibilities for a design manager are listed as:
 
@@ -128,7 +126,7 @@ In the article "[What you need to know if you’re a designer thinking of gettin
 
 {% embed url="https://medium.com/@uxsurvivalguide/what-you-need-to-know-if-youre-a-designer-thinking-of-getting-into-management-479c044f9172" %}
 
-#### Tobias Charles
+**Tobias Charles**
 
 Tobias Charles had 6 traits to look out for in a good manager in his 2024 article "[This Is How You Spot A Manager Who’s Genuinely Great](https://medium.com/career-paths/this-is-how-you-spot-a-manager-whos-genuinely-great-b23511a1b53f)"
 
@@ -141,7 +139,7 @@ Tobias Charles had 6 traits to look out for in a good manager in his 2024 articl
 
 {% embed url="https://medium.com/career-paths/this-is-how-you-spot-a-manager-whos-genuinely-great-b23511a1b53f" %}
 
-#### Zalando
+**Zalando**
 
 The Zalando Product Design team had the following advice in their 2024 article "[10 ways to enable your whole team to shine](https://medium.com/zalando-design/10-ways-to-enable-your-whole-team-to-shine-b32b0673fed2)"
 
@@ -158,7 +156,7 @@ The Zalando Product Design team had the following advice in their 2024 article "
 
 {% embed url="https://medium.com/zalando-design/10-ways-to-enable-your-whole-team-to-shine-b32b0673fed2" %}
 
-#### Nate Schloesser
+**Nate Schloesser**
 
 In his 2023 article "[How to NOT Be a Bad Design Manager](https://uxmag.com/articles/how-to-not-be-a-bad-design-manager)" Nate Schloesser gives his top six tips based on his own experiences and mistakes made as a manager.
 
@@ -171,7 +169,7 @@ In his 2023 article "[How to NOT Be a Bad Design Manager](https://uxmag.com/arti
 
 {% embed url="https://uxmag.com/articles/how-to-not-be-a-bad-design-manager" %}
 
-#### Tarryn Lambert
+**Tarryn Lambert**
 
 Tarryn Lambert gives 21 pieces of advice for managers in her 2023 article "[20 lessons for new design managers](https://medium.com/@designertarryn/20-lessons-for-new-design-managers-1ff19f630990)".
 
@@ -199,7 +197,7 @@ Tarryn Lambert gives 21 pieces of advice for managers in her 2023 article "[20 l
 
 {% embed url="https://medium.com/@designertarryn/20-lessons-for-new-design-managers-1ff19f630990" %}
 
-#### Jorge Valencia
+**Jorge Valencia**
 
 Jorge Valencia shares 7 lessons in his 2023 article "[7 lessons learned in my painful transition from IC to manager](https://uxplanet.org/7-lessons-learned-in-my-painful-transition-from-ic-to-manager-624cd9a5bc1)"
 
@@ -213,7 +211,7 @@ Jorge Valencia shares 7 lessons in his 2023 article "[7 lessons learned in my pa
 
 {% embed url="https://uxplanet.org/7-lessons-learned-in-my-painful-transition-from-ic-to-manager-624cd9a5bc1" %}
 
-#### UX Survival Guide
+**UX Survival Guide**
 
 An article from UX Survival Guide in 2024 "[Most design leaders suck](https://medium.com/@uxsurvivalguide/qualities-that-make-a-great-design-leader-0f9f818ce535)" outlined the traits of good leadership.
 
@@ -226,7 +224,7 @@ An article from UX Survival Guide in 2024 "[Most design leaders suck](https://me
 
 {% embed url="https://medium.com/@uxsurvivalguide/qualities-that-make-a-great-design-leader-0f9f818ce535" %}
 
-#### Mat Venn
+**Mat Venn**
 
 Mat Venn had some salient thoughts on running a design team in his 2024 article "[On design leadership...](https://bootcamp.uxdesign.cc/on-design-leadership-aadd3806231d)"
 
@@ -242,7 +240,7 @@ Mat Venn had some salient thoughts on running a design team in his 2024 article 
 
 {% embed url="https://bootcamp.uxdesign.cc/on-design-leadership-aadd3806231d" %}
 
-#### Sivan Hermon
+**Sivan Hermon**
 
 Sivan Hermon listed the signs that someone might be a good fit for management in her 2024 article "[Starting with No: Why Most People Shouldn't Be Managers](https://code.likeagirl.io/starting-with-no-why-most-people-shouldnt-be-managers-00c23159bbb6)"
 
@@ -258,18 +256,18 @@ Sivan Hermon listed the signs that someone might be a good fit for management in
 
 {% embed url="https://code.likeagirl.io/starting-with-no-why-most-people-shouldnt-be-managers-00c23159bbb6" %}
 
-#### UXPin
+**UXPin**
 
 In their 2023 article "[The Persona of a Great Design Leader](https://www.uxpin.com/studio/blog/persona-great-design-leader/)" UXPin shared their qualities of an effective design leader as well as design team best practices according to Cindy Alvarez.
 
-#### Qualities of an Effective Design Leader
+Qualities of an Effective Design Leader
 
 1. Great design leaders are seasoned practitioners, ready to give up the craft
 2. Great design leaders are empathetic and generous with their time
 3. Great design leaders are preachers and listeners
 4. Great design leaders are goal-oriented fighters
 
-#### Design Team Leadership best practices
+Design Team Leadership best practices
 
 1. Demand objectives from the people you’re working with
 2. Shine some light on the design process
@@ -280,7 +278,7 @@ In their 2023 article "[The Persona of a Great Design Leader](https://www.uxpin.
 
 {% embed url="https://www.uxpin.com/studio/blog/persona-great-design-leader/" %}
 
-#### Rei Inamoto
+**Rei Inamoto**
 
 Rei Inamoto says there is no such thing as a perfect boss but lists seven traits that might help identify the good ones in the article "[Seven traits of a good boss](https://uxdesign.cc/seven-traits-of-a-good-boss-7f68c5ef6666)"
 
@@ -294,7 +292,7 @@ Rei Inamoto says there is no such thing as a perfect boss but lists seven traits
 
 {% embed url="https://uxdesign.cc/seven-traits-of-a-good-boss-7f68c5ef6666" %}
 
-#### Vinita Bansal
+**Vinita Bansal**
 
 Vinita Bansal, author of the book "Rethink Imposter Syndrome" penned the article "[6 Micro Habits of Highly Effective Managers](https://code.likeagirl.io/6-micro-habits-of-highly-effective-managers-cce3b3f9ba66)"
 
@@ -307,23 +305,23 @@ Vinita Bansal, author of the book "Rethink Imposter Syndrome" penned the article
 
 {% embed url="https://code.likeagirl.io/6-micro-habits-of-highly-effective-managers-cce3b3f9ba66" %}
 
-#### Avi Siegel
+**Avi Siegel**
 
 Avi Siegel speaks about why the transition from IC to new manager is difficult and also what new managers should both stop, and start, doing in his article "[Stop Working - You're a Manager Now](https://medium.com/management-matters/stop-working-youre-a-manager-now-1a3400e168fd)"
 
-#### Why the transition is so mind-bendingly painful
+Why the transition is so mind-bendingly painful
 
 1. You’re dealing with office politics for the first time
 2. You have no training for any of this
 3. You’re going to disappoint people
 
-#### What not to do anymore
+What not to do anymore
 
 1. Stop believing you can keep doing the same work
 2. Stop thinking success is about you
 3. Stop solving every problem yourself
 
-#### What to start doing
+What to start doing
 
 1. Start being overly transparent and building trust
 2. Start getting out of your comfort zone
@@ -331,7 +329,7 @@ Avi Siegel speaks about why the transition from IC to new manager is difficult a
 
 {% embed url="https://medium.com/management-matters/stop-working-youre-a-manager-now-1a3400e168fd" %}
 
-#### Jan Cavelle
+**Jan Cavelle**
 
 In her article "[What Bad Managers Stop Doing to Be Great](https://medium.com/management-matters/what-bad-managers-stop-doing-to-be-great-cda2f9e6d89e)" Jan Cavelle writes about a good managers ability to develop specific ways of behaving.
 
@@ -343,7 +341,7 @@ In her article "[What Bad Managers Stop Doing to Be Great](https://medium.com/ma
 
 {% embed url="https://medium.com/management-matters/what-bad-managers-stop-doing-to-be-great-cda2f9e6d89e" %}
 
-#### Vinita Bansal
+**Vinita Bansal**
 
 In her article "[How to Keep Your Team’s Morale High](https://code.likeagirl.io/how-to-keep-your-teams-morale-high-0615146297ab)", Vinita discusses the importance of keeping team morale high and lists 5 ways a manager can do this:
 
@@ -355,7 +353,7 @@ In her article "[How to Keep Your Team’s Morale High](https://code.likeagirl.i
 
 {% embed url="https://code.likeagirl.io/how-to-keep-your-teams-morale-high-0615146297ab" %}
 
-### Further Reading
+#### Further Reading
 
 {% embed url="https://code.likeagirl.io/how-to-become-an-80-20-manager-and-achieve-exceptional-results-at-work-6de65ad74f8d" %}
 

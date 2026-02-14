@@ -235,9 +235,9 @@
 
 * [Overview](leadership/overview.md)
 * [Leadership Foundations](leadership/leadership-foundations/README.md)
+  * [Good Managers](leadership/leadership-foundations/good-managers.md)
   * [Bad Managers](leadership/leadership-foundations/bad-managers.md)
   * [Change Management](leadership/leadership-foundations/change-management.md)
-  * [Good Managers](leadership/leadership-foundations/good-managers.md)
   * [Leadership Blueprint](leadership/leadership-foundations/leadership-blueprint.md)
   * [Leadership Styles](leadership/leadership-foundations/leadership-styles.md)
 * [Managing People](leadership/managing-people/README.md)

@@ -1,7 +1,5 @@
 # Bad Managers
 
-### Overview
-
 It's entirely possible that you, as a manager, might not be a good one. What's more, if you are a bad manager, there's a high chance that you're blissfully unaware of it. But don't worry, all is not lost. To become a great manager, you need just one quality: the willingness to look at yourself through an unbiased lens and make some changes, easy-peasy!
 
 There are few, if any, leaders whose skills couldn't benefit from some improvement. No one is perfect, but as a manager, your flaws have a magnified impact on your team. This is why it's crucial to regularly assess yourself, seek feedback, and work on your skills. By doing so, you not only enhance your abilities but also create a better environment for your team to thrive.
@@ -14,7 +12,7 @@ from the article "[How to Engage Frontline Managers](https://www.gallup.com/work
 
 {% embed url="https://www.gallup.com/workplace/395210/engage-frontline-managers.aspx" %}
 
-### Habits of Bad Managers
+#### Habits of Bad Managers
 
 Bad managers tend to do these things:
 
@@ -41,9 +39,9 @@ Bad managers tend to do these things:
 * Regularly focus on the negative and highlight what a team is doing wrong without acknowledging successes.
 * Fail to promote a diverse and inclusive workplace or tolerate discriminatory behaviour rather than ensuring all team members feel respected, valued, and included.
 
-### The Consensus on Ineffective Management
+#### The Consensus on Ineffective Management
 
-#### Vinita Bansal
+**Vinita Bansal**
 
 Vinita Bansal writes about eight subtle behaviours which lead to a loss of trust in a manager in her article "[8 Behaviors That Lead to Loss of Trust As a Manager](https://code.likeagirl.io/8-behaviors-that-lead-to-loss-of-trust-as-a-manager-9e1feccf02ab)"
 
@@ -58,7 +56,7 @@ Vinita Bansal writes about eight subtle behaviours which lead to a loss of trust
 
 {% embed url="https://code.likeagirl.io/8-behaviors-that-lead-to-loss-of-trust-as-a-manager-9e1feccf02ab" %}
 
-#### Tobias Charles
+**Tobias Charles**
 
 In his 2023 article "[7 Things Bosses Do That Make Their Staff Want to Explode](https://medium.com/@TobiasCharles/7-things-bosses-do-that-make-their-staff-want-to-explode-59827e7b9175)" Tobias Charles writes about seven things bosses do that drive their staff crazy:
 
@@ -72,7 +70,7 @@ In his 2023 article "[7 Things Bosses Do That Make Their Staff Want to Explode](
 
 {% embed url="https://medium.com/@TobiasCharles/7-things-bosses-do-that-make-their-staff-want-to-explode-59827e7b9175" %}
 
-#### Tobias Charles
+**Tobias Charles**
 
 In his 2023 article "[9 New Manager Mistakes You Don’t Know You’re Making](https://medium.com/@TobiasCharles/9-new-manager-mistakes-you-probably-dont-even-know-you-re-making-17c1d56bb94e)" Tobias Charles writes about the common new manager mistakes:
 
@@ -88,7 +86,7 @@ In his 2023 article "[9 New Manager Mistakes You Don’t Know You’re Making](h
 
 {% embed url="https://medium.com/@TobiasCharles/9-new-manager-mistakes-you-probably-dont-even-know-you-re-making-17c1d56bb94e" %}
 
-#### Gaurav Jain
+**Gaurav Jain**
 
 In his article "[10 Leadership Blind Spots That Are Driving Your Team Crazy](https://medium.com/the-good-boss/10-leadership-blind-spots-that-are-driving-your-team-crazy-7c7dd4ee8827)" Gaurav writes about the reasons why a team might be unhappy with leadership.
 
@@ -105,7 +103,7 @@ In his article "[10 Leadership Blind Spots That Are Driving Your Team Crazy](htt
 
 {% embed url="https://medium.com/the-good-boss/10-leadership-blind-spots-that-are-driving-your-team-crazy-7c7dd4ee8827" %}
 
-### Further Reading
+#### Further Reading
 
 {% embed url="https://johnbhartley.medium.com/what-to-do-when-you-outgrow-your-manager-a2c63b253099" %}
 

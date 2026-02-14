@@ -1,10 +1,10 @@
 # Leadership Blueprint
 
-### What Is a Leadership Blueprint?
+A leadership blueprint document details a leader's approach and style of leadership, as well as their expectations for themselves and others. It is a comprehensive written guide that outlines the principles, strategies, and practices a leader follows to be effective.&#x20;
 
-A leadership blueprint document details a leader's approach and style of leadership, as well as their expectations for themselves and others. It is a comprehensive written guide that outlines the principles, strategies, and practices a leader follows to be effective. The blueprint details the vision, values, and methods that guide leadership decisions and actions. It serves as a reference for leaders to develop their approach, make informed choices, and inspire their teams, ensuring consistency and alignment with the organisation's overall objectives.
+The blueprint details the vision, values, and methods that guide leadership decisions and actions. It serves as a reference for leaders to develop their approach, make informed choices, and inspire their teams, ensuring consistency and alignment with the organisation's overall objectives.
 
-### Benefits
+#### Benefits
 
 1. **Clarity of Vision**\
    A leadership blueprint helps articulate a clear vision, ensuring that the leader's goals and direction are well-defined and understood by the team.
