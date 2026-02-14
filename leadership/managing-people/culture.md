@@ -2,7 +2,7 @@
 
 A strong workplace culture is central to building a thriving, productive, and motivated team. It sets the tone for how employees experience their work environment, impacting not only individual performance but also the organisation's overall success. A good workplace culture fosters a sense of belonging, aligns people with shared values and goals, and creates an environment where collaboration, trust, and innovation can flourish.
 
-Investing in a good workplace culture is an investment in people, performance, and the organisation's future. A positive culture doesn't just make for a better working environment—it establishes the foundation for sustainable growth, innovation, and a strong, unified company identity.
+Investing in a good workplace culture is an investment in people, performance, and the organisation's future. A positive culture doesn't just make for a better working environment, it establishes the foundation for sustainable growth, innovation, and a strong, unified company identity.
 
 Firstly, a positive culture is instrumental in attracting and retaining talent. People are more likely to join and stay with organisations that provide supportive, engaging environments where they feel valued. This is especially true in competitive industries where skilled professionals have multiple options. A culture that prioritises respect, diversity, and recognition for achievements contributes to higher levels of employee satisfaction, lowering turnover rates and enhancing team stability.
 
@@ -12,12 +12,12 @@ Workplace culture also plays a critical role in employees' wellbeing. An environ
 
 Lastly, culture shapes a company's brand identity. The values an organisation upholds internally are often reflected externally, impacting how it is perceived by clients, partners, and the general public. A workplace that demonstrates integrity, inclusiveness, and respect becomes synonymous with these qualities, which can enhance customer loyalty and strengthen brand reputation.
 
-### Notable Articles
+#### Further Reading
 
 {% embed url="https://mikecarruego.medium.com/symptoms-of-a-broken-product-culture-part-1-893b278b7535" %}
 
 {% embed url="https://mikecarruego.medium.com/symptoms-of-a-broken-product-culture-part-2-4311c16c9f6b" %}
 
-### Further Reading
+#### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/culture-48202202" %}
