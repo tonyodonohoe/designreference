@@ -8,6 +8,10 @@ The Nielsen Norman Group YouTube channel is a reliable source for UX guidance. N
 
 The PlaybookUX YouTube channel is an essential resource for all things user experience (UX), product and service design. PlaybookUX demystifies the complexities of design through videos that provide step-by-step guidance and clear, methodical insights.
 
+#### [Management 3.0](https://management30.com/)
+
+Agile Leadership. Managing the system, not the people. Management 3.0 is an ever-changing collection of games, tools, and practices to help any worker to manage the organization. It is a way of looking at work systems.
+
 #### [UXTools.co UX Challenges](https://www.uxtools.co/challenges)
 
 UXTools.co is a comprehensive resource dedicated to tracking industry trends and comparing the various software and methodologies used in user experience design. Their "UX Challenges" section provides structured, real-world design prompts based on common business problems. Each exercise includes a project brief, specific constraints, and a list of tasks, making it a practical resource for anyone looking to practise their problem-solving skills or develop new case studies for a professional portfolio.
@@ -19,6 +23,10 @@ Design leaders studio is an online video course for designers who want to learn 
 #### [Dare to Lead Hub](https://brenebrown.com/hubs/dare-to-lead/)
 
 This learning hub accompanies Brené Brown's 2018 book, "[Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead)" and is packed full of useful information and resources to go along with the book.
+
+#### [220+ Illustrations for Your Design Systems and Docs](https://illustrations.saas-ui.dev/)
+
+A vast collection of free, high-quality, easily accessible and professionally crafted illustrations designed specifically for documentation, frameworks, and design systems.
 
 #### [8 Must-have Websites to Master UI/UX Skills](https://uxplanet.org/8-must-have-websites-to-master-ui-ux-skills-5861984d6928)
 
