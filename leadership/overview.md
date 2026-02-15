@@ -29,7 +29,7 @@ This involves not just hiring and organising team members but also fostering a p
 
 _<mark style="background-color:yellow;">Drive design vision, strategic alignment and innovation.</mark>_
 
-A design manager should ensure that the design team's work aligns with the broader business goals and strategic vision of the company. This involves setting a clear design vision, advocating for design's role in achieving business objectives, and encouraging innovation to address emerging challenges and opportunities.
+A design leader should ensure that the design team's work aligns with the broader business goals and strategic vision of the company. This involves setting a clear design vision, advocating for design's role in achieving business objectives, and encouraging innovation to address emerging challenges and opportunities.
 
 #### 3. Process
 
@@ -41,4 +41,4 @@ This means implementing and refining workflows to improve efficiency and effecti
 
 _<mark style="background-color:yellow;">Deliver great products and measure their impact.</mark>_
 
-This encompasses not just overseeing the design and development of products but also ensuring that they meet user needs and business goals. It involves tracking product performance, gathering user feedback, and making data-informed decisions to iterate and improve.
+This encompasses not just overseeing the design and development of products but also ensuring that they meet user needs and business goals. It involves tracking product performance, synthesising user insights, and making data-informed decisions to iterate and improve.

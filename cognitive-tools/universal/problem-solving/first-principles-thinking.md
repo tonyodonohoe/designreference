@@ -16,9 +16,12 @@ This method of reasoning starts by breaking down a complex problem into its most
 
 #### Key Characteristics
 
-* Reduction: Breaking down a complex problem into its simplest components.
-* Questioning: Challenging assumptions and conventional wisdom.
-* Rebuilding: Reconstructing the problem or solution from the ground up.
+* **Reduction**\
+  Breaking down a complex problem into its simplest components.
+* **Questioning**\
+  Challenging assumptions and conventional wisdom.
+* **Rebuilding**\
+  Reconstructing the problem or solution from the ground up.
 
 #### Example
 
@@ -32,9 +35,12 @@ By starting with the most basic elements of the problem, you can explore innovat
 
 #### Benefits
 
-* Innovation: It can lead to ground-breaking solutions by challenging conventional wisdom.
-* Clarity: It can help you understand complex problems more deeply.
-* Decision-making: It can provide a solid foundation for making informed choices.
+* **Innovation**\
+  It can lead to ground-breaking solutions by challenging conventional wisdom.
+* **Clarity**\
+  It can help you understand complex problems more deeply.
+* **Decision-making**\
+  It can provide a solid foundation for making informed choices.
 
 #### The Smartest Person I Ever Worked With Taught Me One Thing
 

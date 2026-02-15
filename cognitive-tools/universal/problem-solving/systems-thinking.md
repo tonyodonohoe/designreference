@@ -38,7 +38,7 @@ However, tools like causal loop diagrams, stock and flow models, and system arch
 
 In a world where the pace of change is faster than ever, systems thinking offers a lens through which to navigate complexity with more insight and agility. Whether addressing global challenges like climate change, optimising processes within a company, or even making personal life decisions, systems thinking equips us to make more informed and sustainable choices.&#x20;
 
-By recognising the interconnected nature of systems, we are better able to identify solutions that consider the whole rather than just isolated parts. It's a way of thinking that prioritises long-term impact and resilience, enabling us to engage with challenges more constructively and collaboratively. In essence, systems thinking is not only about understanding how systems work; it’s about creating a mindset that helps us thrive in an increasingly interconnected world.
+By recognising the interconnected nature of systems, we are better able to identify solutions that consider the whole rather than just isolated parts. It's a way of thinking that prioritises long term impact and resilience, enabling us to engage with challenges more constructively and collaboratively. In essence, systems thinking is not only about understanding how systems work; it’s about creating a mindset that helps us thrive in an increasingly interconnected world.
 
 #### In Simple Terms
 
@@ -52,16 +52,23 @@ Systems thinking helps us solve problems by looking at the big picture, not just
 
 Ultimately, systems thinking is about seeing the forest for the trees. It's a powerful tool for navigating complexity and creating positive change.
 
-* **A Holistic Approach:** Systems thinking is a way of understanding how different parts of a system interact and influence each other. It focuses on the big picture rather than just individual elements.
-* **Beyond Linear Thinking:** Unlike traditional problem-solving, which often looks for single causes and solutions, systems thinking recognizes that problems are often interconnected and have multiple causes.
-* **Dynamic and Adaptive:** Systems are constantly changing and adapting. Systems thinking helps us understand these changes and how they impact the overall system.
+* **A Holistic Approach**\
+  Systems thinking is a way of understanding how different parts of a system interact and influence each other. It focuses on the big picture rather than just individual elements.
+* **Beyond Linear Thinking**\
+  Unlike traditional problem-solving, which often looks for single causes and solutions, systems thinking recognizes that problems are often interconnected and have multiple causes.
+* **Dynamic and Adaptive**\
+  Systems are constantly changing and adapting. Systems thinking helps us understand these changes and how they impact the overall system.
 
 #### Why is Systems Thinking Important?
 
-* **Effective Problem-Solving:** By seeing the bigger picture, systems thinking helps us identify root causes and develop more sustainable solutions.
-* **Better Decision-Making:** It enables us to anticipate the consequences of our actions and make informed choices.
-* **Improved Collaboration:** Systems thinking fosters collaboration by encouraging different perspectives and understanding how everyone is connected.
-* **Innovation:** It can spark new ideas and approaches by challenging traditional thinking.
+* **Effective Problem-Solving**\
+  By seeing the bigger picture, systems thinking helps us identify root causes and develop more sustainable solutions.
+* **Better Decision-Making**\
+  It enables us to anticipate the consequences of our actions and make informed choices.
+* **Improved Collaboration**\
+  Systems thinking fosters collaboration by encouraging different perspectives and understanding how everyone is connected.
+* **Innovation**\
+  It can spark new ideas and approaches by challenging traditional thinking.
 
 #### How is Systems Thinking Used?
 
@@ -81,10 +88,14 @@ Ultimately, systems thinking is about seeing the forest for the trees. It's a po
 
 #### Key Concepts in Systems Thinking
 
-* **Interconnectedness**: Everything is connected to everything else.
-* **Feedback Loops**: Actions can have unintended consequences that can amplify or dampen the original effect.
-* **Emergent Properties**: The whole is greater than the sum of its parts.
-* **Systems Thinking Tools**: There are various tools and frameworks to help with systems thinking, such as:
+* **Interconnectedness**\
+  Everything is connected to everything else.
+* **Feedback Loops**\
+  Actions can have unintended consequences that can amplify or dampen the original effect.
+* **Emergent Properties**\
+  The whole is greater than the sum of its parts.
+* **Systems Thinking Tools**\
+  There are various tools and frameworks to help with systems thinking, such as:
   * Causal Loop Diagrams
   * System Dynamics Modelling
   * Root Cause Analysis

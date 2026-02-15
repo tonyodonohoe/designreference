@@ -24,6 +24,10 @@ This learning hub accompanies Brené Brown's 2018 book, "[Dare to Lead](https://
 
 This UX Planet article by Denys Sergushkin highlights eight essential websites for mastering UI/UX design. It provides a curated list of resources that cover everything from interface psychology and design laws to UI component libraries and ethical design standards. It is a practical reference for anyone looking to sharpen their technical skills and apply professional industry methods to their work.
 
+#### [Your UX design “Every Day Carry”](https://uxdesign.cc/your-ux-design-every-day-carry-bae2463fd4b5)
+
+5 frameworks that will save your butt… and help you kick some by Jon Daiello.
+
 #### [UX FAQs by Yichen He](https://www.notion.so/UX-FAQs-3cbed70a2ce244208394a852af79996f)
 
 This Notion document is an extensive FAQ guide created for aspiring and new UX designers. It provides structured answers to common industry questions, covering everything from foundational design principles and documentation strategies to career advice for breaking into the field. It serves as a comprehensive knowledge base for anyone seeking clarity on the practical and professional aspects of a career in user experience.
