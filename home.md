@@ -33,12 +33,28 @@ Sponsored by [GitBook](https://www.gitbook.com/) and built by [Tony O'Donohoe](h
 [usability-testing.md](ux-methods/testing/usability-testing.md)
 {% endcontent-ref %}
 
+{% content-ref url="ux-methods/testing/design-failure-mode-and-effects-analysis-dfmea.md" %}
+[design-failure-mode-and-effects-analysis-dfmea.md](ux-methods/testing/design-failure-mode-and-effects-analysis-dfmea.md)
+{% endcontent-ref %}
+
 
 
 **Cognitive Tools**
 
+{% content-ref url="cognitive-tools/ux-laws-principles/behaviour/jakobs-law.md" %}
+[jakobs-law.md](cognitive-tools/ux-laws-principles/behaviour/jakobs-law.md)
+{% endcontent-ref %}
+
+{% content-ref url="cognitive-tools/ux-laws-principles/behaviour/peak-end-rule.md" %}
+[peak-end-rule.md](cognitive-tools/ux-laws-principles/behaviour/peak-end-rule.md)
+{% endcontent-ref %}
+
 {% content-ref url="cognitive-tools/universal/prioritisation/prioritisation-matrix.md" %}
 [prioritisation-matrix.md](cognitive-tools/universal/prioritisation/prioritisation-matrix.md)
+{% endcontent-ref %}
+
+{% content-ref url="cognitive-tools/universal/problem-solving/first-principles-thinking.md" %}
+[first-principles-thinking.md](cognitive-tools/universal/problem-solving/first-principles-thinking.md)
 {% endcontent-ref %}
 
 
@@ -47,6 +63,14 @@ Sponsored by [GitBook](https://www.gitbook.com/) and built by [Tony O'Donohoe](h
 
 {% content-ref url="leadership/leadership-foundations/good-managers.md" %}
 [good-managers.md](leadership/leadership-foundations/good-managers.md)
+{% endcontent-ref %}
+
+{% content-ref url="leadership/leadership-foundations/bad-managers.md" %}
+[bad-managers.md](leadership/leadership-foundations/bad-managers.md)
+{% endcontent-ref %}
+
+{% content-ref url="leadership/process/responsible-accountable-consulted-informed-raci.md" %}
+[responsible-accountable-consulted-informed-raci.md](leadership/process/responsible-accountable-consulted-informed-raci.md)
 {% endcontent-ref %}
 
 {% content-ref url="leadership/managing-people/performance-management.md" %}
