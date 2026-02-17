@@ -7,15 +7,13 @@ icon: hand-wave
 
 <figure><img src=".gitbook/assets/homepage-hero.png" alt=""><figcaption></figcaption></figure>
 
-Product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) offering insights to equip both designers and managers with the tools needed to navigate challenges and achieve success.
+[DesignReference.xyz](https://www.designreference.xyz/) is a product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) offering insights to equip both designers and managers with the tools needed to navigate challenges and achieve success.
 
-
+Sponsored by [GitBook](https://www.gitbook.com/) and built by [Tony O'Donohoe](https://www.tonyodonohoe.com/), [DesignReference.xyz](https://www.designreference.xyz/) comprises over 160,000 words spanning over 320 pages as well as countless resource links and videos. With close on 3,000 monthly visits, it is referenced by leading Silicon Valley firms, open source communities, education institutes and major AI platforms.
 
 ### **The Collection**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4>UX Methods</h4></td><td>Find the right UX methods for any stage of the product design process. Methods and activities are grouped into three sections: Discovery, Ideation, and Testing, based on an eight-phase process.</td><td><a href="/broken/pages/SwpgiPQlXNHSvAmwxlbx">Broken link</a></td><td><a href=".gitbook/assets/boxtop-methods.png">boxtop-methods.png</a></td></tr><tr><td><h4>Cognitive Tools</h4></td><td>Great minds across all professions have dedicated time to formulating theories, laws, and frameworks to assist others. This area serves as an access point to that expertise relating to product design.</td><td><a href="/broken/pages/aUwXfsEY9cZzjkoff2LX">Broken link</a></td><td><a href=".gitbook/assets/boxtop-cognitive.png">boxtop-cognitive.png</a></td></tr><tr><td><h4>Leadership</h4></td><td>The Leadership section offers insights and materials tailored to equip both new and seasoned design managers and leaders with the tools needed to navigate the specific challenges of design leadership.</td><td><a href="leadership/overview.md">overview.md</a></td><td><a href=".gitbook/assets/boxtop-leadership (1).png">boxtop-leadership (1).png</a></td></tr></tbody></table>
-
-
 
 ### Featured Content
 
