@@ -9,7 +9,7 @@ icon: hand-wave
 
 [DesignReference.xyz](home.md) is a product design knowledge base covering [UX Methods](/broken/pages/SwpgiPQlXNHSvAmwxlbx), [Cognitive Tools](/broken/pages/aUwXfsEY9cZzjkoff2LX), and [Leadership](/broken/pages/RxfIMiU2VcOf3eQ0ib8g) offering insights to equip both designers and managers with the tools needed to navigate challenges and achieve success.
 
-{% hint style="success" %}
+{% hint style="info" %}
 Sponsored by [GitBook](https://www.gitbook.com/) and built by [Tony O'Donohoe](https://www.tonyodonohoe.com/), [DesignReference.xyz](home.md) comprises over 160,000 words spanning over 320 pages as well as countless resource links and videos. With close on 3,000 monthly visits, it is referenced by leading Silicon Valley firms, open source communities, education institutes and major AI platforms.
 {% endhint %}
 
