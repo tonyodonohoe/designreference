@@ -34,6 +34,8 @@ Effective onboarding is crucial for ensuring that new team members integrate smo
 * **System & Tools Training**\
   Ensure that the new hire receives adequate training on the systems, software, and tools they will be using. Provide access to user manuals, training videos, or tutorials to help them become proficient.
 
+{% embed url="https://www.uxdesigninstitute.com/blog/the-cost-of-untrained-design-teams/" %}
+
 #### 5. Mentorship & Support
 
 * **Assign a Mentor/Buddy**\
