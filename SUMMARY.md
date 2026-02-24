@@ -102,6 +102,7 @@
   * [Lab Usability Testing](ux-methods/testing/lab-usability-testing.md)
   * [Measuring Design Success](ux-methods/testing/measuring-design-success.md)
   * [Prototype Testing](ux-methods/testing/prototype-testing.md)
+  * [RITE Testing](ux-methods/testing/rite-testing.md)
   * [Screen Recording Analysis](ux-methods/testing/screen-recording-analysis.md)
   * [Surveys](ux-methods/testing/surveys.md)
   * [Tree Testing](ux-methods/testing/tree-testing.md)

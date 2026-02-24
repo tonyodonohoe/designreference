@@ -18,6 +18,8 @@ Lastly, culture shapes a company's brand identity. The values an organisation up
 
 {% embed url="https://mikecarruego.medium.com/symptoms-of-a-broken-product-culture-part-2-4311c16c9f6b" %}
 
+{% embed url="https://medium.com/psychology-of-workplaces/the-gestalts-of-culture-why-teams-dont-behave-the-way-you-think-they-do-38971f4d0273" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/culture-48202202" %}
