@@ -24,6 +24,8 @@ After acting, you return to the observation stage, assessing the results of your
 
 #### Further Reading
 
+{% embed url="https://medium.com/the-good-boss/the-ooda-loop-how-fighter-pilots-and-smart-leaders-make-better-decisions-2b654f065007" %}
+
 {% embed url="https://untools.co/ooda-loop/" %}
 
 {% embed url="https://fs.blog/ooda-loop/" %}

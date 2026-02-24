@@ -1,5 +1,9 @@
 # Education
 
+#### [Google UX Design Professional Certificate](https://grow.google/intl/ie/)
+
+The Google UX Design Professional Certificate is an online programme designed to provide job-ready skills in user experience design through hands-on practice with tools like Figma and Adobe XD. It covers the end-to-end design process, from initial user research and wireframing to creating high-fidelity prototypes and conducting usability studies. [I finished the Google UX design certificate, here’s my honest take](https://medium.com/design-bootcamp/ux-blueprint-17-i-finished-the-google-ux-design-certificate-heres-my-honest-take-91fdf200733c) by Hizkia St.
+
 #### [Nielsen Norman Group YouTube Channel](https://www.youtube.com/@NNgroup/videos)
 
 The Nielsen Norman Group YouTube channel is a reliable source for UX guidance. NNGroup brings over 25 years of research-based insights to design and research professionals. Their videos break down complex UX concepts into practical, actionable advice you can apply immediately.

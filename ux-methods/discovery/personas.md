@@ -16,6 +16,8 @@ By designing with user personas in mind, organisations can create products and s
 
 {% embed url="https://blog.logrocket.com/ux-dseign/using-proto-personas-for-ux-designs/" %}
 
+{% embed url="https://uxdesign.cc/how-user-segmentation-rather-than-personas-helps-you-get-design-buy-in-6662d0a9a3ec" %}
+
 {% embed url="https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc" %}
 
 {% embed url="https://boagworld.com/usability/personas/" %}

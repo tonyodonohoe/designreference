@@ -230,6 +230,7 @@
     * [Peter Principle](cognitive-tools/universal/managing-people/the-peter-principle.md)
     * [Situation-Behaviour-Impact (SBI)](cognitive-tools/universal/managing-people/situation-behaviour-impact-sbi.md)
     * [Skill-Will Matrix](cognitive-tools/universal/managing-people/skill-will-matrix.md)
+    * [Spiral Dynamics](cognitive-tools/universal/managing-people/spiral-dynamics.md)
 
 ## Leadership
 
