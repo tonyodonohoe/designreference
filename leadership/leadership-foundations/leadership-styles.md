@@ -36,6 +36,8 @@ Transactional leadership, on the other hand, uses a system of rewards and punish
 
 Servant leadership places team needs first, with leaders focusing on supporting individuals in achieving their goals and promoting personal growth. Servant leaders are empathetic and humble, often sharing decision-making power, which fosters strong, motivated teams in collaborative and supportive environments.
 
+{% embed url="https://medium.com/the-good-boss/servant-leadership-how-to-lead-better-by-getting-out-of-the-way-5e9789a77e34" %}
+
 **Autocratic**
 
 Autocratic leadership is highly centralised, with the leader holding complete control and making quick, unilateral decisions. It is characterised by a directive, top-down approach and is often employed in crisis management scenarios or environments requiring strict oversight.
