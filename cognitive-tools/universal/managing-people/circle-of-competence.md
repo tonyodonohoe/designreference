@@ -42,6 +42,8 @@ In a world that often prizes breadth of knowledge, the Circle of Competence remi
 
 {% embed url="https://medium.com/datadriveninvestor/how-to-understand-your-circle-of-competence-in-5-minutes-a32130ee3a45" %}
 
+{% embed url="https://medium.com/the-good-boss/the-circle-of-competence-how-to-lead-smarter-by-getting-honest-with-yourself-034fe9e148e9" %}
+
 {% embed url="https://medium.com/career-power/the-circle-of-competence-for-your-career-1434cdcebf15" %}
 
 {% embed url="https://fs.blog/circle-of-competence/" %}

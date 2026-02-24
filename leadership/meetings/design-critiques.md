@@ -29,6 +29,8 @@ Unlike casual feedback, design critiques follow a structured process, often with
 
 {% embed url="https://www.intercom.com/blog/running-productive-design-critiques" %}
 
+{% embed url="https://nurxmedov.medium.com/10-principles-for-design-critique-that-actually-change-work-33c36c103eaa" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/design-critiques-47700558" %}
