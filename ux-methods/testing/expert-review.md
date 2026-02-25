@@ -30,6 +30,8 @@ Design Audit is the broadest, covering multiple aspects of the user experience. 
 
 {% embed url="https://medium.com/oscar-tech/design-audits-what-and-why-wip-82f1d16e1699" %}
 
+{% embed url="https://uxplanet.org/everything-i-know-about-running-ux-audits-86fd317b85fb" %}
+
 #### Cognitive Walkthrough
 
 A Cognitive Walkthrough is a specialised type of Expert Review where an evaluator simulates a user’s thought process to determine how easy it is to learn a new system. Unlike a general review, this method focuses specifically on new or infrequent users who are trying to complete a task for the first time without any formal training. The expert goes through each step of a task and asks a series of specific questions to see if the design provides enough clues for a person to reach their goal successfully.

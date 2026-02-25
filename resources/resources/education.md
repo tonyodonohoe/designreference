@@ -12,6 +12,10 @@ The Nielsen Norman Group YouTube channel is a reliable source for UX guidance. N
 
 The PlaybookUX YouTube channel is an essential resource for all things user experience (UX), product and service design. PlaybookUX demystifies the complexities of design through videos that provide step-by-step guidance and clear, methodical insights.
 
+#### [The Best Leadership Books Ever Written](https://medium.com/the-good-boss/the-best-leadership-books-ever-written-204b9712aa82)
+
+Timeless lessons from 147 books across 18 leadership disciplines for modern leaders navigating change, complexity, and AI by [Gaurav Jain](https://medium.com/@gauravjain)
+
 #### [Management 3.0](https://management30.com/)
 
 Agile Leadership. Managing the system, not the people. Management 3.0 is an ever-changing collection of games, tools, and practices to help any worker to manage the organization. It is a way of looking at work systems.

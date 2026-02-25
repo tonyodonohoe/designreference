@@ -85,6 +85,10 @@ This approach is valuable for development as it offers a comprehensive view of a
 * **360-Degree Feedback**\
   360-degree feedback is a comprehensive evaluation process that collects performance feedback from a variety of sources, including an individual's managers, peers, subordinates, and sometimes even clients or external stakeholders. This multi-perspective approach provides a well-rounded view of an individual's strengths and areas for development by comparing their self-assessment with the feedback from others who interact with them in different capacities. By incorporating diverse viewpoints, 360-degree feedback aims to build self-awareness, promote personal growth, and guide behaviour change based on a holistic understanding of performance.
 
+#### Further Reading
+
+{% embed url="https://www.interaction-design.org/literature/article/how-to-reframe-negative-feedback-without-losing-confidence-in-yourself" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/feedback-47121757" %}
