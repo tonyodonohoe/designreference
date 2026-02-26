@@ -130,3 +130,5 @@ Visit [untools.co](https://untools.co/systems-thinking/#tools) for a handy list 
 {% embed url="https://www.6sigma.us/systems-thinking/what-is-systems-thinking/" %}
 
 {% embed url="https://uxdesign.cc/using-systems-thinking-as-a-design-leader-d8b6f2108fa3" %}
+
+{% embed url="https://medium.com/write-a-catalyst/over-126-000-tech-jobs-gone-in-2025-heres-exactly-which-skills-are-now-untouchable-1ecfce1b80dc" %}

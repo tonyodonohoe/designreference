@@ -182,6 +182,14 @@ And even if you want to opt-out at some point, the onus is on you to make sure t
 
 ***
 
+#### Further Reading
+
+{% embed url="https://courtneyannebranson.medium.com/the-art-and-tradition-of-the-review-how-to-survive-both-38453eaa7ef5" %}
+
+{% embed url="https://courtneyannebranson.medium.com/giving-feedback-without-deluding-or-soul-crushing-others-d371f89dfaa9" %}
+
+{% embed url="https://courtneyannebranson.medium.com/the-anti-performance-review-how-id-build-talent-development-from-scratch-14930d2788ba" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/performance-management-47717628" %}
