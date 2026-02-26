@@ -177,6 +177,7 @@
     * [Paradox of the Active User](cognitive-tools/ux-laws-principles/psychology/paradox-of-the-active-user.md)
     * [Serial Position Effect](cognitive-tools/ux-laws-principles/psychology/serial-position-effect.md)
     * [Von Restorff Effect](cognitive-tools/ux-laws-principles/psychology/von-restorff-effect.md)
+    * [Yerkes-Dodson Law](cognitive-tools/ux-laws-principles/psychology/yerkes-dodson-law.md)
     * [Zeigarnik Effect](cognitive-tools/ux-laws-principles/psychology/zeigarnik-effect.md)
 * [Universal](cognitive-tools/universal/README.md)
   * [Prioritisation](cognitive-tools/universal/prioritisation/README.md)

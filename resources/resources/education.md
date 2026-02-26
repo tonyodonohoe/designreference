@@ -8,6 +8,10 @@ The Google UX Design Professional Certificate is an online programme designed to
 
 The Nielsen Norman Group YouTube channel is a reliable source for UX guidance. NNGroup brings over 25 years of research-based insights to design and research professionals. Their videos break down complex UX concepts into practical, actionable advice you can apply immediately.
 
+#### [Interaction Design Foundation YouTube Channel](https://www.youtube.com/@InteractionDesignOrg/videos)
+
+The Interaction Design Foundation is an educational organisation which produces open access educational materials online with the stated goal of democratising education by making world-class educational materials free for anyone, anywhere.
+
 #### [PlaybookUX YouTube Channel](https://www.youtube.com/@PlaybookUX/videos)
 
 The PlaybookUX YouTube channel is an essential resource for all things user experience (UX), product and service design. PlaybookUX demystifies the complexities of design through videos that provide step-by-step guidance and clear, methodical insights.

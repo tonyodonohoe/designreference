@@ -21,3 +21,5 @@ Affinity diagramming is a collaborative method used to organise and make sense o
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=C4nYxZxteJY" %}
+
+{% embed url="https://www.youtube.com/watch?v=DCto9p0InrE" %}

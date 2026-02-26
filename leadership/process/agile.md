@@ -64,8 +64,6 @@ Initiatives are collections of epics that drive toward a common goal.
 
 {% embed url="https://businessmap.io/agile/project-management/tasks-epics-initiatives-themes" %}
 
-{% embed url="https://producthq.org/agile/project-management/stories-epics-vs-initiatives/" %}
-
 {% embed url="https://www.cplace.com/en/glossary/initiative/" %}
 
 #### Sprint Planning
@@ -326,6 +324,10 @@ Communication and Collaboration Tools:
 {% embed url="https://www.youtube.com/watch?v=JpzGbPtQ_l4" %}
 
 {% embed url="https://www.youtube.com/watch?v=XLvx-hCmKPk" %}
+
+{% embed url="https://www.youtube.com/watch?v=HwKlGDQ8R4Q" %}
+
+{% embed url="https://www.youtube.com/watch?v=xzKCYmD5Z1I" %}
 
 #### Further Reading
 

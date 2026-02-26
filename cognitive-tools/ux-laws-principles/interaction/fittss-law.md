@@ -20,6 +20,8 @@ Fitts's Law helps designers understand how to create user interfaces that make i
 
 {% embed url="https://www.youtube.com/watch?v=DOYqXAPwYQc" %}
 
+{% embed url="https://www.youtube.com/watch?v=SK_VnW1PDuU" %}
+
 #### Further Reading
 
 {% embed url="https://lawsofux.com/fittss-law/" %}

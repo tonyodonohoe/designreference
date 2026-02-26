@@ -19,3 +19,5 @@ This method is incredibly efficient because it can be done with simple wireframe
 {% embed url="https://www.uxtweak.com/help/first-click-guide/" %}
 
 {% embed url="https://www.lyssna.com/guides/first-click-testing/" %}
+
+{% embed url="https://www.interaction-design.org/literature/article/first-click-testing" %}

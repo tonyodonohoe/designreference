@@ -6,6 +6,8 @@ A Lead is responsible for overseeing a team or project, balancing hands-on work 
 
 {% embed url="https://uxdesign.cc/from-senior-designer-to-lead-designer-advance-your-career-without-becoming-a-manager-a0cde39a71bf" %}
 
+{% embed url="https://uxdesign.cc/the-80-job-how-design-leads-are-using-ai-and-its-not-about-mockups-ce5df0ed78cf" %}
+
 #### Principal
 
 A Principal is a senior expert with extensive experience who leads high-impact projects and sets strategic direction. Principals guide teams on complex initiatives, offer deep technical expertise, and influence organisational goals. They often mentor other senior members and work closely with leadership to shape and implement long-term vision and strategy. This role involves high-level decision-making and is crucial for driving innovation, establishing best practices, and achieving strategic milestones within an organisation.
