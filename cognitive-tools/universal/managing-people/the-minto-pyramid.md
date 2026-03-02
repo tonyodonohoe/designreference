@@ -29,3 +29,5 @@ The Minto Pyramid and the Pyramid Principle are essentially the same concept. Bo
 {% embed url="https://sketchplanations.com/the-pyramid-principle" %}
 
 {% embed url="https://medium.com/publishous/how-to-use-clear-logic-in-thinking-and-communicating-with-the-pyramid-principle-27aa21b8edc1" %}
+
+{% embed url="https://medium.com/@marybeth.hazeldine/the-pyramid-principle-for-presentations-mckinseys-secret-weapon-7cdc91f8d2ec" %}
