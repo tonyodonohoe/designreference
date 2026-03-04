@@ -111,6 +111,10 @@ Visit [untools.co](https://untools.co/systems-thinking/#tools) for a handy list 
 * [Balancing Feedback Loop](https://untools.co/balancing-feedback-loop/)
 * [Reinforcing Feedback Loop](https://untools.co/reinforcing-feedback-loop/)
 
+#### Curated Library
+
+{% embed url="https://tonyodonohoe.raindrop.page/systems-thinking-67780434" %}
+
 #### Further Reading
 
 {% embed url="https://uxdesign.cc/a-comprehensive-guide-to-systems-thinking-f5ddf618afc3" %}
