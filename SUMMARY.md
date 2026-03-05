@@ -330,6 +330,14 @@
   * [Leadership Blueprint](leadership/documents/leadership-blueprint.md)
   * [Team Charter](leadership/documents/team-charter.md)
 
+## AI
+
+* [Tools](ai/tools.md)
+* [Terminology](ai/terminology.md)
+* [Designing with AI](ai/designing-with-ai.md)
+* [Prompt Engineering](ai/prompt-engineering.md)
+* [Vibe Coding](ai/vibe-coding.md)
+
 ## Resources
 
 * [Resources](resources/resources/README.md)
