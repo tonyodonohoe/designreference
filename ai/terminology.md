@@ -292,10 +292,26 @@ The practice of rigorously testing an AI system by simulating adversarial attack
 [**Reinforcement Learning from Human Feedback (RLHF)**](https://www.ibm.com/think/topics/rlhf)\
 A training method that uses human rankings of model responses to align the AI's behaviour with human values and preferences.
 
+<details>
+
+<summary>Video: "Reinforcement Learning from Human Feedback (RLHF) Explained" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=T_X4XFwKX8k" %}
+
+</details>
+
 
 
 [**Retrieval-Augmented Generation (RAG)**](https://www.ibm.com/think/topics/retrieval-augmented-generation)\
 A technique that gives an LLM access to external, trusted data sources to provide more accurate and up-to-date answers.
+
+<details>
+
+<summary>Video: "What is Retrieval-Augmented Generation (RAG)?" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=T-D1OfcDW1M" %}
+
+</details>
 
 
 
@@ -306,4 +322,12 @@ Coined by Emily M. Bender and colleagues in 2021, this negative machine learning
 
 [**Vibe Coding**](https://www.ibm.com/think/topics/vibe-coding)\
 A conversational or high-level approach to programming where a user describes desired software features to an AI which then generates the underlying code.
+
+<details>
+
+<summary>Video: "What Is Vibe Coding? Building Software with Agentic AI" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=Y68FF_nUSWE" %}
+
+</details>
 
