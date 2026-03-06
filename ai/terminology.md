@@ -60,6 +60,32 @@ Systemic and repeatable errors in an AI system that create unfair outcomes, ofte
 
 
 
+[**Artificial General Intelligence (AGI)**](https://www.ibm.com/think/topics/artificial-general-intelligence)\
+A theoretical type of AI that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level equal to or beyond human cognitive capabilities.
+
+<details>
+
+<summary>Video: "8 Use Cases for Artificial General Intelligence (AGI)" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=M9b_BOocECM" %}
+
+</details>
+
+
+
+[**Artificial Superintelligence (ASI)**](https://www.ibm.com/think/topics/artificial-superintelligence)\
+A hypothetical form of synthetic intelligence that surpasses the collective cognitive performance of humans across every field, including scientific creativity, general wisdom, and social skills.
+
+<details>
+
+<summary>Video: "What is Artificial Superintelligence (ASI)?" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=PjqGbEE7EYc" %}
+
+</details>
+
+
+
 [**Chain of Thought (CoT)**](https://www.ibm.com/think/topics/chain-of-thoughts)\
 A prompting technique that encourages a model to generate intermediate reasoning steps to improve its performance on complex logic problems.
 
@@ -85,6 +111,19 @@ The principle that digital data is subject to the laws and governance structures
 
 
 
+[**Deep Learning**](https://www.ibm.com/think/topics/deep-learning)\
+A subset of machine learning based on artificial neural networks with multiple layers that enables a system to automatically find patterns and features in complex data such as images, sound, and text.
+
+<details>
+
+<summary>Video: "Machine Learning vs Deep Learning" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=q6kJ71tEYqM" %}
+
+</details>
+
+
+
 [**Explainable AI (XAI)**](https://www.ibm.com/think/topics/explainable-ai)\
 The methods and techniques used to ensure that the internal mechanics and outputs of AI systems can be understood by human experts.
 
@@ -92,6 +131,19 @@ The methods and techniques used to ensure that the internal mechanics and output
 
 [**Generative AI**](https://www.ibm.com/think/topics/generative-ai)\
 A category of artificial intelligence capable of creating new content, such as text, images, or audio, based on patterns learned from existing data.
+
+
+
+[**Generative Pretrained Transformer (GPT)**](https://www.ibm.com/think/topics/gpt)\
+A type of large language model architecture that uses deep learning and a transformer structure to process and generate human-like text based on patterns found in vast datasets.
+
+<details>
+
+<summary>Video: "Transforming Language with Generative Pre-trained Transformers (GPT)" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=bdICz_sBI34" %}
+
+</details>
 
 
 
@@ -136,8 +188,7 @@ A Large Reasoning Model (LRM) is a type of artificial intelligence designed to h
 
 
 
-[**Machine Learning**](https://www.ibm.com/think/machine-learning)
-
+[**Machine Learning**](https://www.ibm.com/think/machine-learning)\
 Machine Learning is a subset of artificial intelligence that uses algorithms to identify patterns in data and improve its own performance on specific tasks over time without being explicitly programmed for every outcome.
 
 <details>
@@ -147,6 +198,11 @@ Machine Learning is a subset of artificial intelligence that uses algorithms to 
 {% embed url="https://www.youtube.com/watch?v=znF2U_3Z210" %}
 
 </details>
+
+
+
+[**Meta Prompting**](https://www.ibm.com/think/topics/meta-prompting)\
+A technique where an initial set of instructions is used to guide the model in generating, refining, or managing its own prompts to improve the quality and structure of its final output.
 
 
 
@@ -186,6 +242,11 @@ The capability of an AI system to process and generate information across differ
 
 
 
+[**Narrow AI**](https://www.ibm.com/think/topics/artificial-intelligence-types)\
+A specialised form of machine intelligence designed to perform a single, specific task or a limited range of functions with high proficiency, rather than possessing general problem-solving abilities.
+
+
+
 [**Neural Network**](https://www.ibm.com/think/topics/neural-networks)\
 A neural network is a computational model inspired by the human brain that uses interconnected layers of nodes to process data and recognise patterns for tasks like classification or prediction. In other words, it is an artificial intelligence architecture that organises simple processing units into layers to learn the specific weights and biases needed to transform input data into accurate predictions.
 
@@ -205,7 +266,22 @@ In machine learning, weights are the numerical parameters within a neural networ
 
 
 [**Prompt Engineering**](https://www.ibm.com/think/topics/prompt-engineering)\
-The craft of refining and optimising the text input given to a model to elicit the most accurate or creative output possible. Read "[The 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering)" by IBM.
+The craft of refining and optimising the text input given to a model to elicit the most accurate or creative output possible.&#x20;
+
+Guide: "[The 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering)" by IBM
+
+
+
+[**Prompt Tuning**](https://www.ibm.com/think/topics/prompt-tuning)\
+A process that involves adding a small, trainable sequence of continuous vectors to the input of a fixed, pre-trained model to guide its behaviour for a specific task without altering the underlying parameters.
+
+<details>
+
+<summary>Video: "What is Prompt Tuning?" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=yu27PWzJI_Y" %}
+
+</details>
 
 
 
