@@ -6,8 +6,7 @@ icon: book-open-lines
 
 
 
-[**Agentic AI**](https://www.ibm.com/think/topics/agentic-ai)
-
+[**Agentic AI**](https://www.ibm.com/think/topics/agentic-ai)\
 Agentic AI refers to autonomous systems capable of using reasoning and tools to complete complex, multi-step goals with minimal human intervention.
 
 
