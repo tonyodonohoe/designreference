@@ -9,10 +9,26 @@ icon: book-open-lines
 [**Agentic AI**](https://www.ibm.com/think/topics/agentic-ai)\
 Agentic AI refers to autonomous systems capable of using reasoning and tools to complete complex, multi-step goals with minimal human intervention.
 
+<details>
+
+<summary>Video: "The Power of AI Agents and Agentic AI Explained" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=2j26a5dmCnI" %}
+
+</details>
+
 
 
 [**Agentic Workflows**](https://www.ibm.com/think/topics/agentic-workflows)\
 Iterative design patterns where an AI agent decomposes a task into sub-goals, reflects on its own output, and uses tools to reach a final result.
+
+<details>
+
+<summary>Video: "How to Use Agentic AI: LLMs, AI Agents &#x26; Prompt Engineering in Action" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=bwvfdFWR1RI" %}
+
+</details>
 
 
 
