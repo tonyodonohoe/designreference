@@ -330,22 +330,20 @@
   * [Leadership Blueprint](leadership/documents/leadership-blueprint.md)
   * [Team Charter](leadership/documents/team-charter.md)
 
-## AI
+## More
 
-* [Tools](ai/tools.md)
-* [Terminology](ai/terminology.md)
-* [Designing with AI](ai/designing-with-ai.md)
-* [Prompt Engineering](ai/prompt-engineering.md)
-* [Vibe Coding](ai/vibe-coding.md)
-
-## Resources
-
-* [Resources](resources/resources/README.md)
-  * [Articles](resources/resources/articles.md)
-  * [Books](resources/resources/books.md)
-  * [Education](resources/resources/education.md)
-  * [Experts](resources/resources/experts.md)
-  * [Research](resources/resources/research-foundations.md)
-  * [Quotes](resources/resources/quotes.md)
-  * [Software](resources/resources/software.md)
+* [AI](more/ai/README.md)
+  * [Tools](more/ai/tools.md)
+  * [Terminology](more/ai/terminology.md)
+  * [Designing with AI](more/ai/designing-with-ai.md)
+  * [Prompt Engineering](more/ai/prompt-engineering.md)
+  * [Vibe Coding](more/ai/vibe-coding.md)
+* [Resources](more/resources/README.md)
+  * [Articles](more/resources/articles.md)
+  * [Books](more/resources/books.md)
+  * [Education](more/resources/education.md)
+  * [Experts](more/resources/experts.md)
+  * [Research](more/resources/research-foundations.md)
+  * [Quotes](more/resources/quotes.md)
+  * [Software](more/resources/software.md)
   * [Video Hub](https://raindrop.io/TonyODonohoe/video-hub-38019834)

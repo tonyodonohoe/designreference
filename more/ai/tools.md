@@ -1,7 +1,3 @@
----
-icon: screwdriver-wrench
----
-
 # Tools
 
 #### [ChatGPT](https://chatgpt.com/)

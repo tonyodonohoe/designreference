@@ -1,7 +1,3 @@
----
-icon: code
----
-
 # Vibe Coding
 
 {% embed url="https://tonyodonohoe.raindrop.page/vibe-code-67871430?v=1" %}
