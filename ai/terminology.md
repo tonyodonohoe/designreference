@@ -4,6 +4,8 @@ icon: book-open-lines
 
 # Terminology
 
+
+
 **AI Agents**\
 Autonomous or semi-autonomous software entities that use model reasoning to complete specific tasks or achieve goals with minimal human intervention.
 
@@ -16,11 +18,6 @@ The set of skills and knowledge required to understand, critically evaluate, and
 
 **AI Orchestration**\
 The coordination and management of multiple AI models, tools, and data sources to execute complex, multi-step workflows.
-
-
-
-**AI Pedagogy**\
-The study and practice of teaching and learning specifically designed to integrate or address the use of artificial intelligence in educational environments.
 
 
 
@@ -44,11 +41,6 @@ Systems that use AI to provide immediate, data-driven responses to learner input
 
 
 
-**Benchmarks (e.g., MMLU)**\
-Standardised tests and datasets used to measure and compare the performance of different models across various reasoning and knowledge tasks.
-
-
-
 **Chain of Thought (CoT)**\
 A prompting technique that encourages a model to generate intermediate reasoning steps to improve its performance on complex logic problems.
 
@@ -56,6 +48,11 @@ A prompting technique that encourages a model to generate intermediate reasoning
 
 **Co-creativity / Co-design**\
 A collaborative process where humans and AI systems work together as partners to generate new ideas, content, or product solutions.
+
+
+
+[**Constitutional AI**](https://constitutional.ai/) \
+A set of techniques developed by [Anthropic](https://www.anthropic.com/) researchers to align AI systems with human values to make them helpful, harmless, and honest. The key ideas behind Constitutional AI are aligning an AI's behaviour with a 'constitution' defined by human principles, using techniques like self-supervision and adversarial training, developing constrained optimisation techniques, and designing training data and model architecture to encode beneficial behaviours.
 
 
 
@@ -79,7 +76,7 @@ The distinction between systems that always produce the same output for a given 
 
 
 
-**Explainability (XAI)**\
+[**Explainable AI (XAI)**](https://www.ibm.com/think/topics/explainable-ai)\
 The methods and techniques used to ensure that the internal mechanics and outputs of AI systems can be understood by human experts.
 
 
@@ -104,18 +101,8 @@ Safety mechanisms and rules embedded into AI systems to prevent the generation o
 
 
 
-**Human-in-the-Loop (HITL)**\
-A design model that requires human interaction or oversight at key points in an AI's decision-making process to ensure quality and safety.
-
-
-
-**Inference**\
-The process of an AI model using its trained parameters to make a prediction or generate a response when given a new piece of input.
-
-
-
-**Instructional Scaffolding (AI-assisted)**\
-The use of AI to provide temporary supports that are gradually removed as a learner gains mastery over a particular subject.
+[**Human-in-the-Loop (HITL)**](https://www.ibm.com/think/topics/human-in-the-loop)\
+Human-in-the-loop is a process where a human provides direct feedback or intervention to an artificial intelligence system to improve its accuracy and ensure its decisions are reliable.
 
 
 
@@ -159,8 +146,8 @@ The capability of an AI system to process and generate information across differ
 
 
 
-**Personalisation Architecture**\
-The structural design of a system that allows AI to tailor content and experiences to the specific needs and preferences of individual users.
+**Open-Weights Movement**\
+A collaborative effort in the AI community to promote the public release of trained model parameters, allowing developers to run, study, and customise powerful models on their own hardware without relying on proprietary APIs.
 
 
 
@@ -191,26 +178,6 @@ A technique that gives an LLM access to external, trusted data sources to provid
 
 **Stochastic Parrot**\
 A metaphorical term for large language models that suggests they map out patterns in language without any true understanding of the meaning behind them.
-
-
-
-**System Prompts**\
-High-level instructions that define the persona, tone, and operational boundaries of an AI model before the user enters their specific query.
-
-
-
-**Temperature (Parameter)**\
-A setting that controls the randomness of a model's output, where lower values lead to more predictable text and higher values lead to more creative results.
-
-
-
-**Tokenisation**\
-The process of breaking down text into smaller units, such as words or characters, so that a model can process and analyse them.
-
-
-
-**Vector Databases**\
-Specialised storage systems that hold data as numerical embeddings, allowing AI models to quickly find and retrieve information based on conceptual similarity.
 
 
 
