@@ -210,11 +210,6 @@ The craft of refining and optimising the text input given to a model to elicit t
 
 
 
-**Prompt Library**\
-A curated collection of pre-written and tested prompts that users can reuse or adapt to achieve consistent results from an AI.
-
-
-
 [**Red Teaming**](https://www.ibm.com/think/topics/red-teaming)\
 The practice of rigorously testing an AI system by simulating adversarial attacks to identify vulnerabilities, biases, or safety flaws.
 
@@ -230,8 +225,8 @@ A technique that gives an LLM access to external, trusted data sources to provid
 
 
 
-**Stochastic Parrot**\
-A metaphorical term for large language models that suggests they map out patterns in language without any true understanding of the meaning behind them.
+[**Stochastic Parrot**](https://en.wikipedia.org/wiki/Stochastic_parrot)\
+Coined by Emily M. Bender and colleagues in 2021, this negative machine learning metaphor describes large language models as systems that merely mimic text through statistical patterns without possessing genuine understanding.
 
 
 
