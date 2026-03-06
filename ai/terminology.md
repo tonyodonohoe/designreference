@@ -6,8 +6,33 @@ icon: book-open-lines
 
 
 
-**AI Agents**\
+[**Agentic AI**](https://www.ibm.com/think/topics/agentic-ai)
+
+Agentic AI refers to autonomous systems capable of using reasoning and tools to complete complex, multi-step goals with minimal human intervention.
+
+
+
+**Agentic Workflows**\
+Iterative design patterns where an AI agent decomposes a task into sub-goals, reflects on its own output, and uses tools to reach a final result.
+
+
+
+[**AI Agents**](https://www.ibm.com/think/ai-agents)\
 Autonomous or semi-autonomous software entities that use model reasoning to complete specific tasks or achieve goals with minimal human intervention.
+
+<details>
+
+<summary>Video: "What are AI Agents?" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=F8NKVhkZZWI" %}
+
+</details>
+
+
+
+[**AI Agent Development**](https://www.ibm.com/think/topics/ai-agent-development)
+
+AI agent development is the process of designing and building autonomous software systems that can perceive their environment, reason through tasks, and use tools to achieve specific goals without constant human guidance.
 
 
 
@@ -23,11 +48,6 @@ The coordination and management of multiple AI models, tools, and data sources t
 
 **AI Transparency**\
 The practice of making the operations, data sources, and decision-making logic of an AI system visible and understandable to users.
-
-
-
-**Agentic Workflows**\
-Iterative design patterns where an AI agent decomposes a task into sub-goals, reflects on its own output, and uses tools to reach a final result.
 
 
 
@@ -56,12 +76,12 @@ A set of techniques developed by [Anthropic](https://www.anthropic.com/) researc
 
 
 
-**Context Engineering**\
+[**Context Engineering**](https://community.ibm.com/community/user/blogs/philip-dsouza/2025/09/09/why-context-engineering-is-the-new-buzzword-in-ai)\
 The strategic process of selecting and structuring the specific data and instructions provided to a model to ensure relevant and accurate responses.
 
 
 
-**Context Window**\
+[**Context Window**](https://www.ibm.com/think/topics/context-window)\
 The maximum amount of text or data a model can process and "remember" at any one time during a single interaction.
 
 
@@ -86,7 +106,7 @@ The process of further training a pre-existing model on a specific dataset to ad
 
 
 
-**Generative AI**\
+[**Generative AI**](https://www.ibm.com/think/topics/generative-ai)\
 A category of artificial intelligence capable of creating new content, such as text, images, or audio, based on patterns learned from existing data.
 
 
@@ -101,13 +121,39 @@ Safety mechanisms and rules embedded into AI systems to prevent the generation o
 
 
 
+[**Hallucination**](https://www.ibm.com/think/topics/ai-hallucinations)\
+A phenomenon where an AI model generates information that sounds confident and fluent but is factually incorrect or nonsensical.
+
+
+
 [**Human-in-the-Loop (HITL)**](https://www.ibm.com/think/topics/human-in-the-loop)\
 Human-in-the-loop is a process where a human provides direct feedback or intervention to an artificial intelligence system to improve its accuracy and ensure its decisions are reliable.
 
 
 
-**Large Language Models (LLMs)**\
+[**Large Language Models (LLMs)**](https://www.ibm.com/think/topics/large-language-models)\
 Advanced AI models trained on vast amounts of text data to understand, generate, and manipulate human language.
+
+<details>
+
+<summary>Video: "How Large Language Models Work" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=5sLYAQS9sWQ" %}
+
+</details>
+
+
+
+[**Large Reasoning Model (LRM)**](https://medium.com/@fahey_james/large-reasoning-models-lrms-an-overview-19837b72540f)\
+A Large Reasoning Model (LRM) is a type of artificial intelligence designed to handle complex, multi-step tasks by using advanced internal processes to evaluate different paths and verify its own logic before providing an answer.
+
+<details>
+
+<summary>Video: "What Are Large Reasoning Models (LRMs)? Smarter AI Beyond LLMs" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=enLbj0igyx4" %}
+
+</details>
 
 
 
@@ -121,28 +167,67 @@ A multi-dimensional mathematical space where an AI model maps and clusters relat
 
 
 
-**Mixture-of-Experts (MoE)**\
+[**Machine Learning**](https://www.ibm.com/think/machine-learning)
+
+Machine Learning is a subset of artificial intelligence that uses algorithms to identify patterns in data and improve its own performance on specific tasks over time without being explicitly programmed for every outcome.
+
+<details>
+
+<summary>Video: "Machine Learning Explained: A Guide to ML, AI, &#x26; Deep Learning" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=znF2U_3Z210" %}
+
+</details>
+
+
+
+[**Mixture-of-Experts (MoE)**](https://www.ibm.com/think/topics/mixture-of-experts)\
 A sparse neural network architecture that scales model capacity by routing specific tasks to a subset of specialised "expert" sub-networks rather than activating the entire model for every request.
 
 
 
-**Model Context Protocol (MCP)**\
+[**Model Context Protocol (MCP)**](https://www.ibm.com/think/topics/model-context-protocol)\
 An open standard that enables seamless integration and data exchange between AI applications and various external data sources or tools.
 
+<details>
+
+<summary>Video: "What is MCP? Integrate AI Agents with Databases &#x26; APIs" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=eur8dUO9mvE" %}
+
+</details>
+
+<details>
+
+<summary>Video: "MCP vs API: Simplifying AI Agent Integration with External Data" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=7j1t3UZA1TY" %}
+
+</details>
 
 
-**Model Hallucination**\
-A phenomenon where an AI model generates information that sounds confident and fluent but is factually incorrect or nonsensical.
 
-
-
-**Model Tuning**\
+[**Model Tuning**](https://www.ibm.com/think/topics/model-tuning)\
 The broad practice of adjusting a model's parameters or training data to improve its performance for specific tasks or domains.
 
 
 
-**Multimodality**\
+[**Multimodal AI**](https://www.ibm.com/think/topics/multimodal-ai)\
 The capability of an AI system to process and generate information across different formats simultaneously, such as text, images, and audio.
+
+
+
+[**Neural Network**](https://www.ibm.com/think/topics/neural-networks)
+
+A neural network is a computational model inspired by the human brain that uses interconnected layers of nodes to process data and recognise patterns for tasks like classification or prediction. In other words, it is an artificial intelligence architecture that organises simple processing units into layers to learn the specific weights and biases needed to transform input data into accurate predictions.
+
+<details>
+
+<summary>Video: "Neural Networks Explained in 5 minutes" by IBM</summary>
+
+{% embed url="https://www.youtube.com/watch?v=jmmW0F0biz0" %}
+
+</details>
 
 
 
@@ -151,8 +236,8 @@ A collaborative effort in the AI community to promote the public release of trai
 
 
 
-**Prompt Engineering**\
-The craft of refining and optimising the text input given to a model to elicit the most accurate or creative output possible.
+[**Prompt Engineering**](https://www.ibm.com/think/topics/prompt-engineering)\
+The craft of refining and optimising the text input given to a model to elicit the most accurate or creative output possible. Read "[The 2026 Guide to Prompt Engineering](https://www.ibm.com/think/prompt-engineering)" by IBM.
 
 
 
@@ -161,17 +246,17 @@ A curated collection of pre-written and tested prompts that users can reuse or a
 
 
 
-**Red Teaming**\
+[**Red Teaming**](https://www.ibm.com/think/topics/red-teaming)\
 The practice of rigorously testing an AI system by simulating adversarial attacks to identify vulnerabilities, biases, or safety flaws.
 
 
 
-**Reinforcement Learning from Human Feedback (RLHF)**\
+[**Reinforcement Learning from Human Feedback (RLHF)**](https://www.ibm.com/think/topics/rlhf)\
 A training method that uses human rankings of model responses to align the AI's behaviour with human values and preferences.
 
 
 
-**Retrieval-Augmented Generation (RAG)**\
+[**Retrieval-Augmented Generation (RAG)**](https://www.ibm.com/think/topics/retrieval-augmented-generation)\
 A technique that gives an LLM access to external, trusted data sources to provide more accurate and up-to-date answers.
 
 
@@ -181,6 +266,6 @@ A metaphorical term for large language models that suggests they map out pattern
 
 
 
-**Vibe Coding**\
+[**Vibe Coding**](https://www.ibm.com/think/topics/vibe-coding)\
 A conversational or high-level approach to programming where a user describes desired software features to an AI which then generates the underlying code.
 

@@ -341,7 +341,6 @@
 ## Resources
 
 * [Resources](resources/resources/README.md)
-  * [AI Pulse](resources/resources/ai-pulse.md)
   * [Articles](resources/resources/articles.md)
   * [Books](resources/resources/books.md)
   * [Education](resources/resources/education.md)

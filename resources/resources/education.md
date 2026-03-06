@@ -2,6 +2,10 @@
 
 {% embed url="https://tonyodonohoe.raindrop.page/education-59825268" %}
 
+#### [IBM Think Portal](https://www.ibm.com/think)
+
+The IBM Think portal serves as a comprehensive hub for exploring the intersection of technology and business strategy. It provides access to a wealth of expert insights, from technical explainers and research reports to in-depth podcasts and webinars. Whether you are looking for the latest developments in agentic AI, hybrid cloud, or quantum computing, this resource offers the guidance needed to navigate the complexities of modern digital transformation.
+
 #### [Google UX Design Professional Certificate](https://grow.google/intl/ie/)
 
 The Google UX Design Professional Certificate is an online programme designed to provide job-ready skills in user experience design through hands-on practice with tools like Figma and Adobe XD. It covers the end-to-end design process, from initial user research and wireframing to creating high-fidelity prototypes and conducting usability studies. [I finished the Google UX design certificate, here’s my honest take](https://medium.com/design-bootcamp/ux-blueprint-17-i-finished-the-google-ux-design-certificate-heres-my-honest-take-91fdf200733c) by Hizkia St.
