@@ -333,8 +333,8 @@
 ## More
 
 * [AI](more/ai/README.md)
-  * [Tools](more/ai/tools.md)
   * [Terminology](more/ai/terminology.md)
+  * [Tools](more/ai/tools.md)
   * [Designing with AI](more/ai/designing-with-ai.md)
   * [Prompt Engineering](more/ai/prompt-engineering.md)
   * [Vibe Coding](more/ai/vibe-coding.md)
