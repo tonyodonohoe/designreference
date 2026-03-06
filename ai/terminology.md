@@ -12,7 +12,7 @@ Agentic AI refers to autonomous systems capable of using reasoning and tools to 
 
 
 
-**Agentic Workflows**\
+[**Agentic Workflows**](https://www.ibm.com/think/topics/agentic-workflows)\
 Iterative design patterns where an AI agent decomposes a task into sub-goals, reflects on its own output, and uses tools to reach a final result.
 
 
@@ -36,38 +36,33 @@ AI agent development is the process of designing and building autonomous softwar
 
 
 
-**AI Literacy**\
+[**AI Guardrails**](https://www.ibm.com/think/topics/ai-guardrails)\
+Safety mechanisms and rules embedded into AI systems to prevent the generation of harmful, biased, or off-topic content.
+
+
+
+[**AI Literacy**](https://www.ibm.com/think/insights/ai-literacy)\
 The set of skills and knowledge required to understand, critically evaluate, and effectively use artificial intelligence technologies in various contexts.
 
 
 
-**AI Orchestration**\
+[**AI Orchestration**](https://www.ibm.com/think/topics/ai-orchestration)\
 The coordination and management of multiple AI models, tools, and data sources to execute complex, multi-step workflows.
 
 
 
-**AI Transparency**\
+[**AI Transparency**](https://www.ibm.com/think/topics/ai-transparency)\
 The practice of making the operations, data sources, and decision-making logic of an AI system visible and understandable to users.
 
 
 
-**Algorithmic Bias**\
+[**Algorithmic Bias**](https://www.ibm.com/think/topics/algorithmic-bias)\
 Systemic and repeatable errors in an AI system that create unfair outcomes, often stemming from skewed training data or flawed model design.
 
 
 
-**Automated Feedback Loops**\
-Systems that use AI to provide immediate, data-driven responses to learner inputs to guide improvement without manual intervention.
-
-
-
-**Chain of Thought (CoT)**\
+[**Chain of Thought (CoT)**](https://www.ibm.com/think/topics/chain-of-thoughts)\
 A prompting technique that encourages a model to generate intermediate reasoning steps to improve its performance on complex logic problems.
-
-
-
-**Co-creativity / Co-design**\
-A collaborative process where humans and AI systems work together as partners to generate new ideas, content, or product solutions.
 
 
 
@@ -86,13 +81,8 @@ The maximum amount of text or data a model can process and "remember" at any one
 
 
 
-**Data Sovereignty**\
+[**Data Sovereignty**](https://www.ibm.com/think/topics/data-sovereignty)\
 The principle that digital data is subject to the laws and governance structures of the nation or organisation where it is collected or stored.
-
-
-
-**Deterministic vs. Probabilistic**\
-The distinction between systems that always produce the same output for a given input versus AI models that predict the most likely next outcome based on randomness.
 
 
 
@@ -101,23 +91,13 @@ The methods and techniques used to ensure that the internal mechanics and output
 
 
 
-**Fine-tuning (vs. RAG)**\
-The process of further training a pre-existing model on a specific dataset to adapt its style or knowledge, as opposed to providing external data via retrieval.
-
-
-
 [**Generative AI**](https://www.ibm.com/think/topics/generative-ai)\
 A category of artificial intelligence capable of creating new content, such as text, images, or audio, based on patterns learned from existing data.
 
 
 
-**Grounding**\
+[**Grounding**](https://www.gigaspaces.com/blog/grounding-ai)\
 The process of linking AI outputs to verifiable facts or specific source documents to reduce errors and ensure real-world accuracy.
-
-
-
-**Guardrails**\
-Safety mechanisms and rules embedded into AI systems to prevent the generation of harmful, biased, or off-topic content.
 
 
 
@@ -154,16 +134,6 @@ A Large Reasoning Model (LRM) is a type of artificial intelligence designed to h
 {% embed url="https://www.youtube.com/watch?v=enLbj0igyx4" %}
 
 </details>
-
-
-
-**Latency Management**\
-The technical and design strategies used to minimise or mask the delay between a user's input and the AI's generated response.
-
-
-
-**Latent Space**\
-A multi-dimensional mathematical space where an AI model maps and clusters related data points based on their underlying features and meanings.
 
 
 
@@ -217,8 +187,7 @@ The capability of an AI system to process and generate information across differ
 
 
 
-[**Neural Network**](https://www.ibm.com/think/topics/neural-networks)
-
+[**Neural Network**](https://www.ibm.com/think/topics/neural-networks)\
 A neural network is a computational model inspired by the human brain that uses interconnected layers of nodes to process data and recognise patterns for tasks like classification or prediction. In other words, it is an artificial intelligence architecture that organises simple processing units into layers to learn the specific weights and biases needed to transform input data into accurate predictions.
 
 <details>
@@ -231,8 +200,8 @@ A neural network is a computational model inspired by the human brain that uses 
 
 
 
-**Open-Weights Movement**\
-A collaborative effort in the AI community to promote the public release of trained model parameters, allowing developers to run, study, and customise powerful models on their own hardware without relying on proprietary APIs.
+[**Open-Weight AI Models**](https://medium.com/lets-code-future/open-weight-ai-models-what-they-are-and-why-openais-next-move-matters-f86fe481973a)\
+In machine learning, weights are the numerical parameters within a neural network that determine how input data is transformed into an output. During training, these values are adjusted to "learn" patterns and behaviours. While proprietary models keep these parameters strictly confidential, an open-weight model makes these pre-trained values publicly available for download. This enables users to perform local inference, conduct security audits, or fine-tune the model on private data without needing to send information to a third-party provider.
 
 
 
