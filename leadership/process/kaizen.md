@@ -2,7 +2,7 @@
 
 Kaizen, a Japanese philosophy, is a management approach focused on continuous improvement. It emphasises making small, incremental changes to processes over time, rather than large-scale overhauls. This approach fosters a culture of innovation, efficiency, and problem-solving within an organisation.
 
-#### Key principles of Kaizen
+#### Key Principles
 
 * **Continuous Improvement**\
   A never-ending process of seeking better ways to do things.
@@ -13,7 +13,7 @@ Kaizen, a Japanese philosophy, is a management approach focused on continuous im
 * **Respect for People**\
   Treating all employees with dignity and respect, fostering a positive work environment.
 
-#### How Tech Companies Apply Kaizen
+#### Application
 
 While Kaizen is often associated with manufacturing, its principles can be effectively applied to the tech industry. Specific examples of Kaizen implementation in tech companies might not always be explicitly labeled as such, the underlying principles are often at work.&#x20;
 
@@ -35,3 +35,5 @@ Here are a few examples
 {% embed url="https://medium.com/@ryan_81898/continuous-improvement-the-kaizen-method-in-practice-52356fae2a76" %}
 
 {% embed url="https://www.investopedia.com/terms/k/kaizen.asp" %}
+
+{% embed url="https://medium.com/the-good-boss/the-kaizen-mindset-how-real-leaders-improve-the-system-not-just-the-people-a18eb9d307f6" %}
