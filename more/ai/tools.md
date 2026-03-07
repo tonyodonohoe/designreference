@@ -22,6 +22,14 @@ It is widely regarded as the most sophisticated tool for nuanced writing, comple
 
 While it lacks the native image and video generation tools of its competitors, it excels in productivity features like Artifacts for side-by-side content creation and advanced "computer use" capabilities that allow it to navigate and operate software interfaces to complete multi-step tasks autonomously.
 
+<details>
+
+<summary>Video: "Claude COWORK Clearly Explained (&#x26; how to use it for beginners)" by Eliot Prince</summary>
+
+{% embed url="https://www.youtube.com/watch?v=ZeWfksNXlbU" %}
+
+</details>
+
 #### [Grok](https://grok.com/)
 
 A conversational AI developed by [xAI](https://x.ai/), the artificial intelligence company founded by Elon Musk in 2023. Grok was designed as a more irreverent alternative to traditional AI assistants, with a tone inspired by The Hitchhiker’s Guide to the Galaxy and a willingness to engage with unconventional or humorous prompts.
@@ -34,21 +42,21 @@ Grok also sits within Elon Musk's broader technology ecosystem. Musk has suggest
 
 #### [CoPilot](https://copilot.microsoft.com/)
 
-The enterprise-grade AI assistant developed by [Microsoft](https://www.microsoft.com/) under the leadership of Chairman and CEO Satya Nadella. Launched in early 2023 as Bing Chat and later unified under the Copilot brand, it is built on a deep, multi-billion partnership with [OpenAI](https://openai.com/), primarily utilising OpenAI models.&#x20;
+The enterprise-grade AI assistant developed by [Microsoft](https://www.microsoft.com/) under the leadership of Chairman and CEO Satya Nadella. Launched in early 2023 as Bing Chat and later unified under the Copilot brand, it is built on a deep, multi-billion partnership with [OpenAI](https://openai.com/), primarily utilising OpenAI models.
 
-Copilot is uniquely defined by its "system of agents" architecture, which allows it to function as a seamless layer across the entire [Microsoft 365](https://www.office.com/) ecosystem, including Word, Excel, PowerPoint, and Teams. It excels at grounded productivity, meaning it can pull real-time data from your emails, calendar, and SharePoint files to draft documents or summarise meetings with specific internal context.&#x20;
+Copilot is uniquely defined by its "system of agents" architecture, which allows it to function as a seamless layer across the entire [Microsoft 365](https://www.office.com/) ecosystem, including Word, Excel, PowerPoint, and Teams. It excels at grounded productivity, meaning it can pull real-time data from your emails, calendar, and SharePoint files to draft documents or summarise meetings with specific internal context.
 
 The platform has expanded into [Copilot Studio](https://adoption.microsoft.com/en-us/ai-agents/copilot-studio/), which enables users to build their own custom AI agents focusing on making the AI a more proactive, personalised companion with a long-term memory of user preferences. While it leverages OpenAI's core technology for reasoning and image generation via DALL-E, Microsoft has recently added model flexibility, allowing enterprise users to choose other "brains" like Claude for specific research tasks within the Copilot interface.
 
 #### [Perplexity](https://www.perplexity.ai/)
 
-An AI-powered "answer engine" founded in 2022 by Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski. Unlike traditional chatbots that rely solely on pre-trained data, Perplexity is designed specifically for research and fact-finding by browsing the live internet to provide real-time, sourced answers. Every claim it makes is backed by clickable inline citations, making it a favourite for academics and professionals who need to verify information and avoid the "hallucinations" common in other models.&#x20;
+An AI-powered "answer engine" founded in 2022 by Aravind Srinivas, Denis Yarats, Johnny Ho, and Andy Konwinski. Unlike traditional chatbots that rely solely on pre-trained data, Perplexity is designed specifically for research and fact-finding by browsing the live internet to provide real-time, sourced answers. Every claim it makes is backed by clickable inline citations, making it a favourite for academics and professionals who need to verify information and avoid the "hallucinations" common in other models.
 
 While it has its own internal models called Sonar, a key differentiator is that Pro users can choose to power their searches with other top-tier "brains". The platform has expanded into a full productivity ecosystem featuring the [Comet](https://www.perplexity.ai/comet) AI-native browser and Deep Research mode, which can autonomously perform multi-step investigations across dozens of websites to produce comprehensive reports. It has moved away from traditional advertising to focus on a subscription and enterprise-first model, positioning itself as a transparent, high-trust alternative to legacy search engines.
 
 #### [Midjourney](https://www.midjourney.com/home)
 
-An independent generative artificial intelligence service focused on high-quality image synthesis, founded by David Holz and operated as a relatively small, self-funded research lab. Since its open beta launch in July 2022, Midjourney has established itself as the leading AI tool for artists, graphic designers, and creative professionals due to its unparalleled aesthetic quality, stylistic consistency, and unique "painterly" or highly detailed textures.&#x20;
+An independent generative artificial intelligence service focused on high-quality image synthesis, founded by David Holz and operated as a relatively small, self-funded research lab. Since its open beta launch in July 2022, Midjourney has established itself as the leading AI tool for artists, graphic designers, and creative professionals due to its unparalleled aesthetic quality, stylistic consistency, and unique "painterly" or highly detailed textures.
 
 Unlike competitors that often generate photorealistic imagery, Midjourney is famous for its distinctive, artistic interpretation of user prompts. Midjourney v7.2, includes advanced features for character consistency, style referencing across multiple images, the ability to generate short moving paintings or cinematic clips from still output, and sophisticated composition controls like panning and zooming.
 
@@ -56,9 +64,9 @@ While it originally operated almost exclusively through a Discord interface, the
 
 #### [Meta (Llama)](https://www.meta.ai/)
 
-Meta AI, led by Mark Zuckerberg, is uniquely defined by its commitment to the "open-weights" movement, making its foundational Llama models available for public download and independent hosting. While competitors like OpenAI and Google keep their most advanced technology behind proprietary walls, Meta's strategy has turned Llama into the industry standard for developers and businesses who require full control, privacy, and customisation of their AI.&#x20;
+Meta AI, led by Mark Zuckerberg, is uniquely defined by its commitment to the "open-weights" movement, making its foundational Llama models available for public download and independent hosting. While competitors like OpenAI and Google keep their most advanced technology behind proprietary walls, Meta's strategy has turned Llama into the industry standard for developers and businesses who require full control, privacy, and customisation of their AI.
 
-The Llama 4 family, including the Maverick and Scout models, introduced a sophisticated "mixture-of-experts" architecture that delivers world-class reasoning and multimodal capabilities with incredible efficiency. These models power the Meta AI assistant across Facebook, Instagram, and WhatsApp, which has become one of the most widely used AI tools globally.&#x20;
+The Llama 4 family, including the Maverick and Scout models, introduced a sophisticated "mixture-of-experts" architecture that delivers world-class reasoning and multimodal capabilities with incredible efficiency. These models power the Meta AI assistant across Facebook, Instagram, and WhatsApp, which has become one of the most widely used AI tools globally.
 
 Recently, Meta has pivoted toward "personal superintelligence," focusing on agentic systems that can perform complex, multi-step tasks across its ecosystem of apps. Meta is integrating Llama's intelligence into wearable hardware like the Ray-Ban Meta glasses and its Quest mixed-reality headsets to create seamless AI assistance in the physical world.
 
@@ -72,25 +80,25 @@ Their sophisticated multimodal assistant, [Le Chat](https://chat.mistral.ai/chat
 
 #### [DeepSeek](https://www.deepseek.com/en/)
 
-A disruptive Chinese AI powerhouse founded in 2023 by Liang Wenfeng, a quantitative hedge fund entrepreneur. DeepSeek has gained global fame for its radical architectural efficiency, proving that frontier-level intelligence can be achieved with a fraction of the budget and computing power used by Silicon Valley giants.&#x20;
+A disruptive Chinese AI powerhouse founded in 2023 by Liang Wenfeng, a quantitative hedge fund entrepreneur. DeepSeek has gained global fame for its radical architectural efficiency, proving that frontier-level intelligence can be achieved with a fraction of the budget and computing power used by Silicon Valley giants.
 
-It is particularly celebrated in the developer and research communities for its "open-weight" approach, allowing users to download and run its models locally. The DeepSeek-V4 and R2 Pro models, are world-class in "reasoning" tasks, frequently matching or outperforming GPT-5 and Claude in complex mathematics, logic, and software engineering.&#x20;
+It is particularly celebrated in the developer and research communities for its "open-weight" approach, allowing users to download and run its models locally. The DeepSeek-V4 and R2 Pro models, are world-class in "reasoning" tasks, frequently matching or outperforming GPT-5 and Claude in complex mathematics, logic, and software engineering.
 
 While it may lack some of the creative flair or multimodal features of its competitors, it is often the preferred engine for high-volume technical workloads and backend AI agents due to its extreme cost-effectiveness and speed.
 
 #### [Firefly (Adobe)](https://www.adobe.com/ie/products/firefly/landpa.html)
 
-A comprehensive suite of generative AI tools developed by Adobe under the leadership of CEO Shantanu Narayen and Chief Strategy Officer Scott Belsky. Unlike many competitors, Firefly is uniquely distinguished by its "commercially safe" training data, which focuses on Adobe Stock images, openly licensed content, and public domain material, ensuring that creators and enterprises can use generated assets without legal copyright concerns.&#x20;
+A comprehensive suite of generative AI tools developed by Adobe under the leadership of CEO Shantanu Narayen and Chief Strategy Officer Scott Belsky. Unlike many competitors, Firefly is uniquely distinguished by its "commercially safe" training data, which focuses on Adobe Stock images, openly licensed content, and public domain material, ensuring that creators and enterprises can use generated assets without legal copyright concerns.
 
-It is deeply integrated into the Creative Cloud ecosystem, powering popular features like Generative Fill in Photoshop and Text to Vector in Illustrator. Recently, the platform has expanded significantly beyond static images with the [Firefly Video Model](https://www.adobe.com/products/firefly/features/ai-video-generator.html), which allows for high-fidelity video generation and "generative extend" features in Premiere Pro.&#x20;
+It is deeply integrated into the Creative Cloud ecosystem, powering popular features like Generative Fill in Photoshop and Text to Vector in Illustrator. Recently, the platform has expanded significantly beyond static images with the [Firefly Video Model](https://www.adobe.com/products/firefly/features/ai-video-generator.html), which allows for high-fidelity video generation and "generative extend" features in Premiere Pro.
 
 Firefly Image Model 4 Ultra, provides industry-leading photorealism and precise control through "Structure" and "Style" reference tools. Uniquely, Adobe has adopted an "open ecosystem" approach, allowing users within Firefly to also access partner models like Google's Gemini Nano or OpenAI's Sora, positioning it as a professional hub for creative AI rather than just a standalone model.
 
 #### [Runway](https://runwayml.com/)
 
-A leading AI video research company co-founded in 2018 by Cristóbal Valenzuela, Alejandro Matamala, and Anastasis Germanidis. Originally a tool for simple video masking, it has evolved into a professional-grade creative suite that defined the "Gen-1" to "Gen-4" eras of AI cinema. The Gen-4 series, is famous for its "General World Models" which simulate realistic physics, lighting, and object permanence with incredible precision.&#x20;
+A leading AI video research company co-founded in 2018 by Cristóbal Valenzuela, Alejandro Matamala, and Anastasis Germanidis. Originally a tool for simple video masking, it has evolved into a professional-grade creative suite that defined the "Gen-1" to "Gen-4" eras of AI cinema. The Gen-4 series, is famous for its "General World Models" which simulate realistic physics, lighting, and object permanence with incredible precision.
 
-Runway is highly regarded by filmmakers for its granular controls, such as Motion Brush, which allows users to paint specific areas of an image to animate them, and its comprehensive "Video-to-Video" features that restyle existing footage while keeping original movements intact.&#x20;
+Runway is highly regarded by filmmakers for its granular controls, such as Motion Brush, which allows users to paint specific areas of an image to animate them, and its comprehensive "Video-to-Video" features that restyle existing footage while keeping original movements intact.
 
 It remains the standard for high-end production, offering native audio generation and multi-shot editing tools that allow creators to build complex, consistent cinematic sequences entirely within a browser.
 
@@ -164,6 +172,20 @@ Unlike many AI builders that only handle the frontend, Bolt is capable of settin
 
 #### [Lovable](https://lovable.dev/)
 
-A specialist "vibe coding" platform designed to help non-technical founders and product teams build and deploy full-stack web applications through natural language. While it shares some similarities with Bolt, Lovable focuses more on the "end-to-end" product journey, offering a highly polished chat interface that guides users through planning, database schema design, and deployment.&#x20;
+A specialist "vibe coding" platform designed to help non-technical founders and product teams build and deploy full-stack web applications through natural language. While it shares some similarities with Bolt, Lovable focuses more on the "end-to-end" product journey, offering a highly polished chat interface that guides users through planning, database schema design, and deployment.
 
 Its "Agent Mode" can autonomously browse the web for documentation or debug complex errors without human intervention. Lovable is deeply integrated with Supabase for data and GitHub for version control, ensuring that even though the app was built with AI, the user maintains full "code ownership" and can export the project to a professional development team at any time. It is widely considered the fastest way to go from a blank page to a revenue-generating MVP with integrated payments via Stripe.
+
+#### [OpenClaw](https://openclaw.ai/)
+
+OpenClaw is an open-source AI agent framework for orchestrating large language models and tools, including powerful browser automation capabilities for complex web workflows. It is self-hosted and model‑agnostic, giving teams control over infrastructure, data privacy, and provider choice while integrating with existing developer workflows and messaging interfaces.
+
+OpenClaw agents can operate a dedicated, managed browser profile via the Chrome DevTools Protocol, enabling multi‑step, multi‑tab tasks such as automated QA flows, data collection from JavaScript‑heavy sites, and deployment operations triggered from chat. The platform logs agent context and tool usage for inspection, and its architecture combines LLM‑driven reasoning with external tools and scripts to improve reliability compared with brittle, selector‑based web scrapers.
+
+<details>
+
+<summary>Video: "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger" by Lex Fridman</summary>
+
+{% embed url="https://www.youtube.com/watch?v=YFjfBk8HI5o" %}
+
+</details>
