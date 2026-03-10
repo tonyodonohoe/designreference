@@ -247,6 +247,7 @@
   * [Leadership Styles](leadership/leadership-foundations/leadership-styles.md)
 * [Managing People](leadership/managing-people/README.md)
   * [Culture](leadership/managing-people/culture.md)
+  * [Capacity Planning](leadership/managing-people/capacity-planning.md)
   * [Employee Exits](leadership/managing-people/employee-exits.md)
   * [Feedback](leadership/managing-people/feedback.md)
   * [Hiring](leadership/managing-people/hiring.md)
