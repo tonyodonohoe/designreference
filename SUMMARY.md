@@ -175,6 +175,7 @@
     * [Halo Effect](cognitive-tools/ux-laws-principles/psychology/halo-effect.md)
     * [Miller's Law](cognitive-tools/ux-laws-principles/psychology/millers-law.md)
     * [Paradox of the Active User](cognitive-tools/ux-laws-principles/psychology/paradox-of-the-active-user.md)
+    * [Persuasive Design](cognitive-tools/ux-laws-principles/psychology/persuasive-design.md)
     * [Serial Position Effect](cognitive-tools/ux-laws-principles/psychology/serial-position-effect.md)
     * [Von Restorff Effect](cognitive-tools/ux-laws-principles/psychology/von-restorff-effect.md)
     * [Yerkes-Dodson Law](cognitive-tools/ux-laws-principles/psychology/yerkes-dodson-law.md)
