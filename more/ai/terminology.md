@@ -117,6 +117,11 @@ The maximum amount of text or data a model can process and "remember" at any one
 
 
 
+[**Continuous Intelligence (CI)**](https://www.techtarget.com/searchbusinessanalytics/definition/continuous-intelligence)\
+A data analysis process that delivers real-time analytics and insights as a part of ongoing business operations.
+
+
+
 [**Country of Geniuses**](https://www.darioamodei.com/essay/the-adolescence-of-technology)
 
 "Country of geniuses" often refers to a 2026 prediction by Anthropic CEO Dario Amodei regarding AI, where he envisions a "country of geniuses in a datacenter", a collection of millions of AI agents with the capabilities of top human experts. This concept suggests a future with superhuman AI agents outperforming humans in most cognitive tasks by 2027.
