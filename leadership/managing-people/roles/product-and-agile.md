@@ -10,6 +10,8 @@ Focuses on managing the product backlog, working closely with the development te
 
 {% embed url="https://medium.com/design-bootcamp/five-ways-bad-product-owners-screw-up-scrum-teams-953e965405ea" %}
 
+{% embed url="https://huryn.medium.com/product-owner-is-not-a-job-title-stop-pretending-it-is-c5682e027e3b" %}
+
 {% embed url="https://david-theil.medium.com/how-to-grow-your-product-management-skills-as-a-product-owner-d4dc241f4d3f" %}
 
 {% embed url="https://levelup.gitconnected.com/5-habits-of-highly-ineffective-product-owners-f3f288029be8" %}
