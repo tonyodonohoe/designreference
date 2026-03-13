@@ -133,6 +133,11 @@ The principle that digital data is subject to the laws and governance structures
 
 
 
+[**Deep Blue**](https://kotrotsos.medium.com/developers-now-have-a-name-for-what-they-are-feeling-f9fbcb2addd6)\
+A term coined by Simon Willison and Adam Leventhal to describe the psychological ennui and existential dread that software developers are experiencing as AI increasingly automates their craft.
+
+
+
 [**Deep Learning**](https://www.ibm.com/think/topics/deep-learning)\
 A subset of machine learning based on artificial neural networks with multiple layers that enables a system to automatically find patterns and features in complex data such as images, sound, and text.
 
