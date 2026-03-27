@@ -89,6 +89,8 @@ This approach is valuable for development as it offers a comprehensive view of a
 
 {% embed url="https://www.interaction-design.org/literature/article/how-to-reframe-negative-feedback-without-losing-confidence-in-yourself" %}
 
+{% embed url="https://daniel-stillman.medium.com/can-i-give-you-some-feedback-on-your-feedback-86c4b5da20f7" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/feedback-47121757" %}

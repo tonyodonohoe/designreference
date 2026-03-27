@@ -84,3 +84,5 @@ Because "Prioritisation Matrix" is a broad category, you should select the speci
 {% embed url="https://www.productplan.com/glossary/value-vs-complexity/" %}
 
 {% embed url="https://productfolio.com/value-vs-complexity/" %}
+
+{% embed url="https://medium.com/the-good-boss/the-impact-effort-matrix-how-to-prioritize-work-when-everything-feels-urgent-10fe9da6b77f" %}
