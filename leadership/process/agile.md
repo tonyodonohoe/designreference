@@ -345,6 +345,8 @@ Communication and Collaboration Tools:
 
 {% embed url="https://davidavpereira.medium.com/agile-is-dead-so-what-why-you-shouldnt-fall-prey-to-agile-dogma-1e7e9fbef5a3" %}
 
+{% embed url="https://medium.com/@brian_carpizo/agile-is-dead-ai-killed-it-welcome-back-waterfall-e41bfabdd408" %}
+
 #### Curated Library
 
 {% embed url="https://raindrop.io/TonyODonohoe/agile-49332436" %}
