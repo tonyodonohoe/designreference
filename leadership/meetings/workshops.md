@@ -42,6 +42,10 @@
     2. Project Retrospectives
     3. User Feedback Synthesis
 
+#### Further Reading
+
+{% embed url="https://uxdesign.cc/the-old-design-workshop-is-dead-long-live-design-workshops-98f4ee58d9a7" %}
+
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=UMY7Y5yz5CA" %}
