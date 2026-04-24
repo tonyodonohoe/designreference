@@ -312,6 +312,11 @@ A process that involves adding a small, trainable sequence of continuous vectors
 
 
 
+**The ReAct Loop**\
+A method where an AI thinks out loud to plan a step and then carries out an action to get new information. It repeats this cycle of thinking and doing until it finds the right answer or completes the task.
+
+
+
 [**Red Teaming**](https://www.ibm.com/think/topics/red-teaming)\
 The practice of rigorously testing an AI system by simulating adversarial attacks to identify vulnerabilities, biases, or safety flaws.
 
