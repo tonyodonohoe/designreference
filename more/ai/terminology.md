@@ -317,6 +317,11 @@ A method where an AI thinks out loud to plan a step and then carries out an acti
 
 
 
+**Reactive vs Heartbeat AI Agents**\
+A reactive agent operates only when a human provides a command and stops once the task is complete. In contrast, a heartbeat agent is self-starting, waking up at regular intervals to check its own progress and decide on its next move without any external prompt.
+
+
+
 [**Red Teaming**](https://www.ibm.com/think/topics/red-teaming)\
 The practice of rigorously testing an AI system by simulating adversarial attacks to identify vulnerabilities, biases, or safety flaws.
 
