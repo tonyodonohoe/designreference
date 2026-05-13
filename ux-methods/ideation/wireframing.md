@@ -10,6 +10,8 @@ In a professional setting, wireframes act as a bridge between the initial abstra
 
 {% embed url="https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/" %}
 
+{% embed url="https://nurxmedov.medium.com/why-the-best-designers-always-hated-wireframing-and-ai-just-proved-them-right-5675bd1faebb" %}
+
 #### Further Viewing
 
 {% embed url="https://www.youtube.com/watch?v=miVcrftnhzM" %}
